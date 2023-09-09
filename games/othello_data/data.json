@@ -1,0 +1,160 @@
+{
+    "turn": 1,
+    "games_won": [
+        0,
+        0,
+        0
+    ],
+    "leaderboard": {
+        "BenjaminHalko": 15
+    },
+    "history": [
+        [
+            "\ud83d\udd35 E1",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 B6",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 F5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 D1",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 B5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 E6",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 D2",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 E2",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 C6",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 C3",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 F3",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 E5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 D5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 C5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udd35 C4",
+            "BenjaminHalko"
+        ]
+    ],
+    "game_times": [],
+    "game_moves": [],
+    "game_start_time": 1689619355.4613087,
+    "board": [
+        [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            -1,
+            1,
+            0,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            -1,
+            1,
+            0,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            1,
+            1,
+            0,
+            0,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            0,
+            1,
+            0,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            1,
+            0,
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    ],
+    "average_blue": [],
+    "average_green": []
+}
