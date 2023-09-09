@@ -8,7 +8,6 @@
 
 <p align="center"><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=neealdon3&show_icons=true&locale=en&layout=compact" alt="neealdon3" /></p>
 <p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
