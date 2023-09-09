@@ -9,8 +9,9 @@
 <p align="center"><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=neealdon3&show_icons=true&locale=en&layout=compact" alt="neealdon3" /></p>
 <p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
 
+<p align="center">
 <img align="center" src="/github-metrics.svg">
-
+</p>
 
 
 <!--START_SECTION:activity-->
