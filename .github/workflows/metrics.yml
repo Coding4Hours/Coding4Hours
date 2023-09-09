@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
+          committer_branch: master
+          committer_message: "chore: update master"
