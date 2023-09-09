@@ -7,7 +7,7 @@
 <p></p>
 
 <!--START_SECTION:activity-->
-
+1. ❗ Opened issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
 
 
 
