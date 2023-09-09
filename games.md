@@ -15,39 +15,6 @@
 | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="red" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
-
-<details align="left"><summary><h3>History of moves for this game</h3></summary>
-
-| Move | User |
-| :-: | :-: |
-| 🟡 Column 4 | [ @oSumAtrIX](https://github.com/oSumAtrIX) |
-| 🔴 Column 4 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟡 Column 3 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔴 Column 4 | [ @neealdon3](https://github.com/neealdon3) |
-
-</details>
-
-<details align="left"><summary><h3>Top 10 most active players</h3></summary>
-
-| Moves | User |
-| :-: | :-: |
-| 29 | [ @neealdon3](https://github.com/neealdon3) |
-| 1 | [ @lluminate](https://github.com/lluminate) |
-| 1 | [ @PHANTOMGOD2OP](https://github.com/PHANTOMGOD2OP) |
-| 1 | [ @oSumAtrIX](https://github.com/oSumAtrIX) |
-
-</details>
-
-<details align="left"><summary><h3>Stats</h3></summary>
-
-| Stat | Value |
-| :-: | :-: |
-| Red Wins | 1 |
-| blank Wins | 1 |
-| Average Time per Game | 6 Days, 9 Hours, 47 Minutes, 56 Seconds |
-| Average Moves per Game | 13.5 |
-
-</details>
 </td></tr>
 </table>
 </details>
@@ -71,44 +38,6 @@
 | 7 | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/neealdon3/neealdon3/issues/new?title=Othello:+C7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/neealdon3/neealdon3/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/neealdon3/neealdon3/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
 
-<details align="left"><summary><h3>History of moves for this game</h3></summary>
-
-| Move | User |
-| :-: | :-: |
-| 🔵 E1 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 B6 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 F5 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 D1 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 B5 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 E6 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 D2 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 E2 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 C6 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 C3 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 F3 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 E5 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 D5 | [ @neealdon3](https://github.com/neealdon3) |
-| 🟢 C5 | [ @neealdon3](https://github.com/neealdon3) |
-| 🔵 C4 | [ @neealdon3](https://github.com/neealdon3) |
-
-</details>
-
-<details align="left"><summary><h3>Top 10 most active players</h3></summary>
-
-| Moves | User |
-| :-: | :-: |
-| 15 | [ @neealdon3](https://github.com/neealdon3) |
-
-</details>
-
-<details align="left"><summary><h3>Stats</h3></summary>
-
-| Stat | Value |
-| :-: | :-: |
-| Blue Wins | 0 |
-| Green Wins | 0 |
-
-</details>
 </td></tr>
 </table>
 </details>
