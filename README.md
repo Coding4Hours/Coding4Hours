@@ -18,4 +18,4 @@
 <!--END_SECTION:activity-->
 
 
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg">
