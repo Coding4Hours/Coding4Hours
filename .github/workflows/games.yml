@@ -1,0 +1,64 @@
+name: Games
+on:
+    issues:
+        types: [opened]
+jobs:
+    Connect4:
+        runs-on: ubuntu-latest
+        if: startsWith(github.event.issue.title, 'Connect4:')
+        steps:
+            - name: Setting up environment
+              run: |
+                echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
+                echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
+                echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
+
+            - uses: actions/checkout@v3
+
+            - name: Set up Python 3.8
+              uses: actions/setup-python@v3
+              with:
+                python-version: 3.8
+
+            - name: Run Game
+              run: |
+                pip install PyGithub
+                python games/connect4.py
+                 
+            - name: Commit and push changes
+              run: |
+                git config --global user.name "github-actions[bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git add .
+                git commit -m "${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}"
+                git push
+    Othello:
+        runs-on: ubuntu-latest
+        if: startsWith(github.event.issue.title, 'Othello:')
+        steps:
+            - name: Setting up environment
+              run: |
+                echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
+                echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
+                echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
+
+            - uses: actions/checkout@v3
+
+            - name: Set up Python 3.8
+              uses: actions/setup-python@v3
+              with:
+                python-version: 3.8
+
+            - name: Run Game
+              run: |
+                pip install PyGithub
+                python games/othello.py
+                
+            - name: Commit and push changes
+              run: |
+                git config --global user.name "github-actions[bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git add .
+                git commit -m "${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}"
+                git push
+  
