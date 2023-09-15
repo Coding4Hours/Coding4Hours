@@ -12,9 +12,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Eternal-Network/Eternal-hub/issues/1) in [Eternal-Network/Eternal-hub](https://github.com/Eternal-Network/Eternal-hub)
-2. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
-4. 🗣 Commented on [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83#issuecomment-1718405459) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
-5. 💪 Opened PR [#8](https://github.com/Eternal-Network/Eternal-hub/pull/8) in [Eternal-Network/Eternal-hub](https://github.com/Eternal-Network/Eternal-hub)
+1. 🗣 Commented on [#1](https://github.com/Eternal-Network/unblocker-template/issues/1#issuecomment-1721865006) in [Eternal-Network/unblocker-template](https://github.com/Eternal-Network/unblocker-template)
+2. ❗ Opened issue [#1](https://github.com/Eternal-Network/Eternal-hub/issues/1) in [Eternal-Network/Eternal-hub](https://github.com/Eternal-Network/Eternal-hub)
+3. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
+5. 🗣 Commented on [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83#issuecomment-1718405459) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
 <!--END_SECTION:activity-->
