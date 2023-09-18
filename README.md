@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Eternal-Network/unblocker-template/issues/1#issuecomment-1721865006) in [Eternal-Network/unblocker-template](https://github.com/Eternal-Network/unblocker-template)
+1. 💪 Opened PR [#2](https://github.com/Skoolgq/skoolgq.github.io/pull/2) in [Skoolgq/skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io)
 2. ❗ Opened issue [#1](https://github.com/Eternal-Network/Eternal-hub/issues/1) in [Eternal-Network/Eternal-hub](https://github.com/Eternal-Network/Eternal-hub)
 3. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
