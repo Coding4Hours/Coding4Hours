@@ -12,8 +12,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Skoolgq/skoolgq.github.io/pull/2) in [Skoolgq/skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io)
-2. ❗ Opened issue [#1](https://github.com/Eternal-Network/Eternal-hub/issues/1) in [Eternal-Network/Eternal-hub](https://github.com/Eternal-Network/Eternal-hub)
+1. ❗ Opened issue [#46](https://github.com/NebulaServices/Dynamic/issues/46) in [NebulaServices/Dynamic](https://github.com/NebulaServices/Dynamic)
+2. 💪 Opened PR [#2](https://github.com/Skoolgq/skoolgq.github.io/pull/2) in [Skoolgq/skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io)
 3. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
 5. 🗣 Commented on [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83#issuecomment-1718405459) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
