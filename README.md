@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/SevenworksDev/tProxy/issues/8) in [SevenworksDev/tProxy](https://github.com/SevenworksDev/tProxy)
+1. ❗ Opened issue [#1](https://github.com/cognetwork-dev/Cog-Dispenser/issues/1) in [cognetwork-dev/Cog-Dispenser](https://github.com/cognetwork-dev/Cog-Dispenser)
 2. 💪 Opened PR [#2](https://github.com/Skoolgq/skoolgq.github.io/pull/2) in [Skoolgq/skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io)
 3. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
