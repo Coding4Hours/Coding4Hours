@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Skoolgq/skoolgq.github.io/pull/2) in [Skoolgq/skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io)
+1. 💪 Opened PR [#1](https://github.com/Hydrogen-Network/Hydrogen-Static/pull/1) in [Hydrogen-Network/Hydrogen-Static](https://github.com/Hydrogen-Network/Hydrogen-Static)
 2. 🗣 Commented on [#1](https://github.com/Hydrogen-Network/Hydrogen-hub/issues/1#issuecomment-1751420142) in [Hydrogen-Network/Hydrogen-hub](https://github.com/Hydrogen-Network/Hydrogen-hub)
 3. ❗ Opened issue [#33740](https://github.com/timburgan/timburgan/issues/33740) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. 🔒 Closed issue [#83](https://github.com/BenjaminHalko/BenjaminHalko/issues/83) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
