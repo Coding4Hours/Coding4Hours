@@ -101,14 +101,14 @@ if __name__ == "__main__":
         for i in range(8):
             link = f'COL {i}'
             if data["board"][i][0] == -1:
-                link = f'[COL {i}](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+{i}&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD)'
+                link = f'[COL {i}](https://github.com/neealdon3/neealdon3/issues/new?title=Connect4:+{i}&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD)'
             value += f'| {link} '
         value += '|\n' + '| :-: ' * 8 + '|\n'
 
         for j in range(6):
             value += '|'
             for i in range(8):
-                value += f' <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
+                value += f' <img src="https://github.com/neealdon3/neealdon3/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
             value += '\n'
 
         # Update stats
