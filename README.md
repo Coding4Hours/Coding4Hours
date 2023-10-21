@@ -4,7 +4,7 @@
 <p></p>
 <details><h1 align="center">Profile Games</h1></details>
 <!-- CONNECT4 -->
-<details align="center"><summary><h3>Connect 4</h3></summary>
+<details align="center"><summary><h3>Connect 4</h3></summary></details>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -44,7 +44,6 @@
 
 </td></tr>
 </table>
-</details>
 </details>
 
 <p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
