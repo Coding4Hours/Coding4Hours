@@ -165,9 +165,9 @@ def update_data(move, state):
         value += f'| {i} |'
         for j in range(8):
             if f'{i}-{j}' in movesAsStrings:
-                value += f" <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+j)}{i}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> |"
+                value += f" <a href='https://github.com/neealdon3/neealdon3/issues/new?title=Othello:+{chr(65+j)}{i}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/neealdon3/neealdon3/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> |"
             else:
-                value += f' <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
+                value += f' <img src="https://github.com/neealdon3/neealdon3/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
         value += '\n'
 
     # Update stats
@@ -191,7 +191,7 @@ def update_data(move, state):
         readmeMoves = '\n<details align="left"><summary><h3>Available Moves</h3></summary>\n<p align="left">\n'
         for i,move in enumerate(moves):
             if i != 0: readmeMoves += ", "
-            readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
+            readmeMoves += f"<a href='https://github.com/neealdon3/neealdon3/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
         readmeMoves += "</p>\n"
         readmeMoves += "</details>\n"
 
