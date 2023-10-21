@@ -4,7 +4,7 @@
 <p></p>
 <h1 align="center">Profile Games</h1>
 <!-- CONNECT4 -->
-<details align="center"><summary><h2>Connect 4</h2></summary>
+<details align="center"><summary><h3>Connect 4</h3></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -24,7 +24,7 @@
 </details>
 <!-- CONNECT4 -->
 <!-- OTHELLO -->
-<details align="center"><summary><h2>Othello</h2></summary>
+<details align="center"><summary><h3>Othello</h3></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
