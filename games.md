@@ -1,5 +1,5 @@
-<h1 align="center">Profile Games</h1>
-<!-- CONNECT4 -->
+<details align="center"><summary><h2>Profile Games</h2></summary>
+  <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary>
 <table align="center">
 <tr></tr>
@@ -40,4 +40,5 @@
 
 </td></tr>
 </table>
+</details>
 </details>
