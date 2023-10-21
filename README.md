@@ -44,7 +44,7 @@
 
 </td></tr>
 </table>
-</details>
+</details></details>
 
 <p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
 <details align="center"><summary><h3>Stats</h3></summary>
