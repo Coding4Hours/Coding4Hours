@@ -58,9 +58,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2](https://github.com/Hydrogen-Network/Hydrogen/releases/tag/v2) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
-2. 💪 Opened PR [#19](https://github.com/3v3ry0n3/3v3ry0n3.github.io/pull/19) in [3v3ry0n3/3v3ry0n3.github.io](https://github.com/3v3ry0n3/3v3ry0n3.github.io)
-3. ❌ Closed PR [#12](https://github.com/Hydrogen-Network/Hydrogen/pull/12) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+1. ❗ Opened issue [#14](https://github.com/Hydrogen-Network/Hydrogen/issues/14) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+2. 🚀 Published release [v2](https://github.com/Hydrogen-Network/Hydrogen/releases/tag/v2) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+3. 💪 Opened PR [#19](https://github.com/3v3ry0n3/3v3ry0n3.github.io/pull/19) in [3v3ry0n3/3v3ry0n3.github.io](https://github.com/3v3ry0n3/3v3ry0n3.github.io)
 4. ❌ Closed PR [#11](https://github.com/Hydrogen-Network/Hydrogen/pull/11) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
 5. ❌ Closed PR [#10](https://github.com/Hydrogen-Network/Hydrogen/pull/10) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
 <!--END_SECTION:activity-->
