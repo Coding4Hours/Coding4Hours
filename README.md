@@ -5,7 +5,9 @@
 
 <p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
 <details align="center"><summary><h2>Stats</h2></summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coding4Hours&show_icons=true&locale=en&layout=compact" alt="Coding4Hours" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coding4Hours&show_icons=true&locale=en&layout=compact" alt="Coding4Hours" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coding4Hours&show_icons=true&locale=en" alt="Coding4Hours" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coding4Hours&" alt="Coding4Hours" /></p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Coding4Hours" alt="Coding4Hours" /></a> </p>
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
