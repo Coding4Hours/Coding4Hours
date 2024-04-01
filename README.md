@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/localuser-isback/OperaGX-Free-Nitro-Generator/issues/2) in [localuser-isback/OperaGX-Free-Nitro-Generator](https://github.com/localuser-isback/OperaGX-Free-Nitro-Generator)
+1. ❗ Opened issue [#806](https://github.com/mrmojololo/blooket-admin-hack/issues/806) in [mrmojololo/blooket-admin-hack](https://github.com/mrmojololo/blooket-admin-hack)
 2. ❗ Opened issue [#17](https://github.com/Hydrogen-Network/Hydrogen/issues/17) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
 3. 🗣 Commented on [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6#issuecomment-1835209637) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 4. ❗ Opened issue [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
