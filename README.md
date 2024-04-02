@@ -60,8 +60,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#806](https://github.com/mrmojololo/blooket-admin-hack/issues/806) in [mrmojololo/blooket-admin-hack](https://github.com/mrmojololo/blooket-admin-hack)
-2. ❗ Opened issue [#17](https://github.com/Hydrogen-Network/Hydrogen/issues/17) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+1. 💪 Opened PR [#4](https://github.com/yeahbread/Ego-Menu-Bookmarklets/pull/4) in [yeahbread/Ego-Menu-Bookmarklets](https://github.com/yeahbread/Ego-Menu-Bookmarklets)
+2. ❗ Opened issue [#806](https://github.com/mrmojololo/blooket-admin-hack/issues/806) in [mrmojololo/blooket-admin-hack](https://github.com/mrmojololo/blooket-admin-hack)
 3. 🗣 Commented on [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6#issuecomment-1835209637) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 4. ❗ Opened issue [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 5. 🗣 Commented on [#16](https://github.com/Hydrogen-Network/Hydrogen/issues/16#issuecomment-1826414332) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
