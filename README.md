@@ -60,8 +60,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Hydrogen-Network/docs/pull/1) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
-2. ❗ Opened issue [#806](https://github.com/mrmojololo/blooket-admin-hack/issues/806) in [mrmojololo/blooket-admin-hack](https://github.com/mrmojololo/blooket-admin-hack)
+1. ❌ Closed PR [#2](https://github.com/Hydrogen-Network/docs/pull/2) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
+2. 🎉 Merged PR [#1](https://github.com/Hydrogen-Network/docs/pull/1) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
 3. 🗣 Commented on [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6#issuecomment-1835209637) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 4. ❗ Opened issue [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 5. 🗣 Commented on [#16](https://github.com/Hydrogen-Network/Hydrogen/issues/16#issuecomment-1826414332) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
