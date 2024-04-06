@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/yeahbread/Ego-Menu-Bookmarklets/pull/4) in [yeahbread/Ego-Menu-Bookmarklets](https://github.com/yeahbread/Ego-Menu-Bookmarklets)
+1. 🎉 Merged PR [#1](https://github.com/Hydrogen-Network/docs/pull/1) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
 2. ❗ Opened issue [#806](https://github.com/mrmojololo/blooket-admin-hack/issues/806) in [mrmojololo/blooket-admin-hack](https://github.com/mrmojololo/blooket-admin-hack)
 3. 🗣 Commented on [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6#issuecomment-1835209637) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 4. ❗ Opened issue [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
