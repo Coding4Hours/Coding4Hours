@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Hydrogen-Network/docs/pull/2) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
+1. ❗ Opened issue [#2005](https://github.com/ajayyy/SponsorBlock/issues/2005) in [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 2. 🎉 Merged PR [#1](https://github.com/Hydrogen-Network/docs/pull/1) in [Hydrogen-Network/docs](https://github.com/Hydrogen-Network/docs)
 3. 🗣 Commented on [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6#issuecomment-1835209637) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
 4. ❗ Opened issue [#6](https://github.com/HXCHS/HackersX-Unblocked-Websites/issues/6) in [HXCHS/HackersX-Unblocked-Websites](https://github.com/HXCHS/HackersX-Unblocked-Websites)
