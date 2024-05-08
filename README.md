@@ -60,9 +60,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Coding4Hours/java-projects/pull/1) in [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects)
-2. 🎉 Merged PR [#1](https://github.com/Coding4Hours/Flappy-Bird/pull/1) in [Coding4Hours/Flappy-Bird](https://github.com/Coding4Hours/Flappy-Bird)
-3. 🗣 Commented on [#1](https://github.com/UltraN0va288/Cosmic/issues/1#issuecomment-2093860451) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
-4. ❗ Opened issue [#1](https://github.com/UltraN0va288/Cosmic/issues/1) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
-5. ❗ Opened issue [#2841](https://github.com/rossjrw/rossjrw/issues/2841) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. 🚀 Published release [v3](https://github.com/Hydrogen-Network/Hydrogen/releases/tag/v3) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+2. 🎉 Merged PR [#1](https://github.com/Coding4Hours/java-projects/pull/1) in [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects)
+3. 🎉 Merged PR [#1](https://github.com/Coding4Hours/Flappy-Bird/pull/1) in [Coding4Hours/Flappy-Bird](https://github.com/Coding4Hours/Flappy-Bird)
+4. 🗣 Commented on [#1](https://github.com/UltraN0va288/Cosmic/issues/1#issuecomment-2093860451) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
+5. ❗ Opened issue [#1](https://github.com/UltraN0va288/Cosmic/issues/1) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
 <!--END_SECTION:activity-->
