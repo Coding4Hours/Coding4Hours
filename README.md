@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3](https://github.com/Hydrogen-Network/Hydrogen/releases/tag/v3) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+1. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 2. 🎉 Merged PR [#1](https://github.com/Coding4Hours/java-projects/pull/1) in [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects)
 3. 🎉 Merged PR [#1](https://github.com/Coding4Hours/Flappy-Bird/pull/1) in [Coding4Hours/Flappy-Bird](https://github.com/Coding4Hours/Flappy-Bird)
 4. 🗣 Commented on [#1](https://github.com/UltraN0va288/Cosmic/issues/1#issuecomment-2093860451) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
