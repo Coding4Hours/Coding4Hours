@@ -60,9 +60,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Hydrogen-Network/Hydrogen/issues/16) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
-2. ❗ Opened issue [#1](https://github.com/NightProxy/Gloom/issues/1) in [NightProxy/Gloom](https://github.com/NightProxy/Gloom)
-3. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-4. 🗣 Commented on [#1](https://github.com/UltraN0va288/Cosmic/issues/1#issuecomment-2093860451) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
+1. 🗣 Commented on [#214](https://github.com/DDoSolitary/LxRunOffline/issues/214#issuecomment-2163900292) in [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)
+2. 🔒 Closed issue [#16](https://github.com/Hydrogen-Network/Hydrogen/issues/16) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
+3. ❗ Opened issue [#1](https://github.com/NightProxy/Gloom/issues/1) in [NightProxy/Gloom](https://github.com/NightProxy/Gloom)
+4. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 5. ❗ Opened issue [#1](https://github.com/UltraN0va288/Cosmic/issues/1) in [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic)
 <!--END_SECTION:activity-->
