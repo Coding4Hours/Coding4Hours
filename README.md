@@ -60,8 +60,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#369](https://github.com/ClearURLs/Addon/issues/369) in [ClearURLs/Addon](https://github.com/ClearURLs/Addon)
-2. 🗣 Commented on [#214](https://github.com/DDoSolitary/LxRunOffline/issues/214#issuecomment-2163900292) in [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)
+1. ❗ Opened issue [#26](https://github.com/As90909w/Coding-for-web-development/issues/26) in [As90909w/Coding-for-web-development](https://github.com/As90909w/Coding-for-web-development)
+2. ❗ Opened issue [#369](https://github.com/ClearURLs/Addon/issues/369) in [ClearURLs/Addon](https://github.com/ClearURLs/Addon)
 3. 🔒 Closed issue [#16](https://github.com/Hydrogen-Network/Hydrogen/issues/16) in [Hydrogen-Network/Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
 4. ❗ Opened issue [#1](https://github.com/NightProxy/Gloom/issues/1) in [NightProxy/Gloom](https://github.com/NightProxy/Gloom)
 5. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
