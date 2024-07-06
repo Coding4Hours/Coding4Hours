@@ -17,5 +17,5 @@ function generateProgressBar() {
 
 const readmeContent = fs.readFileSync(`./README.md`, "utf-8").split("\n")
 readmeContent[1] = readmeContent[1].replace("date start", `⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %`)
-const readme = readme.join("\n")
+const readme = readmeContent.join("\n")
 console.log(readme)
