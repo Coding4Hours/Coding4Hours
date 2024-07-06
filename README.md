@@ -78,9 +78,9 @@ credits to not me
 ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/swyxio/swyxio/issues/27#issuecomment-2211626220) in [swyxio/swyxio](https://github.com/swyxio/swyxio)
-2. 🗣 Commented on [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757#issuecomment-2211610758) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-3. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. ❗ Opened issue [#26](https://github.com/As90909w/Coding-for-web-development/issues/26) in [As90909w/Coding-for-web-development](https://github.com/As90909w/Coding-for-web-development)
-5. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+1. ❗ Opened issue [#2349](https://github.com/JessicaLim8/JessicaLim8/issues/2349) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+2. ❗ Opened issue [#141](https://github.com/gautamkrishnar/nothing-private/issues/141) in [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private)
+3. 🗣 Commented on [#27](https://github.com/swyxio/swyxio/issues/27#issuecomment-2211626220) in [swyxio/swyxio](https://github.com/swyxio/swyxio)
+4. 🗣 Commented on [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757#issuecomment-2211610758) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
