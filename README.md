@@ -148,6 +148,11 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 </details>
 
 <details align="center"><summary><h2>Profile Games</h2></summary>
