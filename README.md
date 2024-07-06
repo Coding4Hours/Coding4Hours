@@ -13,9 +13,126 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt="dotnet" />
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="electron" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" />
+  </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white" alt="gatsby" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" />
+  </a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" alt="mariadb" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="mssql" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="nuxtjs" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="photoshop" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="postgresql" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="postman" />
+  </a>
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white" alt="puppeteer" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="pytorch" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="react" />
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="selenium" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" />
+  </a>
+  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" />
+  </a>
+  <a href="https://zapier.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
+  </a>
+</p>
+<!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details align="center"><summary><h2>Stats</h2></summary>
 <p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding4hours&show_icons=true&locale=en&layout=compact" alt="coding4hours" /></p>
 
@@ -70,17 +187,17 @@ credits to not me
 | 6 | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+A6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/green.svg" alt="green" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/blue.svg" alt="blue" width="50px"> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+D6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/green.svg" alt="green" width="50px"> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+F6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+G6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 | 7 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+C7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
-
-
 </td></tr>
 </table>
 </details>
 </details>
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:activity-->
+
 1. ❗ Opened issue [#2349](https://github.com/JessicaLim8/JessicaLim8/issues/2349) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 2. ❗ Opened issue [#141](https://github.com/gautamkrishnar/nothing-private/issues/141) in [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private)
 3. 🗣 Commented on [#27](https://github.com/swyxio/swyxio/issues/27#issuecomment-2211626220) in [swyxio/swyxio](https://github.com/swyxio/swyxio)
