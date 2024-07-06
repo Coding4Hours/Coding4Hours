@@ -20,7 +20,8 @@
 <tr></tr>
 <tr><td>
 <p align="center"><b>A game of Connect 4 played on GitHub.</b><br>🔴 Click on a column to make a move. It is currently Red's turn. 🔴</p><p>
-
+Credits to not me
+  
 | [COL 0](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 1](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+1&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 2](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+2&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 3](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 4](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+4&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 5](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 6](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 7](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
@@ -40,7 +41,8 @@
 <tr></tr>
 <tr><td>
 <p align="center"><b>A game of Othello played on GitHub.</b><br>Click on a white dot to make your move.<br>Blue has 11 pieces. Green has 8 pieces.<br>🟢 It is currently Green's turn. 🟢</p><p>
-
+credits to not me
+  
 |  | A | B | C | D | E | F | G | H |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+E0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+F0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
@@ -53,11 +55,15 @@
 | 7 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+C7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
 
+
 </td></tr>
 </table>
 </details>
 </details>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thinker18624&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
