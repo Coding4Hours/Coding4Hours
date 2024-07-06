@@ -134,14 +134,7 @@
 </p>
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details align="center"><summary><h2>Stats</h2></summary>
-<p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding4hours&show_icons=true&locale=en&layout=compact" alt="coding4hours" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding4hours&show_icons=true&locale=en" alt="coding4hours" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4hours&" alt="coding4hours" /></p>
-<p></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Coding4Hours" alt="Coding4Hours" /></a> </p>
-  <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+<img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
   ### 🔝 Top Contributed Repo
   ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -149,16 +142,9 @@
 <img align="center" src="/github-metrics.svg">
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 </details>
+
+
 
 <details align="center"><summary><h2>Profile Games</h2></summary>
   <!-- CONNECT4 -->
@@ -206,6 +192,13 @@ credits to not me
 </details>
 </details>
 
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#2349](https://github.com/JessicaLim8/JessicaLim8/issues/2349) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
