@@ -34,3 +34,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding4hours&show_icons=true&locale=en" alt="coding4hours" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4hours&" alt="coding4hours" /></p>
+
+
+
+
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt="dotnet" />
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="electron" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" />
+  </a>
