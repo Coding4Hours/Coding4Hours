@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **nah**
 
-- 📄 Know about my experiences [please don't](please don't)
-
 - ⚡ Fun fact **Im dumb**
 
 <h3 align="left">Connect with me:</h3>
