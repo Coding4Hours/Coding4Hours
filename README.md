@@ -78,9 +78,9 @@ credits to not me
 ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757#issuecomment-2211610758) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-2. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. ❗ Opened issue [#26](https://github.com/As90909w/Coding-for-web-development/issues/26) in [As90909w/Coding-for-web-development](https://github.com/As90909w/Coding-for-web-development)
-4. ❗ Opened issue [#1](https://github.com/NightProxy/Gloom/issues/1) in [NightProxy/Gloom](https://github.com/NightProxy/Gloom)
+1. 🗣 Commented on [#27](https://github.com/swyxio/swyxio/issues/27#issuecomment-2211626220) in [swyxio/swyxio](https://github.com/swyxio/swyxio)
+2. 🗣 Commented on [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757#issuecomment-2211610758) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+3. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. ❗ Opened issue [#26](https://github.com/As90909w/Coding-for-web-development/issues/26) in [As90909w/Coding-for-web-development](https://github.com/As90909w/Coding-for-web-development)
 5. ❗ Opened issue [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 <!--END_SECTION:activity-->
