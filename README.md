@@ -1,3 +1,6 @@
+<center>
+  date start
+</center>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=Hi%2C+I'm+Coding4Hours%F0%9F%91%8B;I'm+a+wannabe+hacker+and+coder.;I+love+IT.;Press+for+more+info!" alt="Typing SVG" /></a> </p>
 
@@ -73,7 +76,7 @@ credits to not me
 </details>
 </details>
 
-
+<div align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -84,3 +87,4 @@ credits to not me
 4. 🗣 Commented on [#1757](https://github.com/BetterDiscord/BetterDiscord/issues/1757#issuecomment-2211610758) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
+</div>
