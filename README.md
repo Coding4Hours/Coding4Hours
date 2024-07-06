@@ -1,6 +1,7 @@
 <div align = "center">
   ⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 51.29 %
 </div>
+<br>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=Hi%2C+I'm+Coding4Hours%F0%9F%91%8B;I'm+a+wannabe+hacker+and+coder.;I+love+IT.;Press+for+more+info!" alt="Typing SVG" /></a> </p>
 
