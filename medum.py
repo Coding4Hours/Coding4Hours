@@ -11,7 +11,7 @@ TOKEN = os.environ.get("GOD", "")
 
 GRAPHQL_SEARCH_QUERY = """
 query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:coding4hours sort:updated", after: AFTER) {
     pageInfo {
       hasNextPage
       endCursor
