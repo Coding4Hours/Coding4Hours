@@ -85,7 +85,7 @@ def fetch_latest_releases():
 
     for repo in repos:
         repo_name = repo['name']
-        if repo['releases']['nodes'] != 'No releases found':
+        if repo['releases']['nodes']:
             latest_release = repo['releases']['nodes'][0]
             latest_releases.append({
                 "repo": repo_name,
@@ -93,50 +93,6 @@ def fetch_latest_releases():
                 "published_at": latest_release['publishedAt'],
                 "url": latest_release['url']
             })
-        else:
-            latest_releases.append({
-                "repo": repo_name,
-                "release_name": "No releases found",
-                "published_at": None,
-                "url": None
-            })
-
-    return latest_releases
-
-def fetch_releases(oauth_token):
-    repos = []
-    releases = []
-    repo_names = set()
-    has_next_page = True
-    after_cursor = None
-
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
-        print()
-        print(json.dumps(data, indent=4))
-        repos = data['data']['user']['repositories']['nodes']
-        latest_releases = []
-
-        for repo in repos:
-            repo_name = repo['name']
-            if repo['releases']['nodes']:
-                latest_release = repo['releases']['nodes'][0]
-                latest_releases.append({
-                    "repo": repo_name,
-                    "release_name": latest_release['name'],
-                    "published_at": latest_release['publishedAt'],
-                    "url": latest_release['url']
-                })
-            else:
-                latest_releases.append({
-                    "repo": repo_name,
-                    "release_name": "No releases found",
-                    "published_at": None,
-                    "url": None
-                })
 
     return latest_releases
 
