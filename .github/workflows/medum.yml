@@ -33,9 +33,8 @@ jobs:
         python medum.py
         cat README.md
     - name: Commit and push if README changed
-      run: |-
-        git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
-        git diff --quiet || (git add README.md && git commit -m "Updated README")
-        git push
+      run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'neealdon3@gmail.com'
+          git commit -am "bot: update README.md automatically" || echo "No changes to commit"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
