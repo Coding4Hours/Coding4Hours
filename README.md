@@ -132,16 +132,7 @@
     <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
   </a>
 </p>
-<p align="center">
 
-<h3>On my blog</h3>
-
-<!-- blog starts -->
-* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
-<!-- blog ends -->
-More on [My blog](https://coding4hours.github.io)
-
-</p>
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details align="center"><summary><h2>Stats</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
@@ -200,6 +191,13 @@ credits to not me
 </table>
 </details>
 </details>
+
+<h3>On my blog</h3>
+
+<!-- blog starts -->
+* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
+<!-- blog ends -->
+More on [My blog](https://coding4hours.github.io)
 
 <!--START_SECTION:waka-->
 
