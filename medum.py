@@ -57,7 +57,6 @@ def fetch_blog_entries():
     ]
 
 
-releases = fetch_releases(TOKEN)
 root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
