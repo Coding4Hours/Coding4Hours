@@ -158,9 +158,9 @@ readme = root / "README.md"
 
 releases = fetch_latest_releases()
 print(releases)
-releases.sort(key=lambda r: r["published_at"], reverse=True)
+releases.sort(reverse=True)
 md = "\n".join(
-  ["* [{repo} {release}]({url}) - {published_at}".format(**release)
+  ["* [{repo} {release_name}]({url}) - {published_at}".format(**release)
    for release in releases[:5]]
 )
 readme_contents = readme.open().read()
