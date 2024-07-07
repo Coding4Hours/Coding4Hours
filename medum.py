@@ -5,6 +5,7 @@ import pathlib
 import os
 import json
 import requests
+import re
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
