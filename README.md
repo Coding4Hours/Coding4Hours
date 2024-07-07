@@ -141,7 +141,19 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
+<table><tr><td valign="top" width="50%">
+### Recent releases
 
+<!-- recent_releases starts -->
+<!-- recent_releases ends -->
+</td><td valign="top" width="50%">
+
+### On my blog
+<!-- blog starts -->
+<!-- blog ends -->
+More on [My blog](https://coding4hours.github.io)
+
+</table>
 </details>
 
 
