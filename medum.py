@@ -65,29 +65,28 @@ def fetch_releases(oauth_token):
         )
         print()
         print(json.dumps(data, indent=4))
-        print()
-        print(data['data'])
-        for repo in data["data"]["search"]["nodes"][0]:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                    }
-                )
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-    return releases
+        repos = data['data']['user']['repositories']['nodes']
+        latest_releases = []
+
+        for repo in repos:
+            repo_name = repo['name']
+            if repo['releases']['nodes']:
+                latest_release = repo['releases']['nodes'][0]
+                latest_releases.append({
+                    "repo": repo_name,
+                    "release_name": latest_release['name'],
+                    "published_at": latest_release['publishedAt'],
+                    "url": latest_release['url']
+                })
+            else:
+                latest_releases.append({
+                    "repo": repo_name,
+                    "release_name": "No releases found",
+                    "published_at": None,
+                    "url": None
+                })
+
+    return latest_releases
 
 
 def fetch_blog_entries():
