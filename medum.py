@@ -9,6 +9,7 @@ import requests
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("GOD", "")
+HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
 GRAPHQL_SEARCH_QUERY = """
 query {
