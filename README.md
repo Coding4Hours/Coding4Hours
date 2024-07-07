@@ -134,7 +134,8 @@
 </p>
 <p align="center">
 
-### On my blog
+<h3>On my blog</h3>
+
 <!-- blog starts -->
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
 <!-- blog ends -->
