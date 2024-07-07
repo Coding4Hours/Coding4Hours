@@ -4,6 +4,7 @@ import feedparser
 import pathlib
 import os
 import json
+import requests
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
