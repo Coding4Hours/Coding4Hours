@@ -146,6 +146,6 @@ entries = fetch_blog_entries()[:5]
 entries_md = "\n".join(
   ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
 )
-rewritten = replace_chunk(rewritten, "blog", entries_md)
+rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
 readme.open("w").write(rewritten)
