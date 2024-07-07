@@ -3,6 +3,7 @@ from python_graphql_client import GraphqlClient
 import feedparser
 import pathlib
 import os
+import json
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
