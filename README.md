@@ -141,6 +141,7 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
+<p align=center>
 <table><tr><td valign="top" width="50%">
 ### Recent releases
 
@@ -154,6 +155,7 @@
 More on [My blog](https://coding4hours.github.io)
 
 </table>
+</p>
 </details>
 
 
