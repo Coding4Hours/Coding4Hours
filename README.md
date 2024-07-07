@@ -141,22 +141,6 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
-<table align="center"><tr><td valign="top" width="50%">
-  
-### Recent releases
-
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
-</td><td valign="top" width="50%">
-
-### On my blog
-<!-- blog starts -->
-* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
-<!-- blog ends -->
-More on [My blog](https://coding4hours.github.io)
-</td>
-</table>
 </details>
 
 
