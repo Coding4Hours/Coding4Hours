@@ -195,6 +195,7 @@ credits to not me
 <h3>On my blog</h3>
 
 <!-- blog starts -->
+* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
 <!-- blog ends -->
 More on [My blog](https://coding4hours.github.io)
