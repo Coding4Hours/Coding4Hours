@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Mermaid](#mermaid)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -26,6 +27,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -99,6 +101,11 @@
 
 ## HTML 
 
+- [lifeparticle/HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet) - HTML-Cheatsheet
+- [github/actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) - A cheat sheet for GitHub Actions
+- [chrisrhymes/mere-blog-theme](https://github.com/chrisrhymes/mere-blog-theme) - Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages.
+- [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
+- [jatin2003/notion](https://github.com/jatin2003/notion) - 
 - [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - 
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
@@ -190,6 +197,7 @@
 
 ## Java 
 
+- [ub66159/carRental](https://github.com/ub66159/carRental) - A CarRental Prototype for multiple reservations
 - [eclipse-ee4j/angus-mail](https://github.com/eclipse-ee4j/angus-mail) - Angus Mail
 - [jakartaee/mail-api](https://github.com/jakartaee/mail-api) - Jakarta Mail Specification project
 - [javaee/javamail](https://github.com/javaee/javamail) - JavaMail API Reference Implementation
@@ -216,6 +224,15 @@
 
 ## JavaScript 
 
+- [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica) - 
+- [lifeparticle/JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet) - 🖥 Cheatsheet for JavaScript
+- [ub66159/hello-world](https://github.com/ub66159/hello-world) - 
+- [ub66159/Portfolio](https://github.com/ub66159/Portfolio) - This is Git Portfolio
+- [Scripped/2048-Hack-Script](https://github.com/Scripped/2048-Hack-Script) - Hey! I made a 2048 script that can help you win every single time - OP Scr1pp3d
+- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [jatin2003/Web-Dev-For-Beginners](https://github.com/jatin2003/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
+- [RaoHai/RaoHai](https://github.com/RaoHai/RaoHai) - https://github.githubassets.com/images/mona-whisper.gif
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 7 forks.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -350,7 +367,7 @@
 - [snyk-labs/nodejs-goof](https://github.com/snyk-labs/nodejs-goof) - Super vulnerable todo list application
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [itzjustZJ123/GPortal](https://github.com/itzjustZJ123/GPortal) - GPortals!!!!!!!
-- [nettleweb/whitespider](https://github.com/nettleweb/whitespider) - 2000+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
+- [nettleweb/nettleweb](https://github.com/nettleweb/nettleweb) - 2000+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [titaniumnetwork-dev/Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous) - The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
 - [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
@@ -373,6 +390,7 @@
 
 ## Jupyter Notebook 
 
+- [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet) - The missing Cheatsheet for Python
 - [ksemiya/password_solver](https://github.com/ksemiya/password_solver) - Speedrun Neal's Password Game
 - [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
 - [EdwinZhang1970/Python](https://github.com/EdwinZhang1970/Python) - Source code about Python Development
@@ -381,12 +399,34 @@
 
 - [cytopia/docker-dvwa](https://github.com/cytopia/docker-dvwa) - Docker Compose setup for DVWA with all available PHP versions
 
+## Mermaid 
+
+- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖 The Ultimate Markdown Cheat Sheet
+
 ## Nim 
 
 - [JohnHammond/binnim](https://github.com/JohnHammond/binnim) - Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.
 
 ## Others 
 
+- [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
+- [lifeparticle/Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime) - 
+- [lifeparticle/Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode) - Cosmic-vscode
+- [lifeparticle/Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal) - 
+- [lifeparticle/Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) - 🖥 Desk Setups for Programmers
+- [lifeparticle/CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet) - 
+- [lifeparticle/Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet) - Java-Cheatsheet
+- [lifeparticle/Database-Cheatsheet](https://github.com/lifeparticle/Database-Cheatsheet) - Database-Cheatsheet
+- [lifeparticle/GitHub-Actions-Cheatsheet](https://github.com/lifeparticle/GitHub-Actions-Cheatsheet) - GitHub Actions Cheatsheet
+- [lifeparticle/GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet) - GitHub-Cheatsheet
+- [lifeparticle/JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet) - JSON-Cheatsheet
+- [lifeparticle/Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet) - Git Helper
+- [lifeparticle/Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet) - Terminal-Commands-Cheatsheet
+- [lifeparticle/LaTeX-Cheatsheet](https://github.com/lifeparticle/LaTeX-Cheatsheet) - LaTeX-Cheatsheet
+- [Coding4Hours/coding4hours.github.io](https://github.com/Coding4Hours/coding4hours.github.io) - My clone repository
+- [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
+- [jatin2003/resources-for-web-developers](https://github.com/jatin2003/resources-for-web-developers) - Resources for Web Developers
 - [ouuan/this-repo-has-42-stars-5-forks](https://github.com/ouuan/this-repo-has-42-stars-5-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 42 stars 5 forks.
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [athul/athul](https://github.com/athul/athul) - May the Force be with you :sparkles:
@@ -457,6 +497,14 @@
 
 ## Python 
 
+- [williln/til](https://github.com/williln/til) - Today I Learned
+- [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo) - a beautiful template make your github profile look awesome ，give me a star , plz orz
+- [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
+- [SHREK-TM/Shrek-Tools](https://github.com/SHREK-TM/Shrek-Tools) - 
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Coding4Hours/TIL](https://github.com/Coding4Hours/TIL) - Today-I-learned - Mini snippets of learnings
+- [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
+- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
@@ -559,6 +607,11 @@
 
 ## Ruby 
 
+- [m-dunne/example-blog](https://github.com/m-dunne/example-blog) - An example blog built using mere-blog-theme
+- [MikeySee/mikeysee.github.io](https://github.com/MikeySee/mikeysee.github.io) - An example blog built using mere-blog-theme
+- [karaca-beyza/karaca-beyza.github.io](https://github.com/karaca-beyza/karaca-beyza.github.io) - An example blog built using mere-blog-theme
+- [AlexWNC/alexWNC.github.io](https://github.com/AlexWNC/alexWNC.github.io) - An example blog built using mere-blog-theme
+- [chrisrhymes/example-blog](https://github.com/chrisrhymes/example-blog) - An example blog built using mere-blog-theme
 - [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
 - [mscoutermarsh/mscoutermarsh](https://github.com/mscoutermarsh/mscoutermarsh) - SECRETS!
 
@@ -568,8 +621,13 @@
 - [MercuryWorkshop/whisper](https://github.com/MercuryWorkshop/whisper) - Wisp protocol client that exposes the Wisp connection over a TUN device.
 - [r58Playz/terraos](https://github.com/r58Playz/terraos) - Boot Linux-based operating systems from a RMA shim.
 
+## SCSS 
+
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+
 ## Shell 
 
+- [lifeparticle/Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal) - Bash automation script to get  iTerm2, oh-my-zsh, Fig, material-design-colors, powerlevel9k and nerd-fonts on your Mac.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [kaakaww/dvwa-docker](https://github.com/kaakaww/dvwa-docker) - A Docker run and use impelementation of DVWA
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -598,6 +656,7 @@
 
 ## TypeScript 
 
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [swagging-post/simple-proxy](https://github.com/swagging-post/simple-proxy) - Simple proxy for a cloudflare worker
 - [ritwickdey/vscode-live-server-plus-plus](https://github.com/ritwickdey/vscode-live-server-plus-plus) - VsCode Live Server++ : It's Truly Live 😊 (BETA)  -- [NOT RELEASED YET]
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based crawler in a single Docker container
