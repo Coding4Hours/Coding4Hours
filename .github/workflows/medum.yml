@@ -30,7 +30,7 @@ jobs:
       env:
         GOD: ${{ secrets.GOD }}
       run: |-
-        python build_readme.py
+        python medum.py
         cat README.md
     - name: Commit and push if README changed
       run: |-
