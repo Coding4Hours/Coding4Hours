@@ -107,25 +107,25 @@ def fetch_blog_entries():
 root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
-project_releases = root / "RELEASES.md"
+#project_releases = root / "RELEASES.md"
 
-releases = fetch_latest_releases()
-project_releases_md = "\n".join(
-  [
-    (
-      "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
-      "<br />{description}")
-    .format(
-      total_releases_md="- ([{} releases total]({}/releases)) ".format(
-        release["total_releases"], release["repo_url"]
-      )
-      if release["total_releases"] > 1
-      else "",
-      **release
-    )
-    for release in releases
-  ]
-)
+#releases = fetch_latest_releases()
+#project_releases_md = "\n".join(
+#  [
+#    (
+#      "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
+#      "<br />{description}")
+#    .format(
+#      total_releases_md="- ([{} releases total]({}/releases)) ".format(
+#        release["total_releases"], release["repo_url"]
+#      )
+#      if release["total_releases"] > 1
+#      else "",
+#      **release
+#    )
+#    for release in releases
+#  ]
+#)
 
 project_releases_content = project_releases.open().read()
 project_releases_content = replace_chunk(
