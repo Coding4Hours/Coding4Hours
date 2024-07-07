@@ -85,7 +85,7 @@ def fetch_latest_releases():
 
     for repo in repos:
         repo_name = repo['name']
-        if repo['releases']['nodes']:
+        if repo['releases']['nodes'] != 'No releases found':
             latest_release = repo['releases']['nodes'][0]
             latest_releases.append({
                 "repo": repo_name,
