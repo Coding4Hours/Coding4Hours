@@ -50,6 +50,55 @@ def replace_chunk(content, marker, chunk):
     chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
+def fetch_latest_releases():
+    query = """
+    query($user: String!, $repo_count: Int!) {
+        user(login: $user) {
+            repositories(first: $repo_count, orderBy: {field: CREATED_AT, direction: DESC}) {
+                nodes {
+                    name
+                    releases(last: 1) {
+                        nodes {
+                            name
+                            publishedAt
+                            url
+                        }
+                    }
+                }
+            }
+        }
+    }
+    """
+    variables = {"user": "coding4hours", "repo_count": 100}
+    url = "https://api.github.com/graphql"
+    response = requests.post(url, json={'query': query, 'variables': variables}, headers=HEADERS)
+    
+    if response.status_code != 200:
+        raise Exception(f"Error fetching data: {response.status_code}, {response.text}")
+    
+    data = response.json()
+    repos = data['data']['user']['repositories']['nodes']
+    latest_releases = []
+
+    for repo in repos:
+        repo_name = repo['name']
+        if repo['releases']['nodes']:
+            latest_release = repo['releases']['nodes'][0]
+            latest_releases.append({
+                "repo": repo_name,
+                "release_name": latest_release['name'],
+                "published_at": latest_release['publishedAt'],
+                "url": latest_release['url']
+            })
+        else:
+            latest_releases.append({
+                "repo": repo_name,
+                "release_name": "No releases found",
+                "published_at": None,
+                "url": None
+            })
+
+    return latest_releases
 
 def fetch_releases(oauth_token):
     repos = []
@@ -105,7 +154,8 @@ root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
 
-releases = fetch_releases(TOKEN)
+releases = fetch_latest_releases()
+print(releases)
 releases.sort(key=lambda r: r["published_at"], reverse=True)
 md = "\n".join(
   ["* [{repo} {release}]({url}) - {published_at}".format(**release)
