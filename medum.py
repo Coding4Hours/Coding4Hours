@@ -8,6 +8,38 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("GOD", "")
 
+GRAPHQL_SEARCH_QUERY = """
+query {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    nodes {
+      __typename
+      ... on Repository {
+        name
+        description
+        url
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
+          totalCount
+          nodes {
+            name
+            publishedAt
+            url
+          }
+        }
+      }
+    }
+  }
+}
+"""
+
+
+def make_query(after_cursor=None, include_organization=False):
+    return GRAPHQL_SEARCH_QUERY.replace(
+        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    )
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(
