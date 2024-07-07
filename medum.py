@@ -107,6 +107,7 @@ def fetch_blog_entries():
 root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
+project_releases = root / "RELEASES.md"
 
 releases = fetch_latest_releases()
 project_releases_md = "\n".join(
@@ -125,6 +126,7 @@ project_releases_md = "\n".join(
     for release in releases
   ]
 )
+
 project_releases_content = project_releases.open().read()
 project_releases_content = replace_chunk(
   project_releases_content, "recent_releases", project_releases_md
