@@ -7,6 +7,15 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 TOKEN = os.environ.get("GOD", "")
 
 
+def replace_chunk(content, marker, chunk):
+    r = re.compile(
+        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
+        re.DOTALL,
+    )
+    chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
+    return r.sub(chunk, content)
+
+
 def fetch_releases(oauth_token):
     repos = []
     releases = []
