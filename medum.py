@@ -107,6 +107,7 @@ def fetch_blog_entries():
 root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
+readme_contents = readme.open().read()
 #project_releases = root / "RELEASES.md"
 
 #releases = fetch_latest_releases()
