@@ -72,9 +72,6 @@ root = pathlib.Path(__file__).parent.resolve()
 
 readme = root / "README.md"
 
-readme.open("w").write(rewritten)
-
-
 releases = fetch_releases(TOKEN)
 releases.sort(key=lambda r: r["published_at"], reverse=True)
 md = "\n".join(
