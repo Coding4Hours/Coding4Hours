@@ -127,20 +127,20 @@ readme = root / "README.md"
 #  ]
 #)
 
-project_releases_content = project_releases.open().read()
-project_releases_content = replace_chunk(
-  project_releases_content, "recent_releases", project_releases_md
-)
-project_releases_content = replace_chunk(
-  project_releases_content, "project_count", str(len(releases)), inline=True
-)
-project_releases_content = replace_chunk(
-  project_releases_content,
-  "releases_count",
-  str(sum(r["total_releases"] for r in releases)),
-  inline=True,
-)
-poject_releases.open("w").write(project_releases_content)
+#project_releases_content = project_releases.open().read()
+#project_releases_content = replace_chunk(
+#  project_releases_content, "recent_releases", project_releases_md
+#)
+#project_releases_content = replace_chunk(
+#  project_releases_content, "project_count", str(len(releases)), inline=True
+#)
+#project_releases_content = replace_chunk(
+#  project_releases_content,
+#  "releases_count",
+#  str(sum(r["total_releases"] for r in releases)),
+#  inline=True,
+#)
+#poject_releases.open("w").write(project_releases_content)
 
 entries = fetch_blog_entries()[:5]
 entries_md = "\n".join(
