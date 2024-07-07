@@ -143,6 +143,7 @@
 </p>
 <p align=center>
 <table><tr><td valign="top" width="50%">
+  
 ### Recent releases
 
 <!-- recent_releases starts -->
