@@ -67,7 +67,7 @@ def fetch_releases(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         print(data['data'])
-        for repo in data["data"]["search"]["nodes"]:
+        for repo in data["data"]["search"]["nodes"][0]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
