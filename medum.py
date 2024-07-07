@@ -40,11 +40,6 @@ query {
 """
 
 
-def make_query(after_cursor=None, include_organization=False):
-    return GRAPHQL_SEARCH_QUERY.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
-
 def replace_chunk(content, marker, chunk):
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
@@ -114,16 +109,36 @@ root = pathlib.Path(__file__).parent.resolve()
 readme = root / "README.md"
 
 releases = fetch_latest_releases()
-print(releases)
-#releases.sort(reverse=True)
-md = "\n".join(
-  ["* [{repo} {release_name}]({url}) - {published_at}".format(**release)
-   for release in releases[:5]]
+project_releases_md = "\n".join(
+  [
+    (
+      "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
+      "<br />{description}")
+    .format(
+      total_releases_md="- ([{} releases total]({}/releases)) ".format(
+        release["total_releases"], release["repo_url"]
+      )
+      if release["total_releases"] > 1
+      else "",
+      **release
+    )
+    for release in releases
+  ]
 )
-readme_contents = readme.open().read()
-rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
-readme.open("w").write(rewritten)
+project_releases_content = project_releases.open().read()
+project_releases_content = replace_chunk(
+  project_releases_content, "recent_releases", project_releases_md
+)
+project_releases_content = replace_chunk(
+  project_releases_content, "project_count", str(len(releases)), inline=True
+)
+project_releases_content = replace_chunk(
+  project_releases_content,
+  "releases_count",
+  str(sum(r["total_releases"] for r in releases)),
+  inline=True,
+)
+poject_releases.open("w").write(project_releases_content)
 
 entries = fetch_blog_entries()[:5]
 entries_md = "\n".join(
