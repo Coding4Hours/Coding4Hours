@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Mermaid](#mermaid)
@@ -66,6 +67,7 @@
 
 ## CSS 
 
+- [VillainsRule/villainsrule.xyz](https://github.com/VillainsRule/villainsrule.xyz) - my personal website :)
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
@@ -87,6 +89,8 @@
 
 ## Go 
 
+- [illusionTBA/GoCors](https://github.com/illusionTBA/GoCors) - a simple cors proxy made in golang
+- [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [Coding4Hours/oh-my-posh-gosh](https://github.com/Coding4Hours/oh-my-posh-gosh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -101,6 +105,16 @@
 
 ## HTML 
 
+- [asc2563/Aluben-Hub](https://github.com/asc2563/Aluben-Hub) - this is Aluben Hub on github all Aluben services are here including procky list, Iceland games, and Aluben W-P
+- [asc2563/Aluben](https://github.com/asc2563/Aluben) - the Aluben repository is the Aluben W-P on github
+- [asc2563/AlubenforAzure](https://github.com/asc2563/AlubenforAzure) - 
+- [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
+- [dragon731012/Ego-Menu-Bookmarklets](https://github.com/dragon731012/Ego-Menu-Bookmarklets) - 👁 Ego Menu is a bookmarklet UI with a collection of bookmarklets that enhance user expeirence and improve productivity, especially during school hours.  Ego menu is a proof-of-concept project and is m
+- [Coding4Hours/Ego-Menu-Bookmarklets](https://github.com/Coding4Hours/Ego-Menu-Bookmarklets) - 👁 Ego Menu is a bookmarklet UI with a collection of bookmarklets that enhance user expeirence and improve productivity, especially during school hours.  Ego menu is a proof-of-concept project and is m
+- [Coding4Hours/bye](https://github.com/Coding4Hours/bye) - 
+- [Coding4Hours/hi](https://github.com/Coding4Hours/hi) - 
+- [wondlatd/wondlatd.github.io](https://github.com/wondlatd/wondlatd.github.io) - A backup of 3kh0.github.io v4. Hosted at https://3v3ry0n3.github.io/3kh0-Backup-v4
+- [Coding4Hours/notCoding4Hours.github.io](https://github.com/Coding4Hours/notCoding4Hours.github.io) - 
 - [lifeparticle/HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet) - HTML-Cheatsheet
 - [github/actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) - A cheat sheet for GitHub Actions
 - [chrisrhymes/mere-blog-theme](https://github.com/chrisrhymes/mere-blog-theme) - Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages.
@@ -197,6 +211,7 @@
 
 ## Java 
 
+- [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects) - my java projects
 - [ub66159/carRental](https://github.com/ub66159/carRental) - A CarRental Prototype for multiple reservations
 - [eclipse-ee4j/angus-mail](https://github.com/eclipse-ee4j/angus-mail) - Angus Mail
 - [jakartaee/mail-api](https://github.com/jakartaee/mail-api) - Jakarta Mail Specification project
@@ -224,6 +239,22 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
+- [illusionTBA/ultraviolet-modified](https://github.com/illusionTBA/ultraviolet-modified) - My modified version of UV with built in middleware and script injection
+- [asc2563/ultraviolet-modified](https://github.com/asc2563/ultraviolet-modified) - My modified version of UV with built in middleware and script injection
+- [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
+- [Technicalranjitofficial/github-profile-readme-generator](https://github.com/Technicalranjitofficial/github-profile-readme-generator) - Github-profile-readme-generator is a tool to create awesome github profile within 2-3 min. You can enhance your github profile like a pro.
+- [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
+- [Coding4Hours/release-based-workflow](https://github.com/Coding4Hours/release-based-workflow) - Create a release based workflow that is built on the foundations of the GitHub flow
+- [skills/release-based-workflow](https://github.com/skills/release-based-workflow) - Create a release based workflow that is built on the foundations of the GitHub flow
+- [Coding4Hours/SpaceCompany](https://github.com/Coding4Hours/SpaceCompany) - An incremental game about Space Mining
+- [Coding4Hours/exit-intent](https://github.com/Coding4Hours/exit-intent) - 📬 Exit-intent popup in vanilla JavaScript
+- [VillainsRule/Templates](https://github.com/VillainsRule/Templates) - these are templates I use for various projects.
+- [AwesomeDudeIsHere/1337hax](https://github.com/AwesomeDudeIsHere/1337hax) - leet hax for 3v3ry0n3!
+- [Coding4Hours/docss](https://github.com/Coding4Hours/docss) - 
+- [Coding4Hours/inject0r](https://github.com/Coding4Hours/inject0r) - Injector is a JavaScript bookmark developed by platinome.
+- [Coding4Hours/3v3ry0n3.github.io](https://github.com/Coding4Hours/3v3ry0n3.github.io) - The blue sky was dotted with fluffy white clouds, lazily drifting across the horizon. The sound of birds chirping filled the air as a gentle breeze blew through the trees
 - [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica) - 
 - [lifeparticle/JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet) - 🖥 Cheatsheet for JavaScript
 - [ub66159/hello-world](https://github.com/ub66159/hello-world) - 
@@ -388,6 +419,10 @@
 - [Flow-Works/FlowOS-Legacy](https://github.com/Flow-Works/FlowOS-Legacy) - 
 - [VyperGroup/astroidv3](https://github.com/VyperGroup/astroidv3) - Astroid v3, the latest and greatest version of Astroid!
 
+## Jinja 
+
+- [kittinan/kittinan](https://github.com/kittinan/kittinan) - 
+
 ## Jupyter Notebook 
 
 - [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet) - The missing Cheatsheet for Python
@@ -409,6 +444,11 @@
 
 ## Others 
 
+- [skills/write-javascript-actions](https://github.com/skills/write-javascript-actions) - Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
+- [HFO4/HFO4](https://github.com/HFO4/HFO4) - 
+- [skills/connect-the-dots](https://github.com/skills/connect-the-dots) - Useful tips when navigating through your repository
+- [skills/resolve-merge-conflicts](https://github.com/skills/resolve-merge-conflicts) - Learn why conflicts happen and how to resolve them.
+- [VillainsRule/VillainsRule](https://github.com/VillainsRule/VillainsRule) - my personal profile.
 - [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [lifeparticle/Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime) - 
@@ -497,12 +537,19 @@
 
 ## Python 
 
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+- [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko) - The profile repository!
+- [Coding4Hours/readme-chess](https://github.com/Coding4Hours/readme-chess) - ♟️ Play Multiplayer Chess in a README file!
+- [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) - ♟️ Play Multiplayer Chess in a README file!
+- [rahulbanerjee26/githubProfileReadmeGenerator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator) - Generate a cool README/About me page for your Github Profile
+- [Coding4Hours/Til](https://github.com/Coding4Hours/Til) - today i learned:
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo) - a beautiful template make your github profile look awesome ，give me a star , plz orz
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
 - [SHREK-TM/Shrek-Tools](https://github.com/SHREK-TM/Shrek-Tools) - 
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [Coding4Hours/TIL](https://github.com/Coding4Hours/TIL) - Today-I-learned - Mini snippets of learnings
+- [Coding4Hours/TIL-forked](https://github.com/Coding4Hours/TIL-forked) - Today-I-learned - Mini snippets of learnings
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
@@ -656,6 +703,11 @@
 
 ## TypeScript 
 
+- [SashenJayathilaka/Awesome-Github-Readme-Generator](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator) - You can easily and quickly create a readme file for your github profile or git hub repository. (visit below) (Click the Get Started button to start the process, Choose Github Readme Template you want,
+- [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
+- [VillainsRule/Vencord](https://github.com/VillainsRule/Vencord) - prs for vencord, the cutest discord client mod :3
+- [VillainsRule/VencordPlugins](https://github.com/VillainsRule/VencordPlugins) - my custom vencord plugin library, some made by myself, some from others.
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [swagging-post/simple-proxy](https://github.com/swagging-post/simple-proxy) - Simple proxy for a cloudflare worker
 - [ritwickdey/vscode-live-server-plus-plus](https://github.com/ritwickdey/vscode-live-server-plus-plus) - VsCode Live Server++ : It's Truly Live 😊 (BETA)  -- [NOT RELEASED YET]
