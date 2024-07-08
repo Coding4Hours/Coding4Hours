@@ -47,7 +47,7 @@ def run_test_case(filename, main_fn):
     with open(filename, 'r') as test_file:
         test_data = yaml.load(test_file, Loader=yaml.FullLoader)
 
-    with open('chess/data/settings.yaml', 'r') as settings_file:
+    with open('data/settings.yaml', 'r') as settings_file:
         settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
     print('\u001b[0m\u001b[1m\u001b[37m  ' + test_data['name'])
@@ -81,8 +81,8 @@ def run(main_fn):
     passed = 0
     failed = 0
 
-    for f in [f for f in os.listdir('chess/tests/') if re.match('.+\\.yml', f)]:
-        passed_tmp, failed_tmp = run_test_case('chess/tests/' + f, main_fn)
+    for f in [f for f in os.listdir('tests/') if re.match('.+\\.yml', f)]:
+        passed_tmp, failed_tmp = run_test_case('tests/' + f, main_fn)
         passed += passed_tmp
         failed += failed_tmp
 
