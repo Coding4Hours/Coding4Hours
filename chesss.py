@@ -206,11 +206,11 @@ def main(issue, issue_author, repo_owner):
 
     with open('READMaE.md', 'w') as file:
         data = {
-            'chess_board': chess_board,
-            'moves_list': moves_list,
-            'turn': turn,
+            'chess_board': markdown.board_to_markdown(gameboard),
+            'moves_list': markdown.generate_moves_list(gameboard),
+            'turn': ('white' if gameboard.turn == chess.WHITE else 'black'),
             'last_moves': last_moves,
-            'top_moves': top_moves
+            'top_moves': markdown.generate_top_moves()
         }
         # Ensure the readme template and keys match
         file.write(readme.format(**data))
