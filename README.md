@@ -191,6 +191,8 @@
 <!-- END TOP MOVES -->
 </details>
 </details>
+</details>
+
 <details>
 	<summary><h2>𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝚜</h2></summary>
 
@@ -202,7 +204,6 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-</details>
 </details>
 
 <div align="center">
