@@ -10,8 +10,8 @@ import chess.pgn
 import yaml
 from github import Github
 
-import src.markdown as markdown
-import src.selftest as selftest
+import chess.src.markdown as markdown
+import chess.src.selftest as selftest
 
 # TODO: Use an image instead of a raw link to start new games
 
