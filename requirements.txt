@@ -1,2 +1,5 @@
 python-graphql-client==0.3.0
 feedparser
+chess>=1.3.2
+PyGithub
+PyYAML>=5.4.1
