@@ -197,8 +197,8 @@ def update_data(move, state):
 
     updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,readmeMoves)
 
-# master
-if __name__ == "__master__":
+# Main
+if __name__ == "__main__":
     issue, user = GetInfo()
     try:
         data = load_data()
