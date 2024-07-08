@@ -81,7 +81,7 @@ def main(issue, issue_author, repo_owner):
         settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
     if action[0] == Action.NEW_GAME:
-        if os.path.exists('chess/chess/games/current.pgn') and issue_author != repo_owner:
+        if os.path.exists('chess/games/current.pgn') and issue_author != repo_owner:
             issue.create_comment(settings['comments']['invalid_new_game'].format(author=issue_author))
             issue.edit(state='closed')
             return False, 'ERROR: A current game is in progress. Only the repo owner can start a new game'
@@ -100,11 +100,11 @@ def main(issue, issue_author, repo_owner):
         game.headers['Round'] = '1'
 
     elif action[0] == Action.MOVE:
-        if not os.path.exists('chess/chess/games/current.pgn'):
+        if not os.path.exists('chess/games/current.pgn'):
             return False, 'ERROR: There is no game in progress! Start a new game first'
 
-        # Load game from "chess/chess/games/current.pgn"
-        with open('chess/chess/games/current.pgn') as pgn_file:
+        # Load game from "chess/games/current.pgn"
+        with open('chess/games/current.pgn') as pgn_file:
             game = chess.pgn.read_game(pgn_file)
             gameboard = game.board()
 
@@ -164,8 +164,8 @@ def main(issue, issue_author, repo_owner):
         issue.edit(state='closed', labels=['Invalid'])
         return False, 'ERROR: Unknown action'
 
-    # Save game to "chess/chess/games/current.pgn"
-    print(game, file=open('chess/chess/games/current.pgn', 'w'), end='\n\n')
+    # Save game to "chess/games/current.pgn"
+    print(game, file=open('chess/games/current.pgn', 'w'), end='\n\n')
 
     last_moves = markdown.generate_last_moves()
 
@@ -193,7 +193,7 @@ def main(issue, issue_author, repo_owner):
             num_moves=len(lines)-1,
             num_players=len(player_list)))
 
-        os.rename('chess/chess/games/current.pgn', datetime.now().strftime('chess/chess/games/game-%Y%m%d-%H%M%S.pgn'))
+        os.rename('chess/games/current.pgn', datetime.now().strftime('chess/games/game-%Y%m%d-%H%M%S.pgn'))
         os.remove('chess/data/last_moves.txt')
 
     with open('README.md', 'r') as file:
