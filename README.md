@@ -192,10 +192,9 @@
 </details>
 </details>
 </details>
-<div align="center">
 	
 ![𝚂𝚙𝚘𝚝𝚒𝚏𝚢](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
-	---
+---
 	
  ### On my blog
  
@@ -208,7 +207,7 @@
  <!--START_SECTION:waka-->
  
 ```txt
-	No activity tracked
+  No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -221,4 +220,3 @@
 5. ❗ Opened issue [#99](https://github.com/BenjaminHalko/BenjaminHalko/issues/99) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
-</div>
