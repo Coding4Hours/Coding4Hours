@@ -11,7 +11,7 @@ import yaml
 from github import Github
 
 import src.markdown as markdown
-import chess.selftest as selftest
+import src.selftest as selftest
 
 # TODO: Use an image instead of a raw link to start new games
 
