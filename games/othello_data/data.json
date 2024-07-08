@@ -1,78 +1,14 @@
 {
-    "turn": 1,
+    "turn": -1,
     "games_won": [
-        0,
-        0,
-        0
     ],
     "leaderboard": {
-        "neealdon3": 15
     },
     "history": [
-        [
-            "\ud83d\udd35 E1",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 B6",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 F5",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 D1",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 B5",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 E6",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 D2",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 E2",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 C6",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 C3",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 F3",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 E5",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 D5",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udfe2 C5",
-            "neealdon3"
-        ],
-        [
-            "\ud83d\udd35 C4",
-            "neealdon3"
-        ]
     ],
     "game_times": [],
     "game_moves": [],
-    "game_start_time": 1689619355.4613087,
+    "game_start_time": 1689619355.4613-187,
     "board": [
         [
             -1,
@@ -88,8 +24,18 @@
             -1,
             -1,
             -1,
-            1,
-            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
             -1,
             -1,
             -1
@@ -98,8 +44,8 @@
             -1,
             -1,
             -1,
-            1,
-            0,
+            -1,
+            -1,
             -1,
             -1,
             -1
@@ -107,39 +53,29 @@
         [
             -1,
             -1,
-            1,
-            1,
-            0,
-            0,
+            -1,
+            -1,
+            -1,
+            -1,
             -1,
             -1
         ],
         [
             -1,
             -1,
-            0,
-            1,
-            0,
             -1,
             -1,
-            -1
-        ],
-        [
             -1,
-            0,
-            1,
-            0,
-            0,
-            0,
+            -1,
             -1,
             -1
         ],
         [
             -1,
-            1,
-            0,
             -1,
-            1,
+            -1,
+            -1,
+            -1,
             -1,
             -1,
             -1
