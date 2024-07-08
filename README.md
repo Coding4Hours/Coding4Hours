@@ -178,6 +178,8 @@ Credits to not me
 <tr><td>
 <p align="center"><b>A game of Othello played on GitHub.</b><br>🟢 Use the chart below to make your move. It is currently Green's turn. 🟢</p><p>
 credits to @BenjaminHalko
+
+ 
 |  | A | B | C | D | E | F | G | H |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://raw.githubusercontent.com/Coding4Hours/Coding4Hours/master/games/common/blank.png" alt="blank" width="50px"> |
