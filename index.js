@@ -11,7 +11,7 @@ function generateProgressBar() {
     const passedProgressBarIndex = Math.max(0, Math.min(parseInt(progressOfThisYear * progressBarCapacity / 100), progressBarCapacity));
     const progressBar =
         '█'.repeat(passedProgressBarIndex) + '▁'.repeat(progressBarCapacity - passedProgressBarIndex);
-    return `{ ${progressBar} }`;
+    return `&#123; ${progressBar} &#125;`;
 }
 
 const readmeContent = fs.readFileSync(`./README.md`, "utf-8").split("\n");
