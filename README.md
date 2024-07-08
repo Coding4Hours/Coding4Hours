@@ -5,14 +5,14 @@
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=Hi%2C+I'm+Coding4Hours%F0%9F%91%8B;I'm+a+wannabe+hacker+and+coder.;I+love+IT.;Press+for+more+info!" alt="Typing SVG" /></a> </p>
 
-<h3 align="center">Connect with me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h3>
+<h3 align="center">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/coding4hours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coding4hours" height="30" width="40" /></a>
 <a href="https://kaggle.com/pusheen meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pusheen meow" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hydrogennetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hydrogennetwork" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" /><img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" /><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" /><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" /><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt="dotnet" />
 <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="electron" /><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" /><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" /><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" /><img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white" alt="gatsby" /><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" /><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" /><img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" /><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" /><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" /><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" /><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" /><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" /><img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" alt="mariadb" /><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongodb" /><img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="mssql" /><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" /><img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" /><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" /><img src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="nuxtjs" /><img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" /><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" /><img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="photoshop" /><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="postgresql" /><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="postman" /><img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white" alt="puppeteer" /><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python" /><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="pytorch" /><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="react" /><img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="selenium" /><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" /><img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" /><img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
@@ -22,7 +22,7 @@
 <details align="center"><summary><h2>Stats</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
-  ### 🔝 Top Contributed Repo
+  ### 🔝 𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚁𝚎𝚙𝚘
   ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center">
 <img align="center" src="/github-metrics.svg">
@@ -31,13 +31,13 @@
 
 
 
-<details align="center"><summary><h2>Profile Games</h2></summary>
+<details align="center"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
   <!-- CONNECT4 -->
-<details align="center"><summary><h2>Connect 4</h2></summary>
+<details align="center"><summary><h2>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
-<p align="center"><b>A game of Connect 4 played on GitHub.</b><br>🟡 Click on a column to make a move. It is currently Yellow's turn. 🟡</p><p>
+<p align="center"><b>𝙰 𝚐𝚊𝚖𝚎 𝚘𝚏 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺 𝚙𝚕𝚊𝚢𝚎𝚍 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</b><br>🟡 𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚊 𝚌𝚘𝚕𝚞𝚖𝚗 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚊 𝚖𝚘𝚟𝚎. 𝙸𝚝 𝚒𝚜 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚈𝚎𝚕𝚕𝚘𝚠'𝚜 𝚝𝚞𝚛𝚗. 🟡</p><p>
 
 | [COL 0](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 1](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+1&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 2](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+2&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 3](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 4](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+4&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 5](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 6](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 7](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -49,7 +49,7 @@
 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
 
-<details align="left"><summary><h3>History of moves for this game</h3></summary>
+<details align="left"><summary><h3>𝙷𝚒𝚜𝚝𝚘𝚛𝚢 𝚘𝚏 𝚖𝚘𝚟𝚎𝚜 𝚏𝚘𝚛 𝚝𝚑𝚒𝚜 𝚐𝚊𝚖𝚎</h3></summary>
 
 | Move | User |
 | :-: | :-: |
@@ -59,7 +59,7 @@
 
 </details>
 
-<details align="left"><summary><h3>Most active players</h3></summary>
+<details align="left"><summary><h3>𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝚙𝚕𝚊𝚢𝚎𝚛𝚜</h3></summary>
 
 | Moves | User |
 | :-: | :-: |
@@ -68,7 +68,7 @@
 
 </details>
 
-<details align="left"><summary><h3>Stats</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -81,11 +81,11 @@
 </details>
 <!-- CONNECT4 -->
 <!-- OTHELLO -->
-<details align="center"><summary><h2>Othello</h2></summary>
+<details align="center"><summary><h2>𝙾𝚝𝚑𝚎𝚕𝚕𝚘</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
-<p align="center"><b>A game of Othello played on GitHub.</b><br>Click on a white dot to make your move.<br>Blue has 6 pieces. Green has 4 pieces.<br>🔵 It is currently Blue's turn. 🔵</p><p>
+<p align="center"><b>𝙰 𝚐𝚊𝚖𝚎 𝚘𝚏 𝙾𝚝𝚑𝚎𝚕𝚕𝚘 𝚙𝚕𝚊𝚢𝚎𝚍 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</b><br>𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚊 𝚠𝚑𝚒𝚝𝚎 𝚍𝚘𝚝 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚖𝚘𝚟𝚎.<𝚋𝚛>𝙱𝚕𝚞𝚎 𝚑𝚊𝚜 𝟼 𝚙𝚒𝚎𝚌𝚎𝚜. 𝙶𝚛𝚎𝚎𝚗 𝚑𝚊𝚜 𝟺 𝚙𝚒𝚎𝚌𝚎𝚜.<br>🔵 𝙸𝚝 𝚒𝚜 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚕𝚞𝚎'𝚜 𝚝𝚞𝚛𝚗. 🔵</p><p>
 
 |  | A | B | C | D | E | F | G | H |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -99,7 +99,7 @@
 | 7 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
 
-<details align="left"><summary><h3>History of moves for this game</h3></summary>
+<details align="left"><summary><h3>𝙷𝚒𝚜𝚝𝚘𝚛𝚢 𝚘𝚏 𝚖𝚘𝚟𝚎𝚜 𝚏𝚘𝚛 𝚝𝚑𝚒𝚜 𝚐𝚊𝚖𝚎</h3></summary>
 
 | Move | User |
 | :-: | :-: |
@@ -112,7 +112,7 @@
 
 </details>
 
-<details align="left"><summary><h3>Most active players</h3></summary>
+<details align="left"><summary><h3>𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝚙𝚕𝚊𝚢𝚎𝚛𝚜</h3></summary>
 
 | Moves | User |
 | :-: | :-: |
@@ -120,7 +120,7 @@
 
 </details>
 
-<details align="left"><summary><h3>Stats</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -133,8 +133,8 @@
 </details>
 <!-- OTHELLO -->
 
-<details><summary><h2>Chess</h2></summary>
-It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
+<details><summary><h2>𝙲𝚑𝚎𝚜𝚜</h2></summary>
+𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚝𝚞𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢! 𝙼𝚘𝚟𝚎 𝚊 <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | H | G | F | E | D | C | B | A |   |
@@ -166,10 +166,10 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 | **H7** | [H5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
+𝙷𝚊𝚟𝚒𝚗𝚐 𝚏𝚞𝚗? 𝙰𝚜𝚔 𝚊 𝚏𝚛𝚒𝚎𝚗𝚍 𝚝𝚘 𝚍𝚘 𝚝𝚑𝚎 𝚗𝚎𝚡𝚝 𝚖𝚘𝚟𝚎!
 
 <details>
-  <summary>Last 5 moves in this game</summary>
+  <summary>𝙻𝚊𝚜𝚝 𝟻 𝚖𝚘𝚟𝚎𝚜 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚊𝚖𝚎</summary>
 <!-- BEGIN LAST MOVES -->
 
 | Move | Author |
@@ -181,7 +181,7 @@ Having fun? Ask a friend to do the next move!
 </details>
 
 <details>
-  <summary>Top 10 most moves across all games</summary>
+  <summary>𝚃𝚘𝚙 𝟷0 𝚖𝚘𝚜𝚝 𝚖𝚘𝚟𝚎𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎𝚜'</summary>
 <!-- BEGIN TOP MOVES -->
 
 | Total moves |  User  |
@@ -193,7 +193,8 @@ Having fun? Ask a friend to do the next move!
 </details>
 </details>
 <div align="center">
-	![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+	
+![𝚂𝚙𝚘𝚝𝚒𝚏𝚢](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 	---
 	
 	### On my blog
@@ -202,7 +203,7 @@ Having fun? Ask a friend to do the next move!
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
 <!-- blog ends -->
- More on [My blog](https://coding4hours.github.io)
+ 𝙼𝚘𝚛𝚎 𝚘𝚗 [𝙼𝚢 𝚋𝚕𝚘𝚐](https://coding4hours.github.io)
  
  <!--START_SECTION:waka-->
  
