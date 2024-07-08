@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readmeContent = fs.readFileSync(`./README.md`, "utf-8").split("\n");
-readmeContent[1] = `  ⏳ Year progress ${progressBarOfThisYear} ${progressOfThisYear}%`;
+readmeContent[12] = `  ⏳ Year progress ${progressBarOfThisYear} ${progressOfThisYear}%`;
 const readme = readmeContent.join("\n");
 
 fs.writeFile('./README.md', readme, function (err) {
