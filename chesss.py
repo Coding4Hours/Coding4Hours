@@ -204,14 +204,23 @@ def main(issue, issue_author, repo_owner):
         readme = replace_text_between(readme, settings['markers']['last_moves'], '{last_moves}')
         readme = replace_text_between(readme, settings['markers']['top_moves'], '{top_moves}')
 
-    with open('README.md', 'w') as file:
-        # Write new board & list of movements
-        file.write(readme.format(
-            chess_board=markdown.board_to_markdown(gameboard),
-            moves_list=markdown.generate_moves_list(gameboard),
-            turn=('white' if gameboard.turn == chess.WHITE else 'black'),
-            last_moves=last_moves,
-            top_moves=markdown.generate_top_moves()))
+    with open('READMaE.md', 'w') as file:
+        data = {
+            'chess_board': chess_board,
+            'moves_list': moves_list,
+            'turn': turn,
+            'last_moves': last_moves,
+            'top_moves': top_moves
+        }
+        # Ensure the readme template and keys match
+        file.write(readme.format(**data))
+        
+    #file.write(readme.format(
+         #   chess_board=markdown.board_to_markdown(gameboard),
+        #    moves_list=markdown.generate_moves_list(gameboard),
+        #    turn=('white' if gameboard.turn == chess.WHITE else 'black'),
+        #    last_moves=last_moves,
+        #    top_moves=markdown.generate_top_moves()))
 
     return True, ''
 
