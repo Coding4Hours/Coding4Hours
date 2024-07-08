@@ -2,7 +2,7 @@ import os
 import re
 import yaml
 
-import chess.src.mockGithub as mockGithub
+from chess.src import mockGithub
 
 def get_test_data(settings, move_data, owner, i):
     labels = []
