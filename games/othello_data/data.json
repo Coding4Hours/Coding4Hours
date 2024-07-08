@@ -1,14 +1,18 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
         0
     ],
     "leaderboard": {
-        "Coding4Hours": 2
+        "Coding4Hours": 3
     },
     "history": [
+        [
+            "\ud83d\udd35 F2",
+            "Coding4Hours"
+        ],
         [
             "\ud83d\udfe2 C3",
             "Coding4Hours"
@@ -48,7 +52,7 @@
             -1,
             -1,
             -1,
-            -1,
+            0,
             -1,
             -1
         ],
@@ -57,7 +61,7 @@
             -1,
             1,
             1,
-            1,
+            0,
             -1,
             -1,
             -1
