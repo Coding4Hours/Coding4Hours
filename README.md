@@ -193,7 +193,7 @@
 </details>
 </details>
 
-<details>
+<details align="center">
 	<summary><h2>𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝚜</h2></summary>
 
 <a href="https://github.com/marketplace/actions/quote-readme">
