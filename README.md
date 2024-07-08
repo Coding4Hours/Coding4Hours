@@ -192,9 +192,10 @@
 </details>
 </details>
 </details>
-	
-<img align="center" alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
 
+<div align="center">
+<img align="center" alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+</div>
 ---
 	
  ### On my blog
