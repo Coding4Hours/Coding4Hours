@@ -202,8 +202,7 @@ credits to not me
 </table>
 </details>
 
-<details><summary><h2>chess</h2></summary>
-  This is an open chess tournament where ANYONE can play. That's the fun part.  
+<details><summary><h2>Chess</h2></summary>
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
@@ -237,13 +236,6 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 <!-- END MOVES LIST -->
 
 Having fun? Ask a friend to do the next move!
-
-#### How it works
-
-When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
-
 
 <details>
   <summary>Last 5 moves in this game</summary>
