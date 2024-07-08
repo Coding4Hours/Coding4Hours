@@ -7,7 +7,7 @@ import ast
 import chess
 import yaml
 
-with open('data/settings.yaml', 'r') as settings_file:
+with open('chess/data/settings.yaml', 'r') as settings_file:
     settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
 
@@ -23,7 +23,7 @@ def create_issue_link(source, dest_list):
     return ", ".join(ret)
 
 def generate_top_moves():
-    with open("data/top_moves.txt", 'r') as file:
+    with open("chess/data/top_moves.txt", 'r') as file:
         dictionary = ast.literal_eval(file.read())
 
     markdown = "\n"
@@ -43,7 +43,7 @@ def generate_last_moves():
 
     counter = 0
 
-    with open("data/last_moves.txt", 'r') as file:
+    with open("chess/data/last_moves.txt", 'r') as file:
         for line in file.readlines():
             parts = line.rstrip().split(':')
 
@@ -102,21 +102,21 @@ def board_to_markdown(board):
     markdown = ""
 
     images = {
-        "r": "img/black/rook.svg",
-        "n": "img/black/knight.svg",
-        "b": "img/black/bishop.svg",
-        "q": "img/black/queen.svg",
-        "k": "img/black/king.svg",
-        "p": "img/black/pawn.svg",
+        "r": "chess/img/black/rook.svg",
+        "n": "chess/img/black/knight.svg",
+        "b": "chess/img/black/bishop.svg",
+        "q": "chess/img/black/queen.svg",
+        "k": "chess/img/black/king.svg",
+        "p": "chess/img/black/pawn.svg",
 
-        "R": "img/white/rook.svg",
-        "N": "img/white/knight.svg",
-        "B": "img/white/bishop.svg",
-        "Q": "img/white/queen.svg",
-        "K": "img/white/king.svg",
-        "P": "img/white/pawn.svg",
+        "R": "chess/img/white/rook.svg",
+        "N": "chess/img/white/knight.svg",
+        "B": "chess/img/white/bishop.svg",
+        "Q": "chess/img/white/queen.svg",
+        "K": "chess/img/white/king.svg",
+        "P": "chess/img/white/pawn.svg",
 
-        ".": "img/blank.png"
+        ".": "chess/img/blank.png"
     }
 
     # Write header in Markdown format
