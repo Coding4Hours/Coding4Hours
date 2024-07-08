@@ -1,16 +1,6 @@
-![[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
-
-
-
-
-	
-
-
-
-
 <div align = "center">
-  ⏳ Year progress &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 51.84%
   ⏳ Year progress &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 51.85%
+</div>
 <br>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=Hi%2C+I'm+Coding4Hours%F0%9F%91%8B;I'm+a+wannabe+hacker+and+coder.;I+love+IT.;Press+for+more+info!" alt="Typing SVG" /></a> </p>
@@ -317,30 +307,32 @@ Having fun? Ask a friend to do the next move!
 </details>
 </details>
 </details>
+<div align="center">
+	![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+	---
+	
+	### On my blog
+ 
+ <!-- blog starts -->
+ * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
+ * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
+ <!-- blog ends -->
+ More on [My blog](https://coding4hours.github.io)
+ 
+ <!--START_SECTION:waka-->
+ 
+	```txt
+		No activity tracked
+	```
 
-
----
-### On my blog
-
-<!-- blog starts -->
-* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
-* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
-<!-- blog ends -->
-More on [My blog](https://coding4hours.github.io)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:activity-->
+	<!--END_SECTION:waka-->
+ 
+	<!--START_SECTION:activity-->
 1. ❗ Opened issue [#27](https://github.com/Coding4Hours/Coding4Hours/issues/27) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 2. ❗ Opened issue [#26](https://github.com/Coding4Hours/Coding4Hours/issues/26) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 3. ❗ Opened issue [#25](https://github.com/Coding4Hours/Coding4Hours/issues/25) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 4. ❗ Opened issue [#24](https://github.com/Coding4Hours/Coding4Hours/issues/24) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 5. ❗ Opened issue [#23](https://github.com/Coding4Hours/Coding4Hours/issues/23) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
-<!--END_SECTION:activity-->
+	<!--END_SECTION:activity-->
+</div>
