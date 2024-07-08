@@ -52,7 +52,7 @@ jobs:
                 - name: Setting up environment
                   run: |
                     echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
-                    echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
+                    echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
                     echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
     
                 - uses: actions/checkout@v3
@@ -81,7 +81,7 @@ jobs:
             - name: Setting up environment
               run: |
                 echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
-                echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
+                echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
                 echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
 
             - uses: actions/checkout@v3
