@@ -191,6 +191,18 @@
 <!-- END TOP MOVES -->
 </details>
 </details>
+<details>
+	<summary><h2>𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝚜</h2></summary>
+
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+</details>
 </details>
 
 <div align="center">
