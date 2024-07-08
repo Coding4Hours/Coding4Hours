@@ -23,7 +23,7 @@ class Action(Enum):
 
 def update_top_moves(user):
     """Adds the given user to the top moves file"""
-    with open('chess/data/top_moves.txt', 'r') as file:
+    with open('data/top_moves.txt', 'r') as file:
         contents = file.read()
         dictionary = ast.literal_eval(contents)
 
@@ -32,13 +32,13 @@ def update_top_moves(user):
     else:
         dictionary[user] += 1
 
-    with open('chess/data/top_moves.txt', 'w') as file:
+    with open('data/top_moves.txt', 'w') as file:
         file.write(str(dictionary))
 
 
 def update_last_moves(line):
     """Adds the given line to the last moves file"""
-    with open('chess/data/last_moves.txt', 'r+') as last_moves:
+    with open('data/last_moves.txt', 'r+') as last_moves:
         content = last_moves.read()
         last_moves.seek(0, 0)
         last_moves.write(line.rstrip('\r\n') + '\n' + content)
@@ -77,11 +77,11 @@ def main(issue, issue_author, repo_owner):
     action = parse_issue(issue.title)
     gameboard = chess.Board()
 
-    with open('chess/data/settings.yaml', 'r') as settings_file:
+    with open('data/settings.yaml', 'r') as settings_file:
         settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
     if action[0] == Action.NEW_GAME:
-        if os.path.exists('chess/games/current.pgn') and issue_author != repo_owner:
+        if os.path.exists('games/current.pgn') and issue_author != repo_owner:
             issue.create_comment(settings['comments']['invalid_new_game'].format(author=issue_author))
             issue.edit(state='closed')
             return False, 'ERROR: A current game is in progress. Only the repo owner can start a new game'
@@ -89,7 +89,7 @@ def main(issue, issue_author, repo_owner):
         issue.create_comment(settings['comments']['successful_new_game'].format(author=issue_author))
         issue.edit(state='closed')
 
-        with open('chess/data/last_moves.txt', 'w') as last_moves:
+        with open('data/last_moves.txt', 'w') as last_moves:
             last_moves.write('Start game: ' + issue_author)
 
         # Create new game
@@ -100,15 +100,15 @@ def main(issue, issue_author, repo_owner):
         game.headers['Round'] = '1'
 
     elif action[0] == Action.MOVE:
-        if not os.path.exists('chess/games/current.pgn'):
+        if not os.path.exists('games/current.pgn'):
             return False, 'ERROR: There is no game in progress! Start a new game first'
 
-        # Load game from "chess/games/current.pgn"
-        with open('chess/games/current.pgn') as pgn_file:
+        # Load game from "games/current.pgn"
+        with open('games/current.pgn') as pgn_file:
             game = chess.pgn.read_game(pgn_file)
             gameboard = game.board()
 
-        with open('chess/data/last_moves.txt') as moves:
+        with open('data/last_moves.txt') as moves:
             line = moves.readline()
             last_player = line.split(':')[1].strip()
             last_move   = line.split(':')[0].strip()
@@ -164,8 +164,8 @@ def main(issue, issue_author, repo_owner):
         issue.edit(state='closed', labels=['Invalid'])
         return False, 'ERROR: Unknown action'
 
-    # Save game to "chess/games/current.pgn"
-    print(game, file=open('chess/games/current.pgn', 'w'), end='\n\n')
+    # Save game to "games/current.pgn"
+    print(game, file=open('games/current.pgn', 'w'), end='\n\n')
 
     last_moves = markdown.generate_last_moves()
 
@@ -177,7 +177,7 @@ def main(issue, issue_author, repo_owner):
             '0-1': 'Black wins'
         }
 
-        with open('chess/data/last_moves.txt', 'r') as last_moves_file:
+        with open('data/last_moves.txt', 'r') as last_moves_file:
             lines = last_moves_file.readlines()
             pattern = re.compile('.*: (@[a-z\\d](?:[a-z\\d]|-(?=[a-z\\d])){0,38})', flags=re.I)
             player_list = { re.match(pattern, line).group(1) for line in lines }
@@ -193,8 +193,8 @@ def main(issue, issue_author, repo_owner):
             num_moves=len(lines)-1,
             num_players=len(player_list)))
 
-        os.rename('chess/games/current.pgn', datetime.now().strftime('chess/games/game-%Y%m%d-%H%M%S.pgn'))
-        os.remove('chess/data/last_moves.txt')
+        os.rename('games/current.pgn', datetime.now().strftime('games/game-%Y%m%d-%H%M%S.pgn'))
+        os.remove('data/last_moves.txt')
 
     with open('README.md', 'r') as file:
         readme = file.read()
@@ -204,23 +204,14 @@ def main(issue, issue_author, repo_owner):
         readme = replace_text_between(readme, settings['markers']['last_moves'], '{last_moves}')
         readme = replace_text_between(readme, settings['markers']['top_moves'], '{top_moves}')
 
-    with open('READMaE.md', 'w') as file:
-        data = {
-            'chess_board': markdown.board_to_markdown(gameboard),
-            'moves_list': markdown.generate_moves_list(gameboard),
-            'turn': ('white' if gameboard.turn == chess.WHITE else 'black'),
-            'last_moves': last_moves,
-            'top_moves': markdown.generate_top_moves()
-        }
-        # Ensure the readme template and keys match
-        file.write(readme.format(**data))
-        
-    #file.write(readme.format(
-         #   chess_board=markdown.board_to_markdown(gameboard),
-        #    moves_list=markdown.generate_moves_list(gameboard),
-        #    turn=('white' if gameboard.turn == chess.WHITE else 'black'),
-        #    last_moves=last_moves,
-        #    top_moves=markdown.generate_top_moves()))
+    with open('README.md', 'w') as file:
+        # Write new board & list of movements
+        file.write(readme.format(
+            chess_board=markdown.board_to_markdown(gameboard),
+            moves_list=markdown.generate_moves_list(gameboard),
+            turn=('white' if gameboard.turn == chess.WHITE else 'black'),
+            last_moves=last_moves,
+            top_moves=markdown.generate_top_moves()))
 
     return True, ''
 
