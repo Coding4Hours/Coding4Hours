@@ -254,11 +254,11 @@ Having fun? Ask a friend to do the next move!
 <!--END_SECTION:waka-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/Coding4Hours/Coding4Hours/issues/29) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
-2. ❗ Opened issue [#28](https://github.com/Coding4Hours/Coding4Hours/issues/28) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
-3. ❗ Opened issue [#2](https://github.com/Coding4Hours/readme-chess/issues/2) in [Coding4Hours/readme-chess](https://github.com/Coding4Hours/readme-chess)
-4. ❗ Opened issue [#27](https://github.com/Coding4Hours/Coding4Hours/issues/27) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
-5. ❗ Opened issue [#26](https://github.com/Coding4Hours/Coding4Hours/issues/26) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+1. ❗ Opened issue [#99](https://github.com/BenjaminHalko/BenjaminHalko/issues/99) in [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko)
+2. ❗ Opened issue [#33](https://github.com/Coding4Hours/Coding4Hours/issues/33) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+3. ❗ Opened issue [#32](https://github.com/Coding4Hours/Coding4Hours/issues/32) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+4. ❗ Opened issue [#31](https://github.com/Coding4Hours/Coding4Hours/issues/31) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+5. 🔒 Closed issue [#14](https://github.com/Coding4Hours/Coding4Hours/issues/14) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 </div>
