@@ -64,7 +64,7 @@ def get_move():
         return int(issue.title.split(":")[1].split(' ')[-1])
     return -1
 
-# Main
+# master
 if __name__ == "__main__":
     issue, user = GetInfo()
     try:
@@ -108,7 +108,7 @@ if __name__ == "__main__":
         for j in range(6):
             value += '|'
             for i in range(8):
-                value += f' <img src="https://github.com/Coding4Hours/Coding4Hours/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
+                value += f' <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
             value += '\n'
 
         # Update stats
