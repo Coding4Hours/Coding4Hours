@@ -260,7 +260,9 @@ Having fun? Ask a friend to do the next move!
 </details>
 </details>
 
-<h3>On my blog</h3>
+
+---
+### On my blog
 
 <!-- blog starts -->
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
