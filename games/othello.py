@@ -165,9 +165,9 @@ def update_data(move, state):
         value += f'| {i} |'
         for j in range(8):
             if f'{i}-{j}' in movesAsStrings:
-                value += f" <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+{chr(65+j)}{i}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> |"
+                value += f" <a href='https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Othello:+{chr(65+j)}{i}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/Coding4Hours/Coding4Hours/raw/master/games/othello_data/marker.svg' alt='marker' width='50px'></a> |"
             else:
-                value += f' <img src="https://github.com/Coding4Hours/Coding4Hours/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
+                value += f' <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
         value += '\n'
 
     # Update stats
@@ -197,8 +197,8 @@ def update_data(move, state):
 
     updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,readmeMoves)
 
-# Main
-if __name__ == "__main__":
+# master
+if __name__ == "__master__":
     issue, user = GetInfo()
     try:
         data = load_data()
