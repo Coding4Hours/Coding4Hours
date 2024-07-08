@@ -16,7 +16,7 @@
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=Hi%2C+I'm+Coding4Hours%F0%9F%91%8B;I'm+a+wannabe+hacker+and+coder.;I+love+IT.;Press+for+more+info!" alt="Typing SVG" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/coding4hours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coding4hours" height="30" width="40" /></a>
 <a href="https://kaggle.com/pusheen meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pusheen meow" height="30" width="40" /></a>
