@@ -314,9 +314,9 @@ Having fun? Ask a friend to do the next move!
 	### On my blog
  
  <!-- blog starts -->
- * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
- * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
- <!-- blog ends -->
+* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
+* [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
+<!-- blog ends -->
  More on [My blog](https://coding4hours.github.io)
  
  <!--START_SECTION:waka-->
