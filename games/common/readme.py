@@ -1,7 +1,7 @@
 def format_leaderboard(leaderboard):
     top_moves = sorted([[moves, user] for user, moves in leaderboard.items()], key=lambda x: -x[0])
     value = "| Moves | User |\n| :-: | :-: |\n"
-    for moves, user in top_moves[:10]:
+    for moves, user in top_moves:
         value += f"| {moves} | [ @{user}](https://github.com/{user}) |\n"
     return value
 
@@ -54,7 +54,7 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, moves=""):
 {format_history(history)}
 </details>
 
-<details align="left"><summary><h3>Top 10 most active players</h3></summary>
+<details align="left"><summary><h3>Most active players</h3></summary>
 
 {format_leaderboard(leaderboard)}
 </details>
