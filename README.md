@@ -14,123 +14,166 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<code>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" />
   </a>
+	  </code><code>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" />
   </a>
+</code><code>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" />
   </a>
+	</code><code>
+
+</code><code>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" />
   </a>
+</code><code>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt="dotnet" />
   </a>
+</code><code>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="electron" />
   </a>
+</code><code>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" />
   </a>
+</code><code>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" />
   </a>
+</code><code>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" />
   </a>
+</code><code>
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white" alt="gatsby" />
   </a>
+</code><code>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" />
   </a>
+</code><code>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" />
   </a>
+</code><code>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" />
   </a>
+</code><code>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" />
   </a>
+</code><code>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" />
   </a>
+</code><code>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" />
   </a>
+</code><code>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" />
   </a>
+</code><code>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" />
   </a>
+</code><code>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" />
   </a>
+</code><code>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" alt="mariadb" />
   </a>
+</code><code>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
+</code><code>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="mssql" />
   </a>
+</code><code>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" />
   </a>
+</code><code>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" />
   </a>
+</code><code>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" />
   </a>
+</code><code>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="nuxtjs" />
   </a>
+</code><code>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" />
   </a>
+</code><code>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
   </a>
+</code><code>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="photoshop" />
   </a>
+</code><code>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="postgresql" />
   </a>
+</code><code>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="postman" />
   </a>
+</code><code>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white" alt="puppeteer" />
   </a>
+</code><code>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python" />
   </a>
+</code><code>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="pytorch" />
   </a>
+</code><code>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="react" />
   </a>
+</code><code>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="selenium" />
   </a>
+</code><code>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" />
   </a>
+</code><code>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" />
   </a>
+</code><code>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
   </a>
+</code>
 </p>
 
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
