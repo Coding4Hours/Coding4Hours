@@ -1,37 +1,79 @@
+
+          
 name: Games
 on:
     issues:
         types: [opened]
 jobs:
-    Connect4:
+    Chess:
+      move:
+        permissions:
+          issues: write
+          contents: write
         runs-on: ubuntu-latest
-        if: startsWith(github.event.issue.title, 'Connect4:')
+        if: startsWith(github.event.issue.title, 'Chess:')
+    
         steps:
-            - name: Setting up environment
-              run: |
-                echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
-                echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
-                echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
-
-            - uses: actions/checkout@v3
-
-            - name: Set up Python 3.8
-              uses: actions/setup-python@v3
-              with:
-                python-version: 3.8
-
-            - name: Run Game
-              run: |
-                pip install PyGithub
-                python games/connect4.py
-                 
-            - name: Commit and push changes
-              run: |
-                git config --global user.name "github-actions[bot]"
-                git config --global user.email "github-actions[bot]@users.noreply.github.com"
-                git add .
-                git commit -m "${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}"
-                git push
+          - uses: actions/checkout@v3
+    
+          # Set up a Python 3.10 (64-bit) instance
+          - name: Setting up Python
+            uses: actions/setup-python@v4
+            with:
+              python-version: "3.10"
+              architecture: "x64"
+    
+          # Use pip to install the dependencies and then run the script
+          - name: Play chess
+            env:
+              ISSUE_NUMBER: ${{ github.event.issue.number }}
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              REPOSITORY_OWNER: ${{ github.repository_owner }}
+            run: |
+              pip install -r requirements.txt
+              python main.py
+    
+          # Create new commit with the changed files and push it to GitHub
+          - name: Commit and push changes
+            env:
+              ISSUE_TITLE: ${{ github.event.issue.title }}
+              ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+            run: |
+              git config --global user.name "github-actions[bot]"
+              git config --global user.email "github-actions[bot]@users.noreply.github.com"
+              git add .
+              git commit -m "${ISSUE_TITLE} by ${ISSUE_AUTHOR}"
+              git push
+          
+        Connect4:
+            runs-on: ubuntu-latest
+            if: startsWith(github.event.issue.title, 'Connect4:')
+            steps:
+                - name: Setting up environment
+                  run: |
+                    echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
+                    echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
+                    echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
+    
+                - uses: actions/checkout@v3
+    
+                - name: Set up Python 3.8
+                  uses: actions/setup-python@v3
+                  with:
+                    python-version: 3.8
+    
+                - name: Run Game
+                  run: |
+                    pip install PyGithub
+                    python games/connect4.py
+                     
+                - name: Commit and push changes
+                  run: |
+                    git config --global user.name "github-actions[bot]"
+                    git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                    git add .
+                    git commit -m "${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}"
+                    git push
     Othello:
         runs-on: ubuntu-latest
         if: startsWith(github.event.issue.title, 'Othello:')
