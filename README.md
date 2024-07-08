@@ -19,11 +19,11 @@
 </p>
 
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
-<details align="center"><summary><h2>Stats</h2></summary>
+<details align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
   ### 🔝 𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚁𝚎𝚙𝚘
-  ![](https://github-contributor-stats.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-𝚂𝚝𝚊𝚝𝚜.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
@@ -68,7 +68,7 @@
 
 </details>
 
-<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜�</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -120,7 +120,7 @@
 
 </details>
 
-<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜�</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -194,8 +194,9 @@
 </details>
 
 <div align="center">
-<img align="center" alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+<img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
 </div>
+
 ---
 	
  ### On my blog
