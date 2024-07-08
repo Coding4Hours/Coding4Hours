@@ -197,7 +197,7 @@
 ![𝚂𝚙𝚘𝚝𝚒𝚏𝚢](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
 	---
 	
-	### On my blog
+ ### On my blog
  
  <!-- blog starts -->
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
