@@ -31,7 +31,7 @@ jobs:
               REPOSITORY_OWNER: ${{ github.repository_owner }}
             run: |
               pip install -r requirements.txt
-              python main.py
+              python chess.py
     
           # Create new commit with the changed files and push it to GitHub
           - name: Commit and push changes
