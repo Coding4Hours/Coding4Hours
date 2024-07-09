@@ -112,20 +112,17 @@ if len(sys.argv) > 1:
                 if updated_board[i] == 'X' or updated_board[i] == 'O':
                     pass
                 else:
-            issue_title = f"move {move}"
-            encoded_title = urllib.parse.quote(issue_title)
-            moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
-            i += 1
+                    issue_title = f"move {move}"
+                    encoded_title = urllib.parse.quote(issue_title)
+                    moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
+                i += 1
 
             new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
-    new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
+            new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
 
-    with open('README.md', 'w') as file:
-        file.write(new_content)
-        else:
-            next_player = 'O' if current_player == 'X' else 'X'
-            status = f"It's {next_player}'s turn to play."
+            with open('README.md', 'w') as file:
+                file.write(new_content)
 
-        # Update data and content
+            # Update data and content
 
-    update_readme(board, status)
+            update_readme(board, status)
