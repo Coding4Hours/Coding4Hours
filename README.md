@@ -240,10 +240,10 @@ No activity tracked
 
 ## Current Board
 
-| O | O | X |
-|---|---|---|
-| O | X |  |
-| O | X | X |
+|  |  | X |
+    |---|---|---|
+    |  |  |  |
+    |  |  |  |
 
 Possible moves:
 
