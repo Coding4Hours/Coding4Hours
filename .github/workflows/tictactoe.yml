@@ -20,7 +20,7 @@ jobs:
       run: |
         pip install urllib3 --break-system-packages
         move=$(echo ${{ github.event.issue.title }} | sed 's/move //')
-        python tic_tac_toe.py $move
+        python games/tic_tac_toe.py $move
 
     - name: Commit and push if changed
       run: |
