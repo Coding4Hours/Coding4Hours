@@ -90,19 +90,18 @@ if len(sys.argv) > 1:
         winner = check_winner(board)
         if winner:
             status = f'{winner} wins!' if winner != 'Tie' else "It's a tie!"
-            board_str = f"""|  |  |  |
+            with open('games/ttt_data/data.json', 'r') as file:
+                data = json.load(file)
+            data['board'] = f"""|  |  |  |
             |---|---|---|
             |  |  |  |
             |  |  |  |"""
-            with open('games/ttt_data/data.json', 'r') as file:
-                data = json.load(file)
-            data['board'] = updated_board  # Update board in data dictionary
 
             possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
             moves_str = "Possible moves:\n\n"
             i = 0
             for move in possible_moves:
-                if updated_board[i] == 'X' or updated_board[i] == 'O':
+                if data['board'][i] == 'X' or data['board'][i] == 'O':
                     pass
                 else:
                     issue_title = f"move {move}"
