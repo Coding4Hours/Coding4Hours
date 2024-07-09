@@ -75,58 +75,37 @@ def update_readme(board, status):
 import sys
 if len(sys.argv) > 1:
     move = int(sys.argv[1]) - 1
+    try:
+        move = int(sys.argv[1]) - 1
+    except ValueError:
+        print("Error: Invalid move number. Please enter an integer.")
+        return
+
     with open('README.md', 'r') as file:
         content = file.read()
-    
+
     with open('games/ttt_data/data.json', 'r') as file:
-        data = json.load(file) 
+        data = json.load(file)
+
     board = data['board']
-    
     current_player = data['turn']
 
     print(board)
-    
+
     if update_board(board, move, current_player):
         winner = check_winner(board)
         if winner:
-            status = f'{winner} wins!' if winner != 'Tie' else "It's a tie!"
-            with open('games/ttt_data/data.json', 'r') as file:
-                data = json.load(file)
-            data['board'] = f"""|  |  |  |
+            board_str = f"""|  |  |  |
             |---|---|---|
             |  |  |  |
             |  |  |  |"""
+            status = f'{winner} wins!' if winner != 'Tie' else "It's a tie!"
+            # Update data and content
 
-            possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
-            moves_str = "Possible moves:\n\n"
-            i = 0
-            for move in possible_moves:
-                if data['board'][i] == 'X' or data['board'][i] == 'O':
-                    pass
-                else:
-                    issue_title = f"move {move}"
-                    encoded_title = urllib.parse.quote(issue_title)
-                    moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
-                i += 1
-
-            new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
-            new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
-
-            with open('README.md', 'w') as file:
-                file.write(new_content)
-
-
-
-
-        
         else:
             next_player = 'O' if current_player == 'X' else 'X'
             status = f"It's {next_player}'s turn to play."
-        
-        with open('games/ttt_data/data.json', 'r') as file:
-            a = json.load(file)
-            
-        a['turn'] = 'O' if current_player == 'X' else 'X'
-        with open('games/ttt_data/data.json', 'w') as file:
-            file.write(json.dumps(a))
-        update_readme(board, status)
+
+        # Update data and content
+
+    update_readme(board, status)
