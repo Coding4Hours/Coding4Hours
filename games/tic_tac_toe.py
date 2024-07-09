@@ -79,7 +79,6 @@ if len(sys.argv) > 1:
         move = int(sys.argv[1]) - 1
     except ValueError:
         print("Error: Invalid move number. Please enter an integer.")
-        return
 
     with open('README.md', 'r') as file:
         content = file.read()
