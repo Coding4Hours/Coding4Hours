@@ -94,7 +94,7 @@ if len(sys.argv) > 1:
     if update_board(board, move, current_player):
         winner = check_winner(board)
         if winner:
-            updated_board = f"""|  |  |  |
+            board_str = f"""|  |  |  |
             |---|---|---|
             |  |  |  |
             |  |  |  |"""
@@ -102,13 +102,13 @@ if len(sys.argv) > 1:
             # Update data and content
             with open('games/ttt_data/data.json', 'r') as file:
                 data = json.load(file)
-            data['board'] = updated_board  # Update board in data dictionary
+            data['board'] = board_str  # Update board in data dictionary
 
             possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
             moves_str = "Possible moves:\n\n"
             i = 0
             for move in possible_moves:
-                if updated_board[i] == 'X' or updated_board[i] == 'O':
+                if board_str[i] == 'X' or board_str[i] == 'O':
                     pass
                 else:
                     issue_title = f"move {move}"
