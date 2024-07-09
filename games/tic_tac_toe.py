@@ -75,53 +75,58 @@ def update_readme(board, status):
 import sys
 if len(sys.argv) > 1:
     move = int(sys.argv[1]) - 1
-    try:
-        move = int(sys.argv[1]) - 1
-    except ValueError:
-        print("Error: Invalid move number. Please enter an integer.")
-
     with open('README.md', 'r') as file:
         content = file.read()
-
+            
+    
     with open('games/ttt_data/data.json', 'r') as file:
-        data = json.load(file)
-
+        data = json.load(file) 
     board = data['board']
+    
     current_player = data['turn']
 
     print(board)
-
+    
     if update_board(board, move, current_player):
         winner = check_winner(board)
         if winner:
-            board_str = f"""|  |  |  |
-            |---|---|---|
-            |  |  |  |
-            |  |  |  |"""
             status = f'{winner} wins!' if winner != 'Tie' else "It's a tie!"
-            # Update data and content
-            with open('games/ttt_data/data.json', 'r') as file:
-                data = json.load(file)
-            data['board'] = board_str  # Update board in data dictionary
+        else:
+            next_player = 'O' if current_player == 'X' else 'X'
+            status = f"It's {next_player}'s turn to play."
+        
+        with open('games/ttt_data/data.json', 'r') as file:
+            a = json.load(file)
+            
+        a['turn'] = 'O' if current_player == 'X' else 'X'
+        with open('games/ttt_data/data.json', 'w') as file:
+            file.write(json.dumps(a))
 
-            possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
-            moves_str = "Possible moves:\n\n"
-            i = 0
-            for move in possible_moves:
-                if board_str[i] == 'X' or board_str[i] == 'O':
-                    pass
-                else:
-                    issue_title = f"move {move}"
-                    encoded_title = urllib.parse.quote(issue_title)
-                    moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
-                i += 1
+        
+        updated_board = ['&nbsp;' if tile == ' ' else tile for tile in board]
+        board_str = f"""|  |  | {updated_board[2]} |
+    |---|---|---|
+    |  |  |  |
+    |  |  |  |"""
 
-            new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
-            new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
+        with open('games/ttt_data/data.json', 'r') as file:
+            data = json.load(file)
+        data['board'] = updated_board  # Update board in data dictionary
 
-            with open('README.md', 'w') as file:
-                file.write(new_content)
+        possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
+        moves_str = "Possible moves:\n\n"
+        i = 0
+        for move in possible_moves:
+            if updated_board[i] == 'X' or updated_board[i] == 'O':
+                pass
+            else:
+                issue_title = f"move {move}"
+                encoded_title = urllib.parse.quote(issue_title)
+                moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
+            i += 1
 
-            # Update data and content
+        new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
+        new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
 
-            update_readme(board, status)
+        with open('README.md', 'w') as file:
+            file.write(new_content)
