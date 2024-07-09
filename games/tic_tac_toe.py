@@ -95,13 +95,33 @@ if len(sys.argv) > 1:
     if update_board(board, move, current_player):
         winner = check_winner(board)
         if winner:
-            board_str = f"""|  |  |  |
+            updated_board = f"""|  |  |  |
             |---|---|---|
             |  |  |  |
             |  |  |  |"""
             status = f'{winner} wins!' if winner != 'Tie' else "It's a tie!"
             # Update data and content
+            with open('games/ttt_data/data.json', 'r') as file:
+                data = json.load(file)
+            data['board'] = updated_board  # Update board in data dictionary
 
+            possible_moves = [i+1 for i, v in enumerate(board) if v == ' ']
+            moves_str = "Possible moves:\n\n"
+            i = 0
+            for move in possible_moves:
+                if updated_board[i] == 'X' or updated_board[i] == 'O':
+                    pass
+                else:
+            issue_title = f"move {move}"
+            encoded_title = urllib.parse.quote(issue_title)
+            moves_str += f"- [Move {move}](https://github.com/Coding4Hours/Coding4Hours/issues/new?title={encoded_title})\n"
+            i += 1
+
+            new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
+    new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
+
+    with open('README.md', 'w') as file:
+        file.write(new_content)
         else:
             next_player = 'O' if current_player == 'X' else 'X'
             status = f"It's {next_player}'s turn to play."
