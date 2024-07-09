@@ -96,6 +96,3 @@ if len(sys.argv) > 1:
         with open('games/ttt_data/data.json', 'w') as file:
             file.write(json.dumps(a))
         update_readme(board, status)
-        return True
-    else:
-        return False
