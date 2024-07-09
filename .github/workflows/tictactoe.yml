@@ -1,0 +1,35 @@
+name: Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  process_move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'move')
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Process move
+      run: |
+        pip install urllib3 --break-system-packages
+        move=$(echo ${{ github.event.issue.title }} | sed 's/move //')
+        python tic_tac_toe.py $move
+
+    - name: Commit and push if changed
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'neealdon3@gmail.com'
+        git commit -am "bot: update README.md automatically" || echo "No changes to commit"
+        git push "https://x-access-token:${{secrets.GODMODE}}@github.com/${{ github.repository }}.git"
+    - name: Close issue
+      uses: peter-evans/close-issue@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        comment: "Move processed. Check the README for the updated game board."

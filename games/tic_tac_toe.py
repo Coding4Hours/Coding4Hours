@@ -32,7 +32,7 @@ def update_readme(board, status):
 | {updated_board[3]} | {updated_board[4]} | {updated_board[5]} |
 | {updated_board[6]} | {updated_board[7]} | {updated_board[8]} |"""
 
-    with open('games/ttt-data/data.json', 'r') as file:
+    with open('ttt_data/data.json', 'r') as file:
         data = json.load(file)
     data['board'] = updated_board  # Update board in data dictionary
 
@@ -49,19 +49,16 @@ def update_readme(board, status):
     with open('README.md', 'w') as file:
         file.write(new_content)
 
-    # If you need to persist the updated board in "games/ttt-data/data.json"
-    with open('games/ttt-data/data.json', 'w') as file:
+    # If you need to persist the updated board in "ttt_data/data.json"
+    with open('ttt_data/data.json', 'w') as file:
         json.dump(data, file)
     
-
-import sys
-if len(sys.argv) > 1:
-    move = int(sys.argv[1]) - 1
-    
+def main(move):
     with open('README.md', 'r') as file:
         content = file.read()
-        
-    with open('games/ttt-data/data.json', 'r') as file:
+            
+    
+    with open('ttt_data/data.json', 'r') as file:
         data = json.load(file) 
     board = data['board']
     
@@ -81,3 +78,8 @@ if len(sys.argv) > 1:
         return True
     else:
         return False
+
+import sys
+if len(sys.argv) > 1:
+    move = int(sys.argv[1]) - 1
+    main(move)
