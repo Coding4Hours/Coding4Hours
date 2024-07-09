@@ -221,9 +221,9 @@
  𝙼𝚘𝚛𝚎 𝚘𝚗 [𝙼𝚢 𝚋𝚕𝚘𝚐](https://coding4hours.github.io)
  
  <!--START_SECTION:waka-->
- 
+
 ```txt
-  No activity tracked
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
