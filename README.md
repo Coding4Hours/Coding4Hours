@@ -240,7 +240,7 @@ No activity tracked
 
 ## Current Board
 
-| O | O |  |
+| O | O | X |
 |---|---|---|
 | O | X |  |
 |  |  | X |
@@ -266,4 +266,4 @@ Possible moves:
 
 ## Game Status
 
-It's X's turn to play.
+It's O's turn to play.
