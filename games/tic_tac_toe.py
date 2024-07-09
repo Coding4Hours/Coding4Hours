@@ -32,7 +32,7 @@ def update_readme(board, status):
 | {updated_board[3]} | {updated_board[4]} | {updated_board[5]} |
 | {updated_board[6]} | {updated_board[7]} | {updated_board[8]} |"""
 
-    with open('ttt_data/data.json', 'r') as file:
+    with open('games/ttt_data/data.json', 'r') as file:
         data = json.load(file)
     data['board'] = updated_board  # Update board in data dictionary
 
@@ -50,7 +50,7 @@ def update_readme(board, status):
         file.write(new_content)
 
     # If you need to persist the updated board in "ttt_data/data.json"
-    with open('ttt_data/data.json', 'w') as file:
+    with open('games/ttt_data/data.json', 'w') as file:
         json.dump(data, file)
     
 def main(move):
