@@ -243,7 +243,7 @@ No activity tracked
 | O | O | X |
 |---|---|---|
 | O | X |  |
-|  |  | X |
+| O |  | X |
 
 Possible moves:
 
@@ -266,4 +266,4 @@ Possible moves:
 
 ## Game Status
 
-It's O's turn to play.
+O wins!
