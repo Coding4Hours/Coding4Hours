@@ -18,8 +18,10 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mermaid](#mermaid)
 - [Nim](#nim)
 - [Others](#others)
@@ -43,6 +45,7 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -67,6 +70,7 @@
 
 ## CSS 
 
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [VillainsRule/villainsrule.xyz](https://github.com/VillainsRule/villainsrule.xyz) - my personal website :)
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
@@ -89,6 +93,7 @@
 
 ## Go 
 
+- [tismayil/ohmybackup](https://github.com/tismayil/ohmybackup) - Scan Victim Backup Directories & Backup Files
 - [illusionTBA/GoCors](https://github.com/illusionTBA/GoCors) - a simple cors proxy made in golang
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [Coding4Hours/oh-my-posh-gosh](https://github.com/Coding4Hours/oh-my-posh-gosh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -105,6 +110,7 @@
 
 ## HTML 
 
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [asc2563/Aluben-Hub](https://github.com/asc2563/Aluben-Hub) - this is Aluben Hub on github all Aluben services are here including procky list, Iceland games, and Aluben W-P
 - [asc2563/Aluben](https://github.com/asc2563/Aluben) - the Aluben repository is the Aluben W-P on github
 - [asc2563/AlubenforAzure](https://github.com/asc2563/AlubenforAzure) - 
@@ -211,6 +217,7 @@
 
 ## Java 
 
+- [rusty-sj/Competitive-Coding](https://github.com/rusty-sj/Competitive-Coding) - Implentations of some of the problems on Competitive Coding Platforms
 - [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects) - my java projects
 - [ub66159/carRental](https://github.com/ub66159/carRental) - A CarRental Prototype for multiple reservations
 - [eclipse-ee4j/angus-mail](https://github.com/eclipse-ee4j/angus-mail) - Angus Mail
@@ -239,6 +246,16 @@
 
 ## JavaScript 
 
+- [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
+- [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
+- [remcokranenburg/tic-tac-toe-action](https://github.com/remcokranenburg/tic-tac-toe-action) - Tic Tac Toe in your issue tracker!
+- [adityadhopade/tic-tac-toe-game](https://github.com/adityadhopade/tic-tac-toe-game) - CICD of TIC-TAC-TOE game on Github Actions
+- [AnsellMaximilian/tic-taction-toe](https://github.com/AnsellMaximilian/tic-taction-toe) - 
+- [jaywcjlove/github-actions](https://github.com/jaywcjlove/github-actions) - 测试 GitHub Actions
+- [jaywcjlove/github-action-contributors](https://github.com/jaywcjlove/github-action-contributors) - Github action generates dynamic image URL for contributor list to display it!
+- [jaywcjlove/generated-badges](https://github.com/jaywcjlove/generated-badges) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
+- [rahul-jha98/PasswordKeeper](https://github.com/rahul-jha98/PasswordKeeper) - Web-app to help you securely store your encrypted passwords in your Google Drive.
+- [afj176/MD-Minify](https://github.com/afj176/MD-Minify) - Markdown Minification
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [illusionTBA/ultraviolet-modified](https://github.com/illusionTBA/ultraviolet-modified) - My modified version of UV with built in middleware and script injection
@@ -297,7 +314,6 @@
 - [nates/ward](https://github.com/nates/ward) - 🔑 A Discord verification bot using reCAPTCHA v2.
 - [xelitezz/datdoggyunblocked](https://github.com/xelitezz/datdoggyunblocked) - Dat Doggy Unblocked is the best proxy with blazing speeds to uncensor any website!
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
-- [MaxWeichers/UntitledProxy](https://github.com/MaxWeichers/UntitledProxy) - A simple, but efficient, fast free school proxy. With a custom bare server!
 - [mecharis-420/Kitty-Cat-Club](https://github.com/mecharis-420/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
 - [TwoMuchRed/rubygames](https://github.com/TwoMuchRed/rubygames) - 
 - [CycloKid/discord-clone](https://github.com/CycloKid/discord-clone) - A "Discord clone" with Socket.io, Node.js & MongoDB...  Create channel, invite other people to your channel, chat with everyone...
@@ -421,7 +437,12 @@
 
 ## Jinja 
 
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [kittinan/kittinan](https://github.com/kittinan/kittinan) - 
+
+## Jsonnet 
+
+- [MacroPower/homelab](https://github.com/MacroPower/homelab) - IaC for my homelab & personal cloud.
 
 ## Jupyter Notebook 
 
@@ -432,7 +453,13 @@
 
 ## Makefile 
 
+- [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
 - [cytopia/docker-dvwa](https://github.com/cytopia/docker-dvwa) - Docker Compose setup for DVWA with all available PHP versions
+
+## Markdown 
+
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
+- [jaywcjlove/git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
 
 ## Mermaid 
 
@@ -444,6 +471,20 @@
 
 ## Others 
 
+- [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template) - A template repository for Recent Activity github action.
+- [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
+- [simonw/shot-scraper-demo](https://github.com/simonw/shot-scraper-demo) - Live demo of shot-scraper
+- [simonw/python-lib-template-repository](https://github.com/simonw/python-lib-template-repository) - GitHub template repository for creating new Python libraries, using the simonw/python-lib cookiecutter template
+- [maxontech/best-github-profile-readme](https://github.com/maxontech/best-github-profile-readme) - Curated list of beautiful and unique GitHub Profile Readme markdown files
+- [jain-priyal1/Tic-tac-toe](https://github.com/jain-priyal1/Tic-tac-toe) - Two-player game played on 3x3 grid using python.
+- [sridhar-sp/tic-tac-toe](https://github.com/sridhar-sp/tic-tac-toe) - Tic-tac-toe game from markdown file. This is a learning attempt to see how interactive Github readme file can be. Checkout the backend code here. https://github.com/sridhar-sp/tic-tac-toe-backend
+- [orhun/orhun](https://github.com/orhun/orhun) - My GitHub profile README.md ⭐:octocat:
+- [Coding4Hours/maximousblk](https://github.com/Coding4Hours/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
+- [maximousblk/maximousblk](https://github.com/maximousblk/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
+- [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
+- [jaywcjlove/nginx-tutorial](https://github.com/jaywcjlove/nginx-tutorial) - Nginx安装维护入门学习笔记，以及各种实例。
+- [jaywcjlove/awesome-chatgpt](https://github.com/jaywcjlove/awesome-chatgpt) - 
+- [zumrudu-anka/zumrudu-anka](https://github.com/zumrudu-anka/zumrudu-anka) - 🐲 GitHub Profile Readme
 - [skills/write-javascript-actions](https://github.com/skills/write-javascript-actions) - Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
 - [HFO4/HFO4](https://github.com/HFO4/HFO4) - 
 - [skills/connect-the-dots](https://github.com/skills/connect-the-dots) - Useful tips when navigating through your repository
@@ -537,6 +578,10 @@
 
 ## Python 
 
+- [simonw/action-transcription](https://github.com/simonw/action-transcription) - A tool for creating a repository of transcribed videos
+- [Coding4Hours/asgi-gzip](https://github.com/Coding4Hours/asgi-gzip) - gzip middleware for ASGI applications, extracted from Starlette
+- [simonw/asgi-gzip](https://github.com/simonw/asgi-gzip) - gzip middleware for ASGI applications, extracted from Starlette
+- [ivpusic/tic-tac-toe](https://github.com/ivpusic/tic-tac-toe) - Tic-tac-toe game with AI in Prolog and GUI in Python (kivy framework + pyswip)
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [BenjaminHalko/BenjaminHalko](https://github.com/BenjaminHalko/BenjaminHalko) - The profile repository!
@@ -664,6 +709,8 @@
 
 ## Rust 
 
+- [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
+- [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [Nordgaren/tabstate-util](https://github.com/Nordgaren/tabstate-util) - 
 - [MercuryWorkshop/whisper](https://github.com/MercuryWorkshop/whisper) - Wisp protocol client that exposes the Wisp connection over a TUN device.
 - [r58Playz/terraos](https://github.com/r58Playz/terraos) - Boot Linux-based operating systems from a RMA shim.
@@ -674,6 +721,7 @@
 
 ## Shell 
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [lifeparticle/Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal) - Bash automation script to get  iTerm2, oh-my-zsh, Fig, material-design-colors, powerlevel9k and nerd-fonts on your Mac.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [kaakaww/dvwa-docker](https://github.com/kaakaww/dvwa-docker) - A Docker run and use impelementation of DVWA
@@ -703,6 +751,15 @@
 
 ## TypeScript 
 
+- [noobnooc/ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+- [jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts markdown text to HTML.
+- [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
+- [jaywcjlove/create-tag-action](https://github.com/jaywcjlove/create-tag-action) - Auto create tags from commit or package.json
+- [jaywcjlove/github-action-modify-file-content](https://github.com/jaywcjlove/github-action-modify-file-content) - Replace text content and submit content
+- [jaywcjlove/github-action-read-file](https://github.com/jaywcjlove/github-action-read-file) - Read file contents.
+- [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
+- [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
 - [SashenJayathilaka/Awesome-Github-Readme-Generator](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator) - You can easily and quickly create a readme file for your github profile or git hub repository. (visit below) (Click the Get Started button to start the process, Choose Github Readme Template you want,
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
