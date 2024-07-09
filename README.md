@@ -241,9 +241,9 @@ No activity tracked
 ## Current Board
 
 |  |  | X |
-    |---|---|---|
-    |  |  |  |
-    |  |  |  |
+|---|---|---|
+|  |  |  |
+|  |  |  |
 
 Possible moves:
 
