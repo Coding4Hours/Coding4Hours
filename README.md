@@ -243,7 +243,7 @@ No activity tracked
 | O | O | X |
 |---|---|---|
 | O | X |  |
-| O |  | X |
+| O | X | X |
 
 Possible moves:
 
