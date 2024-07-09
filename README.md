@@ -240,7 +240,7 @@ No activity tracked
 
 ## Current Board
 
-|  | O |  |
+| O | O |  |
 |---|---|---|
 | O | X |  |
 |  |  | X |
@@ -266,4 +266,4 @@ Possible moves:
 
 ## Game Status
 
-It's a tie!
+It's X's turn to play.
