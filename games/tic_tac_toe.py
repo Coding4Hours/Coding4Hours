@@ -9,16 +9,29 @@ def update_board(board, move, player):
     return True
 
 def check_winner(board):
+    # Define the winning combinations
     winning_combinations = [
-        [0, 1, 2], [3, 4, 5], [6, 7, 8],  # Rows
-        [0, 3, 6], [1, 4, 7], [2, 5, 8],  # Columns
-        [0, 4, 8], [2, 4, 6]  # Diagonals
+        [0, 1, 2], # Top row
+        [3, 4, 5], # Middle row
+        [6, 7, 8], # Bottom row
+        [0, 3, 6], # Left column
+        [1, 4, 7], # Middle column
+        [2, 5, 8], # Right column
+        [0, 4, 8], # Diagonal from top-left to bottom-right
+        [2, 4, 6]  # Diagonal from top-right to bottom-left
     ]
-    for combo in winning_combinations:
-        if board[combo[0]] == board[combo[1]] == board[combo[2]] != ' ':
-            return board[combo[0]]
-    if ' ' not in board:
-        return 'Tie'
+
+    # Check each winning combination
+    for combination in winning_combinations:
+        a, b, c = combination
+        if board[a] != "" and board[a] == board[b] == board[c]:
+            return board[a]
+
+    # Check for a draw (if all positions are filled and no winner)
+    if all(cell != "" for cell in board):
+        return "Draw"
+
+    # No winner and not a draw
     return None
 
 def update_readme(board, status):
@@ -53,10 +66,12 @@ def update_readme(board, status):
     with open('games/ttt_data/data.json', 'w') as file:
         json.dump(data, file)
     
-def main(move):
+
+import sys
+if len(sys.argv) > 1:
+    move = int(sys.argv[1]) - 1
     with open('README.md', 'r') as file:
         content = file.read()
-            
     
     with open('games/ttt_data/data.json', 'r') as file:
         data = json.load(file) 
@@ -84,8 +99,3 @@ def main(move):
         return True
     else:
         return False
-
-import sys
-if len(sys.argv) > 1:
-    move = int(sys.argv[1]) - 1
-    main(move)
