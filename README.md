@@ -229,10 +229,10 @@ No activity tracked
 <!--END_SECTION:waka-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Coding4Hours/tic_tac_toe/issues/9) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
-2. ❗ Opened issue [#8](https://github.com/Coding4Hours/tic_tac_toe/issues/8) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
-3. ❗ Opened issue [#7](https://github.com/Coding4Hours/tic_tac_toe/issues/7) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
-4. ❗ Opened issue [#6](https://github.com/Coding4Hours/tic_tac_toe/issues/6) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
-5. ❗ Opened issue [#45](https://github.com/Coding4Hours/Coding4Hours/issues/45) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+1. ❗ Opened issue [#25](https://github.com/Coding4Hours/tic_tac_toe/issues/25) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
+2. ❗ Opened issue [#24](https://github.com/Coding4Hours/tic_tac_toe/issues/24) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
+3. ❗ Opened issue [#23](https://github.com/Coding4Hours/tic_tac_toe/issues/23) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
+4. ❗ Opened issue [#22](https://github.com/Coding4Hours/tic_tac_toe/issues/22) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
+5. ❗ Opened issue [#21](https://github.com/Coding4Hours/tic_tac_toe/issues/21) in [Coding4Hours/tic_tac_toe](https://github.com/Coding4Hours/tic_tac_toe)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
