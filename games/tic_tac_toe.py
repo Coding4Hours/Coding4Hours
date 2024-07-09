@@ -58,7 +58,7 @@ def main(move):
         content = file.read()
             
     
-    with open('ttt_data/data.json', 'r') as file:
+    with open('games/ttt_data/data.json', 'r') as file:
         data = json.load(file) 
     board = data['board']
     
@@ -74,6 +74,12 @@ def main(move):
             next_player = 'O' if current_player == 'X' else 'X'
             status = f"It's {next_player}'s turn to play."
         
+        with open('games/ttt_data/data.json', 'r') as file:
+            a = json.load(file)
+            
+        a['turn'] = 'O' if current_player == 'X' else 'X'
+        with open('games/ttt_data/data.json', 'w') as file:
+            file.write(json.dumps(a))
         update_readme(board, status)
         return True
     else:
