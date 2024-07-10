@@ -53,7 +53,7 @@
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
 <br>
-<img src="https://profile-summary-for-github.com/user/Coding4Hours" align="center"/>
+<!-- <img src="https://profile-summary-for-github.com/user/Coding4Hours" align="center"/> -->
 </details>
 
 
@@ -244,6 +244,7 @@
 	
 <div align="center">
 <img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+<a  alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp7synce55dmtksfghfxg3hq34"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp7synce55dmtksfghfxg3hq34" alt="Data Card for Spotify"> </a>
 </div>
 
 
