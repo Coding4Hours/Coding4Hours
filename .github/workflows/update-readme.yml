@@ -30,7 +30,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'neealdon3@gmail.com'
           git commit -am "bot: update README.md automatically" || echo "No changes to commit"
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
       - uses: siddharth2016/quote-readme@main
         with:
           GH_TOKEN: ${{ secrets.GOD }}          
@@ -72,7 +72,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'neealdon3@gmail.com'
           git commit -am "bot: update README.md automatically" || echo "No changes to commit"
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
