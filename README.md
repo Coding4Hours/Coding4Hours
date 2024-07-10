@@ -68,7 +68,7 @@
 
 </details>
 
-<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜�</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -85,7 +85,7 @@
 <table align="center">
 <tr></tr>
 <tr><td>
-<p align="center"><b>𝙰 𝚐𝚊𝚖𝚎 𝚘𝚏 𝙾𝚝𝚑𝚎𝚕𝚕𝚘 𝚙𝚕𝚊𝚢𝚎𝚍 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</b><br>𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚊 𝚠𝚑𝚒𝚝𝚎 𝚍𝚘𝚝 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚖𝚘𝚟𝚎.<𝚋𝚛>𝙱𝚕𝚞𝚎 𝚑𝚊𝚜 𝟼 𝚙𝚒𝚎𝚌𝚎𝚜. 𝙶𝚛𝚎𝚎𝚗 𝚑𝚊𝚜 𝟺 𝚙𝚒𝚎𝚌𝚎𝚜.<br>🔵 𝙸𝚝 𝚒𝚜 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚕𝚞𝚎'𝚜 𝚝𝚞𝚛𝚗. 🔵</p><p>
+<p align="center"><b>𝙰 𝚐𝚊𝚖𝚎 𝚘𝚏 𝙾𝚝𝚑𝚎𝚕𝚕𝚘 𝚙𝚕𝚊𝚢𝚎𝚍 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</b><br>𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚊 𝚠𝚑𝚒𝚝𝚎 𝚍𝚘𝚝 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚖𝚘𝚟𝚎.<br>𝙱𝚕𝚞𝚎 𝚑𝚊𝚜 𝟼 𝚙𝚒𝚎𝚌𝚎𝚜. 𝙶𝚛𝚎𝚎𝚗 𝚑𝚊𝚜 𝟺 𝚙𝚒𝚎𝚌𝚎𝚜.<br>🔵 𝙸𝚝 𝚒𝚜 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚕𝚞𝚎'𝚜 𝚝𝚞𝚛𝚗. 🔵</p><p>
 
 |  | A | B | C | D | E | F | G | H |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -202,7 +202,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />  𝙷𝚎𝚛𝚎'𝚜 𝚜𝚘𝚖𝚎 𝚑𝚞𝚖𝚘𝚛 𝚏𝚘𝚛 𝚢𝚘𝚞:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </details>
 
@@ -220,7 +220,7 @@
 
 ---
 	
- ### On my blog
+ ### 𝙾𝚗 𝚖𝚢 𝚋𝚕𝚘𝚐
  
  <!-- blog starts -->
 * [Welcome to Jekyll!](https://coding4hours.github.io/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
