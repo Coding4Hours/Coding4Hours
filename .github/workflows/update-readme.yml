@@ -34,3 +34,11 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           GH_TOKEN: ${{ secrets.GOD }}          
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          outputs: |
+            github-snake-dark.svg?palette=github
