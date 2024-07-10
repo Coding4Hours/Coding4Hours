@@ -1,6 +1,7 @@
 <div align = "center">
   ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.22%
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Coding4Hours-nl-&desc=Just%20a%20teen%20with%20brain%20damage"/>
 <br>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=%F0%9D%99%B7%F0%9D%9A%92%2C+%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%F0%9D%9F%BA%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9F%91%8B;%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%8A+%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%8E+%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8E%F0%9D%9A%9B+%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B.;%F0%9D%99%B8+%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%99%B8%F0%9D%9A%83.;%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9C+%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%8E+%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8F%F0%9D%9A%98!" alt="Typing SVG" /></a> </p>
@@ -217,6 +218,7 @@
 </details>
 </details>
 
+ 
 ---
 	
  ### 𝙾𝚗 𝚖𝚢 𝚋𝚕𝚘𝚐
@@ -245,6 +247,8 @@ No activity tracked
 <!--END_SECTION:activity-->
 
 
+## <img src="https://cardivo.vercel.app/api?name=Coding4Hours&description=just%20a%20teen%20with%20brain%20damage&image=https://avatars.githubusercontent.com/u/138321129?v=4"/>
+
 ## Current Board
 
 |  |  | X |
@@ -264,13 +268,3 @@ Possible moves:
 - [Move 8](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%208)
 - [Move 9](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%209)
 
-
-## How to Play
-
-1. To make a move, create a new issue with the title "move {square number}" (e.g., "move 5" to place your mark in the center).
-2. The game bot will process your move, update the board, and close the issue.
-3. The next player can then make their move in the same way.
-
-## Game Status
-
-O wins!
