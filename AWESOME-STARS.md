@@ -28,6 +28,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -271,7 +272,7 @@
 - [AwesomeDudeIsHere/1337hax](https://github.com/AwesomeDudeIsHere/1337hax) - leet hax for 3v3ry0n3!
 - [Coding4Hours/docss](https://github.com/Coding4Hours/docss) - 
 - [Coding4Hours/inject0r](https://github.com/Coding4Hours/inject0r) - Injector is a JavaScript bookmark developed by platinome.
-- [Coding4Hours/3v3ry0n3.github.io](https://github.com/Coding4Hours/3v3ry0n3.github.io) - The blue sky was dotted with fluffy white clouds, lazily drifting across the horizon. The sound of birds chirping filled the air as a gentle breeze blew through the trees
+- [Coding4Hours/docs](https://github.com/Coding4Hours/docs) - The blue sky was dotted with fluffy white clouds, lazily drifting across the horizon. The sound of birds chirping filled the air as a gentle breeze blew through the trees
 - [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica) - 
 - [lifeparticle/JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet) - 🖥 Cheatsheet for JavaScript
 - [ub66159/hello-world](https://github.com/ub66159/hello-world) - 
@@ -471,6 +472,8 @@
 
 ## Others 
 
+- [haidang666/awesome-tool-for-readme-profile](https://github.com/haidang666/awesome-tool-for-readme-profile) - List of thing you can add to your github readme profile
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template) - A template repository for Recent Activity github action.
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
 - [simonw/shot-scraper-demo](https://github.com/simonw/shot-scraper-demo) - Live demo of shot-scraper
@@ -696,6 +699,10 @@
 - [fate0/getproxy](https://github.com/fate0/getproxy) - getproxy 是一个抓取发放代理网站，获取 http/https 代理的程序
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+## R 
+
+- [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111) - My awesome profile README
 
 ## Ruby 
 
