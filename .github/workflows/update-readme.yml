@@ -42,3 +42,34 @@ jobs:
           #  - color_dots:  Coma separated list of dots color.
           outputs: |
             github-snake-dark.svg?palette=github
+  build2:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+    - name: Update README
+      env:
+        GOD: ${{ secrets.GOD }}
+      run: |-
+        python medum.py
+        cat README.md
+    - name: Commit and push if README changed
+      run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'neealdon3@gmail.com'
+          git commit -am "bot: update README.md automatically" || echo "No changes to commit"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
