@@ -125,7 +125,7 @@
 
 </details>
 
-<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜�</h3></summary>
+<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
@@ -211,9 +211,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </details>
 
-<div align="center">
-<img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
-</div>
 <details align='center'><summary><h2>𝚆𝚊𝚗𝚗𝚊 𝚜𝚎𝚎 𝚊 𝚖𝚊𝚐𝚒𝚌 𝚝𝚛𝚒𝚌𝚔?</summary>
 <details><summary><h2>𝙽𝚞𝚖𝚋𝚎𝚛 𝚃𝚛𝚒𝚌𝚔</h2></summary>
 	𝙸 𝚠𝚊𝚗𝚝 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚑𝚒𝚗𝚔 𝚘𝚏 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛. 𝚃𝚑𝚎𝚗 𝚙𝚛𝚎𝚜𝚜 𝚊𝚗𝚜𝚠𝚎𝚛.
@@ -222,6 +219,11 @@
 	</details>
 </details>
 </details>
+	
+<div align="center">
+<img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+</div>
+
 
  
 ---
