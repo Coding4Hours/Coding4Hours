@@ -1,6 +1,7 @@
 <div align = "center">
   ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.24%
 </div>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Coding4Hours-nl-&desc=Just%20a%20teen%20with%20brain%20damage"/>
 <br>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
@@ -27,6 +28,10 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
+<br>
+<img src="https://profile-summary-for-github.com/user/Coding4Hours" align="center"/>
 </details>
 
 
