@@ -2,29 +2,25 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+	  <li><a href="#start">Start</a></li>
+	  <li><a href="#tools">Tools</a></li>
+	  <li><a href="#stats">Stats</a></li>
+	  <li>
+		  <a href="#games">Games</a>
+		  <ul>
+			  <li><a href="#game1">Connect 4</a></li>
+			  <li><a href="#othello">Othello</a></li>
+			  <li><a href="#chess">Chess</a></li>
+		  </ul>
+	  </li>
+	  <li><a href="#insights">Insights</a></li>
+	  <li><a href="#trick">Magic Trick</a></li>
+	  <li><a href="#playing">Playing</a></li>
+	  <li><a href="#end">End</a></li>
   </ol>
 </details>
 <br>
-<div align = "center">
+<div id="start" align = "center">
   ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.25%
 </div>
 <br>
@@ -39,14 +35,14 @@
 <a href="https://www.youtube.com/c/hydrogennetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hydrogennetwork" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
+<h3 id="tools" align="center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" /><img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" /><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" /><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" /><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt="dotnet" />
 <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="electron" /><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" /><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" /><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" /><img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white" alt="gatsby" /><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" /><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" /><img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" /><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" /><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" /><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" /><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" /><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" /><img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" alt="mariadb" /><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongodb" /><img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="mssql" /><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" /><img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" /><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" /><img src="https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" alt="nuxtjs" /><img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" /><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" /><img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="photoshop" /><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="postgresql" /><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="postman" /><img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white" alt="puppeteer" /><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python" /><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="pytorch" /><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="react" /><img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="selenium" /><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" /><img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" /><img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
 </p>
 
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
-<details align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
+<details  id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
   ### 🔝 𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚁𝚎𝚙𝚘
@@ -62,9 +58,9 @@
 
 
 
-<details align="center"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
+<details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
   <!-- CONNECT4 -->
-<details align="center"><summary><h2>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺</h2></summary>
+<details align="center" id="game1"><summary><h2>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -112,7 +108,7 @@
 </details>
 <!-- CONNECT4 -->
 <!-- OTHELLO -->
-<details align="center"><summary><h2>𝙾𝚝𝚑𝚎𝚕𝚕𝚘</h2></summary>
+<details align="center" id="game2"><summary><h2>𝙾𝚝𝚑𝚎𝚕𝚕𝚘</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -164,7 +160,7 @@
 </details>
 <!-- OTHELLO -->
 
-<details><summary><h2>𝙲𝚑𝚎𝚜𝚜</h2></summary>
+<details id="game3" align="center"><summary><h2>𝙲𝚑𝚎𝚜𝚜</h2></summary>
 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚝𝚞𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢! 𝙼𝚘𝚟𝚎 𝚊 <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
@@ -224,7 +220,7 @@
 </details>
 </details>
 
-<details align="center">
+<details id="insights" align="center">
 	<summary><h2>𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝚜</h2></summary>
 
 <a href="https://github.com/marketplace/actions/quote-readme">
