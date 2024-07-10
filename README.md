@@ -209,6 +209,14 @@
 <div align="center">
 <img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
 </div>
+<details><summary><h2>Wanna see a magic trick?</summary>
+<details><summary><h2>Number Trick</h2></summary>
+	I want you to think of a number. Then press answer.
+	<details><summary>Answer</summary>
+		<h2>Your answer has either 3 or 7 or both</h2>
+	</details>
+</details>
+</details>
 
 ---
 	
