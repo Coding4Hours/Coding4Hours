@@ -209,11 +209,11 @@
 <div align="center">
 <img alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wp7synce55dmtksfghfxg3hq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
 </div>
-<details><summary><h2>Wanna see a magic trick?</summary>
-<details><summary><h2>Number Trick</h2></summary>
-	I want you to think of a number. Then press answer.
-	<details><summary>Answer</summary>
-		<h2>Your answer has either 3 or 7 or both</h2>
+<details align='center'><summary><h2>𝚆𝚊𝚗𝚗𝚊 𝚜𝚎𝚎 𝚊 𝚖𝚊𝚐𝚒𝚌 𝚝𝚛𝚒𝚌𝚔?</summary>
+<details><summary><h2>𝙽𝚞𝚖𝚋𝚎𝚛 𝚃𝚛𝚒𝚌𝚔</h2></summary>
+	𝙸 𝚠𝚊𝚗𝚝 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚑𝚒𝚗𝚔 𝚘𝚏 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛. 𝚃𝚑𝚎𝚗 𝚙𝚛𝚎𝚜𝚜 𝚊𝚗𝚜𝚠𝚎𝚛.
+	<details><summary>𝙰𝚗𝚜𝚠𝚎𝚛</summary>
+		<h2>𝚈𝚘𝚞𝚛 𝚊𝚗𝚜𝚠𝚎𝚛 𝚑𝚊𝚜 𝚎𝚒𝚝𝚑𝚎𝚛 𝟹 𝚘𝚛 𝟽 𝚘𝚛 𝚋𝚘𝚝𝚑</h2>
 	</details>
 </details>
 </details>
