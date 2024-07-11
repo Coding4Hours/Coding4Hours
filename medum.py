@@ -69,7 +69,7 @@ def fetch_latest_releases():
     """
     variables = {"user": "coding4hours", "repo_count": 100}
     url = "https://api.github.com/graphql"
-    response = requests.post(url, json={'query': query, 'variables': variables}, headers=HEADERS)
+    response = requests.post(url, json={'query': query, 'variables': variables}, headers=HEADERS, timeout=60)
     
     if response.status_code != 200:
         raise Exception(f"Error fetching data: {response.status_code}, {response.text}")
