@@ -6,6 +6,7 @@
 ## Contents
 
 - [AutoHotkey](#autohotkey)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -43,6 +44,10 @@
 ## AutoHotkey 
 
 - [NatroTeam/NatroMacro](https://github.com/NatroTeam/NatroMacro) - A Bee Swarm Simulator macro for Windows
+
+## Batchfile 
+
+- [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 
 ## C 
 
@@ -111,6 +116,10 @@
 
 ## HTML 
 
+- [smashah/github-readme-testimonials](https://github.com/smashah/github-readme-testimonials) - Show appreciation for your contributions in your readme
+- [TacoGuy21/VOID](https://github.com/TacoGuy21/VOID) - A 30 stage puzzle game where you are trapped in a pure black abyss housing nothing but a green gateway and several sharp spikes. How will you escape?
+- [Lissy93/md-toc-generator](https://github.com/Lissy93/md-toc-generator) - 📒 Quick script to generate a table of contents from a markdown document
+- [luciopaiva/markdown-toc](https://github.com/luciopaiva/markdown-toc) - Online markdown table of contents generator
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [asc2563/Aluben-Hub](https://github.com/asc2563/Aluben-Hub) - this is Aluben Hub on github all Aluben services are here including procky list, Iceland games, and Aluben W-P
 - [asc2563/Aluben](https://github.com/asc2563/Aluben) - the Aluben repository is the Aluben W-P on github
@@ -247,6 +256,12 @@
 
 ## JavaScript 
 
+- [jacques-blom/dynamic-github-profile](https://github.com/jacques-blom/dynamic-github-profile) - A Netlify function that updates your GitHub profile repo with your latest YouTube videos
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
+- [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
+- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
 - [remcokranenburg/tic-tac-toe-action](https://github.com/remcokranenburg/tic-tac-toe-action) - Tic Tac Toe in your issue tracker!
@@ -459,6 +474,8 @@
 
 ## Markdown 
 
+- [gleich/gleich](https://github.com/gleich/gleich) - :octocat: Config for my GitHub profile
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [jaywcjlove/git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
 
@@ -472,6 +489,7 @@
 
 ## Others 
 
+- [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra) - 
 - [18-RAJAT/18-RAJAT](https://github.com/18-RAJAT/18-RAJAT) - 
 - [haidang666/awesome-tool-for-readme-profile](https://github.com/haidang666/awesome-tool-for-readme-profile) - List of thing you can add to your github readme profile
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -572,6 +590,7 @@
 
 ## PHP 
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [opsxcq/docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa) - Damn Vulnerable Web Application Docker container
 - [webpwnized/mutillidae](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, secu
 - [buffermet/CSP-bypass](https://github.com/buffermet/CSP-bypass) - Bypass Content-Security-Policy to phish data.
@@ -582,6 +601,10 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
+- [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [simonw/action-transcription](https://github.com/simonw/action-transcription) - A tool for creating a repository of transcribed videos
 - [Coding4Hours/asgi-gzip](https://github.com/Coding4Hours/asgi-gzip) - gzip middleware for ASGI applications, extracted from Starlette
 - [simonw/asgi-gzip](https://github.com/simonw/asgi-gzip) - gzip middleware for ASGI applications, extracted from Starlette
@@ -707,6 +730,7 @@
 
 ## Ruby 
 
+- [lifeparticle/Gist-Count](https://github.com/lifeparticle/Gist-Count) - ⌗ Get GitHub Gist Count
 - [m-dunne/example-blog](https://github.com/m-dunne/example-blog) - An example blog built using mere-blog-theme
 - [MikeySee/mikeysee.github.io](https://github.com/MikeySee/mikeysee.github.io) - An example blog built using mere-blog-theme
 - [karaca-beyza/karaca-beyza.github.io](https://github.com/karaca-beyza/karaca-beyza.github.io) - An example blog built using mere-blog-theme
@@ -717,6 +741,7 @@
 
 ## Rust 
 
+- [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [Nordgaren/tabstate-util](https://github.com/Nordgaren/tabstate-util) - 
@@ -759,6 +784,14 @@
 
 ## TypeScript 
 
+- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x faster 🚀🚀🚀
+- [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+- [dailydotdev/action-devcard](https://github.com/dailydotdev/action-devcard) - GitHub Action to download the devcard from https://daily.dev
+- [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped
+- [bxcodec/github-readme-medium-recent-article](https://github.com/bxcodec/github-readme-medium-recent-article) - Add Your Recently Published Medium Articles to Your GitHub Readme
+- [my-badges/my-badges](https://github.com/my-badges/my-badges) - All You Badges
+- [satyawikananda/cardivo](https://github.com/satyawikananda/cardivo) - Get your card name and put it in your readme file 📇
 - [noobnooc/ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts markdown text to HTML.
@@ -804,6 +837,7 @@
 
 ## Vue 
 
+- [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [csc530/mysite](https://github.com/csc530/mysite) - 😇My personal website for whatever I so choose😈
 - [FireStreaker2/NuxtProxy](https://github.com/FireStreaker2/NuxtProxy) - Simple proxy built with Nuxt as a SPA.
 
