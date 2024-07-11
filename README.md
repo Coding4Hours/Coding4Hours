@@ -1,26 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-	  <li><a href="#start">Start</a></li>
-	  <li><a href="#tools">Tools</a></li>
-	  <li><a href="#stats">Stats</a></li>
-	  <li>
-		  <a href="#games">Games</a>
-		  <ul>
-			  <li><a href="#game1">Connect 4</a></li>
-			  <li><a href="#othello">Othello</a></li>
-			  <li><a href="#chess">Chess</a></li>
-		  </ul>
-	  </li>
-	  <li><a href="#insights">Insights</a></li>
-	  <li><a href="#trick">Magic Trick</a></li>
-	  <li><a href="#playing">Playing</a></li>
-	  <li><a href="#end">End</a></li>
-  </ol>
-</details>
-<br>
-<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Coding4Hours-nl-&desc=Just%20a%20teen%20with%20brain%20damage"/>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=%F0%9D%99%B7%F0%9D%9A%92%2C+%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%F0%9D%9F%BA%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9F%91%8B;%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%8A+%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%8E+%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8E%F0%9D%9A%9B+%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B.;%F0%9D%99%B8+%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%99%B8%F0%9D%9A%83.;%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9C+%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%8E+%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8F%F0%9D%9A%98!" alt="Typing SVG" /></a> </p>
