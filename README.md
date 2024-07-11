@@ -25,7 +25,7 @@
 </div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Coding4Hours-nl-&desc=Just%20a%20teen%20with%20brain%20damage"/>
-  ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.50%
+  ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.51%
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 <p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=435&lines=%F0%9D%99%B7%F0%9D%9A%92%2C+%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%F0%9D%9F%BA%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9F%91%8B;%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%8A+%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%8E+%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8E%F0%9D%9A%9B+%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B.;%F0%9D%99%B8+%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%99%B8%F0%9D%9A%83.;%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9C+%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%9B+%F0%9D%9A%96%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%8E+%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8F%F0%9D%9A%98!" alt="Typing SVG" /></a> </p>
 <h3 align="center">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h3>
