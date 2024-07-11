@@ -109,7 +109,7 @@ def main(issue, issue_author, repo_owner):
             gameboard = game.board()
 
         with open('data/last_moves.txt') as moves:
-            line = moves.readline()
+            line = moves.readline(5_000_000)
             last_player = line.split(':')[1].strip()
             last_move   = line.split(':')[0].strip()
 
