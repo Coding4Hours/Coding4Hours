@@ -20,9 +20,6 @@
   </ol>
 </details>
 <br>
-<div id="start" align = "center">
-  ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.25%
-</div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Coding4Hours-nl-&desc=Just%20a%20teen%20with%20brain%20damage"/>
   ⏳ 𝚈𝚎𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 &#123; ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ &#125; 52.69%
@@ -297,3 +294,4 @@ Possible moves:
 - [Move 8](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%208)
 - [Move 9](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%209)
 
+[asfd, asfasdf]
