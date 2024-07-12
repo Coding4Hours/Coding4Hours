@@ -35,7 +35,7 @@ def check_winner(board):
     return None
 
 def update_readme(board, status):
-    with open('README.md', 'r') as file:
+    with open('TICTACTOE.md', 'r') as file:
         content = file.read()
 
     updated_board = ['&nbsp;' if tile == ' ' else tile for tile in board]
@@ -64,7 +64,7 @@ def update_readme(board, status):
     new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
     new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
 
-    with open('README.md', 'w') as file:
+    with open('TICTACTOE.md', 'w') as file:
         file.write(new_content)
 
     # If you need to persist the updated board in "ttt_data/data.json"
@@ -75,7 +75,7 @@ def update_readme(board, status):
 import sys
 if len(sys.argv) > 1:
     move = int(sys.argv[1]) - 1
-    with open('README.md', 'r') as file:
+    with open('TICTACTOE.md', 'r') as file:
         content = file.read()
             
     
@@ -128,5 +128,5 @@ if len(sys.argv) > 1:
         new_content = re.sub(r'## Current Board\n\n.*?\n\n', f'## Current Board\n\n{board_str}\n\n', content, flags=re.DOTALL)
         new_content = re.sub(r'## Game Status\n\n.*', f'## Game Status\n\n{status}', new_content)
 
-        with open('README.md', 'w') as file:
+        with open('TICTACTOE.md', 'w') as file:
             file.write(new_content)
