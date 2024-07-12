@@ -76,6 +76,13 @@
 
 ## CSS 
 
+- [StylishThemes/GitHub-Selected-Tab-Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) - :flags: Add a custom selected tab color to GitHub
+- [StylishThemes/GitHub-Compact-Feed](https://github.com/StylishThemes/GitHub-Compact-Feed) - :newspaper: Compact details in the news feed
+- [StylishThemes/GitHub-code-wrap](https://github.com/StylishThemes/GitHub-code-wrap) - :octocat: Wrap long code lines on GitHub
+- [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
+- [StylishThemes/GitHub-Unrounded](https://github.com/StylishThemes/GitHub-Unrounded) - Remove obnoxious/destructive border-radii on GitHub
+- [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [VillainsRule/villainsrule.xyz](https://github.com/VillainsRule/villainsrule.xyz) - my personal website :)
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
@@ -116,6 +123,7 @@
 
 ## HTML 
 
+- [MonkeyGG2/VioletGG2-Static](https://github.com/MonkeyGG2/VioletGG2-Static) - MonkeyGG2 static files for Ultraviolet Proxy
 - [smashah/github-readme-testimonials](https://github.com/smashah/github-readme-testimonials) - Show appreciation for your contributions in your readme
 - [TacoGuy21/VOID](https://github.com/TacoGuy21/VOID) - A 30 stage puzzle game where you are trapped in a pure black abyss housing nothing but a green gateway and several sharp spikes. How will you escape?
 - [Lissy93/md-toc-generator](https://github.com/Lissy93/md-toc-generator) - 📒 Quick script to generate a table of contents from a markdown document
@@ -227,6 +235,7 @@
 
 ## Java 
 
+- [HCL-TECH-SOFTWARE/AltoroJ](https://github.com/HCL-TECH-SOFTWARE/AltoroJ) - WARNING: This app contains security vulnerabilities. AltoroJ is a sample banking J2EE web application. It shows what happens when web applications are written with consideration of app functionality b
 - [rusty-sj/Competitive-Coding](https://github.com/rusty-sj/Competitive-Coding) - Implentations of some of the problems on Competitive Coding Platforms
 - [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects) - my java projects
 - [ub66159/carRental](https://github.com/ub66159/carRental) - A CarRental Prototype for multiple reservations
@@ -256,6 +265,16 @@
 
 ## JavaScript 
 
+- [Sparky7980/monkeygg3](https://github.com/Sparky7980/monkeygg3) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
+- [nh-99/KhanAcademy-Lesson-Hack](https://github.com/nh-99/KhanAcademy-Lesson-Hack) - Hacks through Khan Academy lessons
+- [ihql/KhanAcademyBot](https://github.com/ihql/KhanAcademyBot) - A (newly-revised) answer revealer for Khan Academy.
+- [adubov1/khanacademy_bot](https://github.com/adubov1/khanacademy_bot) - An answer revealer userscript for Khan Academy
+- [Sparky7980/khanacademy_bot](https://github.com/Sparky7980/khanacademy_bot) - An answer revealer userscript for Khan Academy
+- [Sparky7980/bedwars](https://github.com/Sparky7980/bedwars) - 
+- [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
+- [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+- [jkindrix/userscripts](https://github.com/jkindrix/userscripts) - Repository for TamperMonkey scripts
+- [noam3127/github-code-folding](https://github.com/noam3127/github-code-folding) - Chrome extension that enables code folding in GitHub
 - [jacques-blom/dynamic-github-profile](https://github.com/jacques-blom/dynamic-github-profile) - A Netlify function that updates your GitHub profile repo with your latest YouTube videos
 - [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -430,7 +449,7 @@
 - [snyk-labs/nodejs-goof](https://github.com/snyk-labs/nodejs-goof) - Super vulnerable todo list application
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [itzjustZJ123/GPortal](https://github.com/itzjustZJ123/GPortal) - GPortals!!!!!!!
-- [nettleweb/nettleweb](https://github.com/nettleweb/nettleweb) - 2000+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
+- [nettleweb/nettleweb](https://github.com/nettleweb/nettleweb) - 2500+ free unblocked games + unblockers + emulators + unblocked YouTube + unblocked ChatGPT
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [titaniumnetwork-dev/Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous) - The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
 - [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
@@ -489,6 +508,11 @@
 
 ## Others 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [VyperGroup/Moonrock](https://github.com/VyperGroup/Moonrock) - This is a search engine / aggregator for game sites
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [minesraft4/stuff-for-proxy-on-replit](https://github.com/minesraft4/stuff-for-proxy-on-replit) - replit proxy icon
+- [muskanrani/muskanrani](https://github.com/muskanrani/muskanrani) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
 - [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra) - 
 - [18-RAJAT/18-RAJAT](https://github.com/18-RAJAT/18-RAJAT) - 
 - [haidang666/awesome-tool-for-readme-profile](https://github.com/haidang666/awesome-tool-for-readme-profile) - List of thing you can add to your github readme profile
@@ -557,7 +581,6 @@
 - [Codydt/BlooketHack](https://github.com/Codydt/BlooketHack) - Blooket Hacks All Updated (Goto Console to work)
 - [Bosanac515/block-goguardian](https://github.com/Bosanac515/block-goguardian) - Block GoGuardian on the network level
 - [brunysixlovar900O/brunysixl](https://github.com/brunysixlovar900O/brunysixl) - moved https://github.com/b4unys/brunysixl
-- [VyperGroup/Moonrock](https://github.com/VyperGroup/Moonrock) - This is a search engine / aggregator for game sites
 - [SkyeGamesYT/Bookmarklets](https://github.com/SkyeGamesYT/Bookmarklets) - A collection of utilities for all kinds of websites!
 - [NJareau/C0NTR0L](https://github.com/NJareau/C0NTR0L) - A very high quality unblocked game/proxy site for all of your needs we have unblocked games, proxies, scripts, exploits, ai and more
 - [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol) - Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a single websocket.
@@ -754,6 +777,7 @@
 
 ## Shell 
 
+- [MonkeyGG2/VioletGG2](https://github.com/MonkeyGG2/VioletGG2) - A modified Ultraviolet-App which adds all of your favorite games from MonkeyGG2.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [lifeparticle/Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal) - Bash automation script to get  iTerm2, oh-my-zsh, Fig, material-design-colors, powerlevel9k and nerd-fonts on your Mac.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
@@ -784,6 +808,9 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [CLDXiang/tampermonkey](https://github.com/CLDXiang/tampermonkey) - CLDXiang's tampermokey scripts
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x faster 🚀🚀🚀
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
