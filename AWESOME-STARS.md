@@ -235,6 +235,7 @@
 
 ## Java 
 
+- [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [HCL-TECH-SOFTWARE/AltoroJ](https://github.com/HCL-TECH-SOFTWARE/AltoroJ) - WARNING: This app contains security vulnerabilities. AltoroJ is a sample banking J2EE web application. It shows what happens when web applications are written with consideration of app functionality b
 - [rusty-sj/Competitive-Coding](https://github.com/rusty-sj/Competitive-Coding) - Implentations of some of the problems on Competitive Coding Platforms
 - [Coding4Hours/java-projects](https://github.com/Coding4Hours/java-projects) - my java projects
@@ -265,6 +266,9 @@
 
 ## JavaScript 
 
+- [H4CKE3R/MINIBROWSER](https://github.com/H4CKE3R/MINIBROWSER) - Tests for a MiniBrowser!
+- [d-koppenhagen/d-koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen) - My Github Profile
+- [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
 - [Sparky7980/monkeygg3](https://github.com/Sparky7980/monkeygg3) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 - [nh-99/KhanAcademy-Lesson-Hack](https://github.com/nh-99/KhanAcademy-Lesson-Hack) - Hacks through Khan Academy lessons
 - [ihql/KhanAcademyBot](https://github.com/ihql/KhanAcademyBot) - A (newly-revised) answer revealer for Khan Academy.
@@ -508,6 +512,13 @@
 
 ## Others 
 
+- [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
+- [00xBAD/kali-wordlists](https://github.com/00xBAD/kali-wordlists) - Default Kali Linux Wordlists (SecLists Included)
+- [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
+- [raklaptudirm/raklaptudirm](https://github.com/raklaptudirm/raklaptudirm) - please stop starring this repo ;-;
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [VyperGroup/Moonrock](https://github.com/VyperGroup/Moonrock) - This is a search engine / aggregator for game sites
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -613,6 +624,7 @@
 
 ## PHP 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [opsxcq/docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa) - Damn Vulnerable Web Application Docker container
 - [webpwnized/mutillidae](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, secu
@@ -624,6 +636,7 @@
 
 ## Python 
 
+- [davidalami/rockrus2022](https://github.com/davidalami/rockrus2022) - Top 120 million of most probable passwords used by russian-speaking users
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
@@ -650,7 +663,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 168 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 169 stars and 178 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -659,7 +672,7 @@
 - [cubicbyte/tempmail-python](https://github.com/cubicbyte/tempmail-python) - Python library for generating temporary emails
 - [omkarcloud/omkar-temp-mail](https://github.com/omkarcloud/omkar-temp-mail) - 🚀 OMKAR TEMP MAIL HELPS YOU USE TEMPORARY EMAILS. 🤖
 - [x404xx/TempMailGenerator-1SECMAIL](https://github.com/x404xx/TempMailGenerator-1SECMAIL) - Temporary email addresses generator specifically designed for automated registration processes.
-- [KourvA/TempMailBot](https://github.com/KourvA/TempMailBot) - TempMailBot is a Telegram bot that makes you temporary emails with access to mailbox!
+- [kozyol/TempMailBot](https://github.com/kozyol/TempMailBot) - TempMailBot is a Telegram bot that makes you temporary emails with access to mailbox!
 - [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
 - [sameera-madushan/Mail-Swipe](https://github.com/sameera-madushan/Mail-Swipe) - Script to create temporary email addresses and receive emails.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
