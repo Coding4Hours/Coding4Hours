@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [StylishThemes/GitHub-Selected-Tab-Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) - :flags: Add a custom selected tab color to GitHub
 - [StylishThemes/GitHub-Compact-Feed](https://github.com/StylishThemes/GitHub-Compact-Feed) - :newspaper: Compact details in the news feed
 - [StylishThemes/GitHub-code-wrap](https://github.com/StylishThemes/GitHub-code-wrap) - :octocat: Wrap long code lines on GitHub
@@ -636,6 +637,7 @@
 
 ## Python 
 
+- [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [davidalami/rockrus2022](https://github.com/davidalami/rockrus2022) - Top 120 million of most probable passwords used by russian-speaking users
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
@@ -663,7 +665,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 169 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 169 stars and 177 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -821,6 +823,7 @@
 
 ## TypeScript 
 
+- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [CLDXiang/tampermonkey](https://github.com/CLDXiang/tampermonkey) - CLDXiang's tampermokey scripts
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
