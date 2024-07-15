@@ -32,11 +32,11 @@
 
 <details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
   <!-- CONNECT4 -->
-<details align="center" id="game1"><summary><h2>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺</h2></summary>
+<details align="center"><summary><h2>Connect 4</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
-<p align="center"><b>𝙰 𝚐𝚊𝚖𝚎 𝚘𝚏 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺 𝚙𝚕𝚊𝚢𝚎𝚍 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</b><br>🟡 𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚊 𝚌𝚘𝚕𝚞𝚖𝚗 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚊 𝚖𝚘𝚟𝚎. 𝙸𝚝 𝚒𝚜 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚈𝚎𝚕𝚕𝚘𝚠'𝚜 𝚝𝚞𝚛𝚗. 🟡</p><p>
+<p align="center"><b>A game of Connect 4 played on GitHub.</b><br>🔴 Click on a column to make a move. It is currently Red's turn. 🔴</p><p>
 
 | [COL 0](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 1](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+1&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 2](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+2&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 3](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 4](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+4&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 5](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 6](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 7](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=Connect4:+7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -45,29 +45,31 @@
 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
-| <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
+| <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/Coding4Hours/Coding4Hours/raw/master/games/common/blank.png" alt="blank" width="50px"> |
 
 
-<details align="left"><summary><h3>𝙷𝚒𝚜𝚝𝚘𝚛𝚢 𝚘𝚏 𝚖𝚘𝚟𝚎𝚜 𝚏𝚘𝚛 𝚝𝚑𝚒𝚜 𝚐𝚊𝚖𝚎</h3></summary>
+<details align="left"><summary><h3>History of moves for this game</h3></summary>
 
 | Move | User |
 | :-: | :-: |
+| 🟡 Column 2 | [ @nhelchitnis](https://github.com/nhelchitnis) |
 | 🔴 Column 4 | [ @Coding4Hours](https://github.com/Coding4Hours) |
 | 🟡 Column 3 | [ @](https://github.com/) |
 | 🔴 Column 5 | [ @](https://github.com/) |
 
 </details>
 
-<details align="left"><summary><h3>𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝚙𝚕𝚊𝚢𝚎𝚛𝚜</h3></summary>
+<details align="left"><summary><h3>Most active players</h3></summary>
 
 | Moves | User |
 | :-: | :-: |
 | 2 | [ @](https://github.com/) |
 | 1 | [ @Coding4Hours](https://github.com/Coding4Hours) |
+| 1 | [ @nhelchitnis](https://github.com/nhelchitnis) |
 
 </details>
 
-<details align="left"><summary><h3>𝚂𝚝𝚊𝚝𝚜</h3></summary>
+<details align="left"><summary><h3>Stats</h3></summary>
 
 | Stat | Value |
 | :-: | :-: |
