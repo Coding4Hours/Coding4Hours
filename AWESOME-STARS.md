@@ -60,6 +60,8 @@
 
 ## C# # 
 
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+- [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
 - [csc530/resumer](https://github.com/csc530/resumer) - save your job details and easily build a resume from them
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [CoderNate/CSharpToPython](https://github.com/CoderNate/CSharpToPython) - C# to Python source code converter using Roslyn
@@ -69,6 +71,8 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
@@ -236,6 +240,7 @@
 
 ## Java 
 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [HCL-TECH-SOFTWARE/AltoroJ](https://github.com/HCL-TECH-SOFTWARE/AltoroJ) - WARNING: This app contains security vulnerabilities. AltoroJ is a sample banking J2EE web application. It shows what happens when web applications are written with consideration of app functionality b
 - [rusty-sj/Competitive-Coding](https://github.com/rusty-sj/Competitive-Coding) - Implentations of some of the problems on Competitive Coding Platforms
@@ -267,6 +272,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [H4CKE3R/MINIBROWSER](https://github.com/H4CKE3R/MINIBROWSER) - Tests for a MiniBrowser!
 - [d-koppenhagen/d-koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen) - My Github Profile
 - [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
@@ -486,6 +492,7 @@
 
 ## Jupyter Notebook 
 
+- [x4nth055/pythoncode-tutorials](https://github.com/x4nth055/pythoncode-tutorials) - The Python Code Tutorials
 - [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet) - The missing Cheatsheet for Python
 - [ksemiya/password_solver](https://github.com/ksemiya/password_solver) - Speedrun Neal's Password Game
 - [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
@@ -513,6 +520,7 @@
 
 ## Others 
 
+- [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [00xBAD/kali-wordlists](https://github.com/00xBAD/kali-wordlists) - Default Kali Linux Wordlists (SecLists Included)
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
@@ -665,7 +673,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 169 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -717,7 +725,6 @@
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to build Awesome Scrapers.
 - [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
-- [Vodkarm/Scrapy](https://github.com/Vodkarm/Scrapy) - 🌐 Fast & Easy Proxy Scrapper 🌐
 - [kashaziz/rotating-proxy-python](https://github.com/kashaziz/rotating-proxy-python) - Python script for rotation through Proxy Servers
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Web scrapers for popular targets powered Scrapfly.io
@@ -792,6 +799,7 @@
 
 ## Shell 
 
+- [rhinospray/extract_torrents](https://github.com/rhinospray/extract_torrents) - For rTorrent, extract active .torrents from .sessions, with original name and same subdir structure than downloads
 - [MonkeyGG2/VioletGG2](https://github.com/MonkeyGG2/VioletGG2) - A modified Ultraviolet-App which adds all of your favorite games from MonkeyGG2.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [lifeparticle/Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal) - Bash automation script to get  iTerm2, oh-my-zsh, Fig, material-design-colors, powerlevel9k and nerd-fonts on your Mac.
@@ -823,6 +831,8 @@
 
 ## TypeScript 
 
+- [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) - Freeter – a smarter way to work on your computer
+- [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [CLDXiang/tampermonkey](https://github.com/CLDXiang/tampermonkey) - CLDXiang's tampermokey scripts
