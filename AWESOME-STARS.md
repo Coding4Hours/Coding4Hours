@@ -272,6 +272,9 @@
 
 ## JavaScript 
 
+- [vigov5/nodium](https://github.com/vigov5/nodium) - An extension for bypassing Medium paywall.
+- [Coding4Hours/medium-paywall-bypass](https://github.com/Coding4Hours/medium-paywall-bypass) - 
+- [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [H4CKE3R/MINIBROWSER](https://github.com/H4CKE3R/MINIBROWSER) - Tests for a MiniBrowser!
 - [d-koppenhagen/d-koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen) - My Github Profile
@@ -520,6 +523,7 @@
 
 ## Others 
 
+- [yaojialyu/geektime-books](https://github.com/yaojialyu/geektime-books) - :books: 极客时间电子书
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [00xBAD/kali-wordlists](https://github.com/00xBAD/kali-wordlists) - Default Kali Linux Wordlists (SecLists Included)
@@ -645,6 +649,13 @@
 
 ## Python 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [zlliu246/print_btree](https://github.com/zlliu246/print_btree) - 
+- [theanti9/PyCrawler](https://github.com/theanti9/PyCrawler) - A python web crawler
+- [agarwalsarthak121/web_crawlers](https://github.com/agarwalsarthak121/web_crawlers) - I was always intrigued whenever I see how someone can automate a task with a few lines of code. Here are some interesting Python scripts that lets you automate various daily tasks.
+- [Mondego/spacetime-crawler4py](https://github.com/Mondego/spacetime-crawler4py) - Yet another Web crawler
+- [yaojialyu/crawler](https://github.com/yaojialyu/crawler) - a web crawler
+- [Coding4Hours/My-first-Package](https://github.com/Coding4Hours/My-first-Package) - a Math package for all you math nerds(including me)
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [davidalami/rockrus2022](https://github.com/davidalami/rockrus2022) - Top 120 million of most probable passwords used by russian-speaking users
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -831,6 +842,9 @@
 
 ## TypeScript 
 
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [codaworks/react-glow](https://github.com/codaworks/react-glow) - 
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) - Freeter – a smarter way to work on your computer
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
