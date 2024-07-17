@@ -241,11 +241,11 @@ No activity tracked
 <!--END_SECTION:waka-->
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/Coding4Hours/math/releases/tag/v1.0.0) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
-2. 🚀 Published release [v1.0.0](https://github.com/Coding4Hours/math/releases/tag/v1.0.0) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
-3. 🚀 Published release [asdf](https://github.com/Coding4Hours/math/releases/tag/v1.0.1) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
+1. ❌ Closed PR [#2](https://github.com/Skoolgq/Polaris-Assets/pull/2) in [Skoolgq/Polaris-Assets](https://github.com/Skoolgq/Polaris-Assets)
+2. 💪 Opened PR [#2](https://github.com/Skoolgq/Polaris-Assets/pull/2) in [Skoolgq/Polaris-Assets](https://github.com/Skoolgq/Polaris-Assets)
+3. 🚀 Published release [v1.0.0](https://github.com/Coding4Hours/math/releases/tag/v1.0.0) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
 4. 🚀 Published release [v1.0.0](https://github.com/Coding4Hours/math/releases/tag/v1.0.0) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
-5. 🚀 Published release [V1.0.0](https://github.com/Coding4Hours/math/releases/tag/v1.0.0) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
+5. 🚀 Published release [asdf](https://github.com/Coding4Hours/math/releases/tag/v1.0.1) in [Coding4Hours/math](https://github.com/Coding4Hours/math)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
