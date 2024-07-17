@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -40,6 +41,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Xonsh](#xonsh)
+
+## Astro 
+
+- [titaniumnetwork-dev/Alu](https://github.com/titaniumnetwork-dev/Alu) - Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead
 
 ## AutoHotkey 
 
@@ -80,6 +85,7 @@
 
 ## CSS 
 
+- [TheGlitchedPhoenix/TacoPrrxyV2](https://github.com/TheGlitchedPhoenix/TacoPrrxyV2) - A node.js web proxy for use in combating web filters
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [StylishThemes/GitHub-Selected-Tab-Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) - :flags: Add a custom selected tab color to GitHub
 - [StylishThemes/GitHub-Compact-Feed](https://github.com/StylishThemes/GitHub-Compact-Feed) - :newspaper: Compact details in the news feed
@@ -128,6 +134,13 @@
 
 ## HTML 
 
+- [unblockhype/Hype](https://github.com/unblockhype/Hype) - Hype is a powerful proxy service/unblocker for school.
+- [TheGlitchedPhoenix/TheGlitchedShadersPhoenix-](https://github.com/TheGlitchedPhoenix/TheGlitchedShadersPhoenix-) - Eaglercraft Shaders!
+- [OutRed/tristan.rip-src](https://github.com/OutRed/tristan.rip-src) - i remember tristan saying some time that if something happened, hed release src, which, well, i dont remember. so i ripped it, and here ya go!
+- [Skoolgq/eagler](https://github.com/Skoolgq/eagler) - A public archive of @lax1dude's eaglercraft 1.8.
+- [Skoolgq/Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
+- [SHADOW-PROXY/Shadow](https://github.com/SHADOW-PROXY/Shadow) - 🚀 SHADOW is an advanced, customizable web proxy that allows users to access the internet without any restrictions. It is a tool that promotes free speech, privacy, and transparency.
+- [GeneralMathematics/General-Mathematics-Beta](https://github.com/GeneralMathematics/General-Mathematics-Beta) - A Web Proxy That is Fast and Has Multiple Games. Evade Internet Censorship and Browse the Internet Freely.
 - [MonkeyGG2/VioletGG2-Static](https://github.com/MonkeyGG2/VioletGG2-Static) - MonkeyGG2 static files for Ultraviolet Proxy
 - [smashah/github-readme-testimonials](https://github.com/smashah/github-readme-testimonials) - Show appreciation for your contributions in your readme
 - [TacoGuy21/VOID](https://github.com/TacoGuy21/VOID) - A 30 stage puzzle game where you are trapped in a pure black abyss housing nothing but a green gateway and several sharp spikes. How will you escape?
@@ -272,6 +285,17 @@
 
 ## JavaScript 
 
+- [s-tn/Anti-Proxy](https://github.com/s-tn/Anti-Proxy) - 
+- [fawnchunk/cathack-unblocker](https://github.com/fawnchunk/cathack-unblocker) - Zaluea is a website for bypassing school web restrictions/filters. I will be adding more features soon.
+- [TheGlitchedPhoenix/Kosmic](https://github.com/TheGlitchedPhoenix/Kosmic) - Another advanced unblocker with captcha support, about:blank cloaking, and more. Please star if you enjoy, it helps this repo grow.
+- [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
+- [SevenworksDev/tProxy](https://github.com/SevenworksDev/tProxy) - 🚀 tProxy | Working unblocker for schools worldwide.
+- [Piplup7575/plutonium](https://github.com/Piplup7575/plutonium) - Plutonium - A simple frontend of Ultraviolet created by Piplup7575
+- [delusionzz/cdn](https://github.com/delusionzz/cdn) - General CDN for delusionz (this will take up multiple gb/s on your machince depending on how much content is on here)
+- [Devetec/LeafBrowser](https://github.com/Devetec/LeafBrowser) - A continuation of Leaf Browser Alpha.
+- [OutRed/v4](https://github.com/OutRed/v4) - Temporary repository for OutRed Games. View the original repo here: https://github.com/OutRed/outredgames
+- [S1monlol/pillow](https://github.com/S1monlol/pillow) - A next level web proxy
+- [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [vigov5/nodium](https://github.com/vigov5/nodium) - An extension for bypassing Medium paywall.
 - [Coding4Hours/medium-paywall-bypass](https://github.com/Coding4Hours/medium-paywall-bypass) - 
 - [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
@@ -495,6 +519,7 @@
 
 ## Jupyter Notebook 
 
+- [Devetec/LinuxComputer](https://github.com/Devetec/LinuxComputer) - A computer that runs right from the browser.
 - [x4nth055/pythoncode-tutorials](https://github.com/x4nth055/pythoncode-tutorials) - The Python Code Tutorials
 - [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet) - The missing Cheatsheet for Python
 - [ksemiya/password_solver](https://github.com/ksemiya/password_solver) - Speedrun Neal's Password Game
@@ -523,6 +548,11 @@
 
 ## Others 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+- [Platinome/inject0r](https://github.com/Platinome/inject0r) - Injector is a JavaScript bookmark developed by platinome.
+- [red-stone-network/bypass-central](https://github.com/red-stone-network/bypass-central) - Your one-stop shop for Chrome bypasses. Deal with the likes of GoGuardian and Lightspeed easily. [LIKE THIS REPO? STAR IT!]
+- [troycla/kill-exetsions-](https://github.com/troycla/kill-exetsions-) - lookherelookhere
+- [fowntain/base-vm](https://github.com/fowntain/base-vm) - VM Method in progress
 - [yaojialyu/geektime-books](https://github.com/yaojialyu/geektime-books) - :books: 极客时间电子书
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
@@ -649,6 +679,9 @@
 
 ## Python 
 
+- [ading2210/freedns-client](https://github.com/ading2210/freedns-client) - A Python API wrapper for FreeDNS.afraid.org
+- [ading2210/ext-watcher](https://github.com/ading2210/ext-watcher) - A Python script which provides update notifications for Chrome extensions, as well as automatic deobfuscation and diff generation.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [zlliu246/print_btree](https://github.com/zlliu246/print_btree) - 
 - [theanti9/PyCrawler](https://github.com/theanti9/PyCrawler) - A python web crawler
@@ -684,7 +717,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 179 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -842,6 +875,9 @@
 
 ## TypeScript 
 
+- [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [delusionzz/illusionix](https://github.com/delusionzz/illusionix) - a WebOS for the funzies
+- [ProxyHaven/deploy](https://github.com/ProxyHaven/deploy) - The backend code for hosting Aero
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [codaworks/react-glow](https://github.com/codaworks/react-glow) - 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
