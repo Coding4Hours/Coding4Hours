@@ -22,6 +22,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mermaid](#mermaid)
@@ -65,6 +66,7 @@
 
 ## C# # 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
 - [csc530/resumer](https://github.com/csc530/resumer) - save your job details and easily build a resume from them
@@ -85,6 +87,7 @@
 
 ## CSS 
 
+- [Synqat/vencord-theme](https://github.com/Synqat/vencord-theme) - 
 - [TheGlitchedPhoenix/TacoPrrxyV2](https://github.com/TheGlitchedPhoenix/TacoPrrxyV2) - A node.js web proxy for use in combating web filters
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [StylishThemes/GitHub-Selected-Tab-Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) - :flags: Add a custom selected tab color to GitHub
@@ -117,6 +120,7 @@
 
 ## Go 
 
+- [FourCoreLabs/TrustedInstallerPOC](https://github.com/FourCoreLabs/TrustedInstallerPOC) - A simple go Proof of Concept to start a new shell as TrustedInstaller
 - [tismayil/ohmybackup](https://github.com/tismayil/ohmybackup) - Scan Victim Backup Directories & Backup Files
 - [illusionTBA/GoCors](https://github.com/illusionTBA/GoCors) - a simple cors proxy made in golang
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
@@ -285,6 +289,8 @@
 
 ## JavaScript 
 
+- [GoStarLight/StarLight](https://github.com/GoStarLight/StarLight) - StarLight is a proxy that is fast and easy to use
+- [MercuryWorkshop/anuraOS](https://github.com/MercuryWorkshop/anuraOS) - A web "OS" and development environment with full linux emulation
 - [s-tn/Anti-Proxy](https://github.com/s-tn/Anti-Proxy) - 
 - [fawnchunk/cathack-unblocker](https://github.com/fawnchunk/cathack-unblocker) - Zaluea is a website for bypassing school web restrictions/filters. I will be adding more features soon.
 - [TheGlitchedPhoenix/Kosmic](https://github.com/TheGlitchedPhoenix/Kosmic) - Another advanced unblocker with captcha support, about:blank cloaking, and more. Please star if you enjoy, it helps this repo grow.
@@ -314,7 +320,7 @@
 - [jkindrix/userscripts](https://github.com/jkindrix/userscripts) - Repository for TamperMonkey scripts
 - [noam3127/github-code-folding](https://github.com/noam3127/github-code-folding) - Chrome extension that enables code folding in GitHub
 - [jacques-blom/dynamic-github-profile](https://github.com/jacques-blom/dynamic-github-profile) - A Netlify function that updates your GitHub profile repo with your latest YouTube videos
-- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - Github Star History - A Stunning star history chart generator for Github Repositories
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
 - [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
@@ -526,6 +532,10 @@
 - [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
 - [EdwinZhang1970/Python](https://github.com/EdwinZhang1970/Python) - Source code about Python Development
 
+## Kotlin 
+
+- [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a Minecraft Mod for Hypixel SkyBlock.
+
 ## Makefile 
 
 - [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
@@ -679,6 +689,8 @@
 
 ## Python 
 
+- [FWSmasher/CryptoSmite](https://github.com/FWSmasher/CryptoSmite) - New unenrollment exploit
+- [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) - source tree, website, and writeup for the  sh1mmer chromebook jailbreak
 - [ading2210/freedns-client](https://github.com/ading2210/freedns-client) - A Python API wrapper for FreeDNS.afraid.org
 - [ading2210/ext-watcher](https://github.com/ading2210/ext-watcher) - A Python script which provides update notifications for Chrome extensions, as well as automatic deobfuscation and diff generation.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -717,7 +729,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 178 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -875,6 +887,7 @@
 
 ## TypeScript 
 
+- [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [delusionzz/illusionix](https://github.com/delusionzz/illusionix) - a WebOS for the funzies
 - [ProxyHaven/deploy](https://github.com/ProxyHaven/deploy) - The backend code for hosting Aero
