@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [FourCoreLabs/TrustedInstallerPOC](https://github.com/FourCoreLabs/TrustedInstallerPOC) - A simple go Proof of Concept to start a new shell as TrustedInstaller
 - [tismayil/ohmybackup](https://github.com/tismayil/ohmybackup) - Scan Victim Backup Directories & Backup Files
 - [illusionTBA/GoCors](https://github.com/illusionTBA/GoCors) - a simple cors proxy made in golang
@@ -289,6 +290,8 @@
 
 ## JavaScript 
 
+- [CyberShadow/DuolingoMoreKeys](https://github.com/CyberShadow/DuolingoMoreKeys) - 
+- [Mottie/Octopatcher](https://github.com/Mottie/Octopatcher) - Arrgh Some Patchy Goodness to GitHub!
 - [GoStarLight/StarLight](https://github.com/GoStarLight/StarLight) - StarLight is a proxy that is fast and easy to use
 - [MercuryWorkshop/anuraOS](https://github.com/MercuryWorkshop/anuraOS) - A web "OS" and development environment with full linux emulation
 - [s-tn/Anti-Proxy](https://github.com/s-tn/Anti-Proxy) - 
@@ -309,12 +312,9 @@
 - [H4CKE3R/MINIBROWSER](https://github.com/H4CKE3R/MINIBROWSER) - Tests for a MiniBrowser!
 - [d-koppenhagen/d-koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen) - My Github Profile
 - [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
-- [Sparky7980/monkeygg3](https://github.com/Sparky7980/monkeygg3) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 - [nh-99/KhanAcademy-Lesson-Hack](https://github.com/nh-99/KhanAcademy-Lesson-Hack) - Hacks through Khan Academy lessons
 - [ihql/KhanAcademyBot](https://github.com/ihql/KhanAcademyBot) - A (newly-revised) answer revealer for Khan Academy.
 - [adubov1/khanacademy_bot](https://github.com/adubov1/khanacademy_bot) - An answer revealer userscript for Khan Academy
-- [Sparky7980/khanacademy_bot](https://github.com/Sparky7980/khanacademy_bot) - An answer revealer userscript for Khan Academy
-- [Sparky7980/bedwars](https://github.com/Sparky7980/bedwars) - 
 - [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [jkindrix/userscripts](https://github.com/jkindrix/userscripts) - Repository for TamperMonkey scripts
@@ -543,6 +543,7 @@
 
 ## Markdown 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [gleich/gleich](https://github.com/gleich/gleich) - :octocat: Config for my GitHub profile
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
@@ -729,7 +730,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 179 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -842,6 +843,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
@@ -855,6 +857,7 @@
 
 ## Shell 
 
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rhinospray/extract_torrents](https://github.com/rhinospray/extract_torrents) - For rTorrent, extract active .torrents from .sessions, with original name and same subdir structure than downloads
 - [MonkeyGG2/VioletGG2](https://github.com/MonkeyGG2/VioletGG2) - A modified Ultraviolet-App which adds all of your favorite games from MonkeyGG2.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -883,6 +886,7 @@
 
 ## TeX 
 
+- [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [MadhavGarg2/trojanmeme](https://github.com/MadhavGarg2/trojanmeme) - This is a trojan virus written in python.
 
 ## TypeScript 
@@ -945,7 +949,6 @@
 - [cohenerickson/Optic](https://github.com/cohenerickson/Optic) - An experimental web proxy for testing new technologies in evading local and region based internet restrictions.
 - [z1g-project/Ephemeral](https://github.com/z1g-project/Ephemeral) - The next generation proxy site for the z1g project!
 - [z1g-project/backend](https://github.com/z1g-project/backend) - 
-- [ProxyHaven/Middleware](https://github.com/ProxyHaven/Middleware) - Listing of proxy middleware
 - [VyperGroup/Filter-Lock](https://github.com/VyperGroup/Filter-Lock) - Filter Lock makes your links nearly unblockable and prevents automatic blocking and scanning
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [delusionzz/Emerald-old](https://github.com/delusionzz/Emerald-old) - The new revamped Emerald Proxy
