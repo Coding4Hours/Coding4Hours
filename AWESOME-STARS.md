@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -42,10 +41,6 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Xonsh](#xonsh)
-
-## Astro 
-
-- [titaniumnetwork-dev/Alu](https://github.com/titaniumnetwork-dev/Alu) - Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead
 
 ## AutoHotkey 
 
@@ -120,6 +115,8 @@
 
 ## Go 
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [wvanlint/twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [FourCoreLabs/TrustedInstallerPOC](https://github.com/FourCoreLabs/TrustedInstallerPOC) - A simple go Proof of Concept to start a new shell as TrustedInstaller
 - [tismayil/ohmybackup](https://github.com/tismayil/ohmybackup) - Scan Victim Backup Directories & Backup Files
@@ -290,11 +287,13 @@
 
 ## JavaScript 
 
+- [mobilemancer/au2-config](https://github.com/mobilemancer/au2-config) - Config for Aurelia 2 apps
 - [CyberShadow/DuolingoMoreKeys](https://github.com/CyberShadow/DuolingoMoreKeys) - 
 - [Mottie/Octopatcher](https://github.com/Mottie/Octopatcher) - Arrgh Some Patchy Goodness to GitHub!
 - [GoStarLight/StarLight](https://github.com/GoStarLight/StarLight) - StarLight is a proxy that is fast and easy to use
 - [MercuryWorkshop/anuraOS](https://github.com/MercuryWorkshop/anuraOS) - A web "OS" and development environment with full linux emulation
 - [s-tn/Anti-Proxy](https://github.com/s-tn/Anti-Proxy) - 
+- [titaniumnetwork-dev/Alu](https://github.com/titaniumnetwork-dev/Alu) - Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead
 - [fawnchunk/cathack-unblocker](https://github.com/fawnchunk/cathack-unblocker) - Zaluea is a website for bypassing school web restrictions/filters. I will be adding more features soon.
 - [TheGlitchedPhoenix/Kosmic](https://github.com/TheGlitchedPhoenix/Kosmic) - Another advanced unblocker with captcha support, about:blank cloaking, and more. Please star if you enjoy, it helps this repo grow.
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
@@ -442,7 +441,7 @@
 - [kol-ton/greenlime](https://github.com/kol-ton/greenlime) - Stylish website that has a proxy for unblocking websites, games, and movies.
 - [mvolkmann/web-translate](https://github.com/mvolkmann/web-translate) - a set of framework-agnostic JavaScript functions that support language translation in web applications
 - [MercuryWorkshop/wisp-client-js](https://github.com/MercuryWorkshop/wisp-client-js) - A Wisp client implementation, written in Javascript for the use on the web or in node.
-- [ading2210/libcurl.js](https://github.com/ading2210/libcurl.js) - An experimental port of libcurl to WebAssembly, for proxying HTTPS requests from the browser with full TLS encryption
+- [ading2210/libcurl.js](https://github.com/ading2210/libcurl.js) - A port of libcurl to WebAssembly, for proxying HTTPS requests from the browser with full TLS encryption
 - [z1g-project/Sodium](https://github.com/z1g-project/Sodium) - The repository for my Proxathon Entry and if I lose oh well this thing is awesome and will go public
 - [Notplayingallday383/uv-static-aio](https://github.com/Notplayingallday383/uv-static-aio) - A quick easy to deploy version of Ultraviolet static that includes all the files and components needed to deploy it with one button!
 - [Notplayingallday383/noob-server-node](https://github.com/Notplayingallday383/noob-server-node) - A simple bare server for skids to use
@@ -555,10 +554,15 @@
 
 ## Nim 
 
+- [genotrance/ff](https://github.com/genotrance/ff) - Windows wrapper for fzf
 - [JohnHammond/binnim](https://github.com/JohnHammond/binnim) - Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.
 
 ## Others 
 
+- [khalby786/khalby786](https://github.com/khalby786/khalby786) - Don't just star it, fork it as well.
+- [AbhishekMaira10/AbhishekMaira10](https://github.com/AbhishekMaira10/AbhishekMaira10) - My GitHub profile-README
+- [MarikIshtar007/MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007) - 
+- [mobilemancer/windows-terminal-aurelia](https://github.com/mobilemancer/windows-terminal-aurelia) - Aurelia inspired Windows Terminal theme
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [Platinome/inject0r](https://github.com/Platinome/inject0r) - Injector is a JavaScript bookmark developed by platinome.
 - [red-stone-network/bypass-central](https://github.com/red-stone-network/bypass-central) - Your one-stop shop for Chrome bypasses. Deal with the likes of GoGuardian and Lightspeed easily. [LIKE THIS REPO? STAR IT!]
@@ -690,6 +694,8 @@
 
 ## Python 
 
+- [WaylonWalker/WaylonWalker](https://github.com/WaylonWalker/WaylonWalker) - Learning in public
+- [bulletmark/cdhist](https://github.com/bulletmark/cdhist) - Linux shell cd history.
 - [FWSmasher/CryptoSmite](https://github.com/FWSmasher/CryptoSmite) - New unenrollment exploit
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) - source tree, website, and writeup for the  sh1mmer chromebook jailbreak
 - [ading2210/freedns-client](https://github.com/ading2210/freedns-client) - A Python API wrapper for FreeDNS.afraid.org
@@ -730,7 +736,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -843,6 +849,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
@@ -857,6 +864,10 @@
 
 ## Shell 
 
+- [brokenricefilms/tmux-fzf-session-switch](https://github.com/brokenricefilms/tmux-fzf-session-switch) - Easy ways to switch between tons of tmux sessions
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rhinospray/extract_torrents](https://github.com/rhinospray/extract_torrents) - For rTorrent, extract active .torrents from .sessions, with original name and same subdir structure than downloads
 - [MonkeyGG2/VioletGG2](https://github.com/MonkeyGG2/VioletGG2) - A modified Ultraviolet-App which adds all of your favorite games from MonkeyGG2.
@@ -891,6 +902,7 @@
 
 ## TypeScript 
 
+- [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [delusionzz/illusionix](https://github.com/delusionzz/illusionix) - a WebOS for the funzies
