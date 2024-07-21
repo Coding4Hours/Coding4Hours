@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [ActionScript](#actionscript)
+- [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -39,8 +41,18 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [VBScript](#vbscript)
 - [Vue](#vue)
 - [Xonsh](#xonsh)
+
+## ActionScript 
+
+- [InQuest/malware-samples](https://github.com/InQuest/malware-samples) - A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net
+
+## Assembly 
+
+- [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit) - 🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## AutoHotkey 
 
@@ -61,6 +73,7 @@
 
 ## C# # 
 
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
@@ -73,6 +86,7 @@
 
 ## C++ 
 
+- [leetCipher/Malware.development](https://github.com/leetCipher/Malware.development) - Malware attacks/techniques explained
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
@@ -136,6 +150,8 @@
 
 ## HTML 
 
+- [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
+- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [unblockhype/Hype](https://github.com/unblockhype/Hype) - Hype is a powerful proxy service/unblocker for school.
 - [TheGlitchedPhoenix/TheGlitchedShadersPhoenix-](https://github.com/TheGlitchedPhoenix/TheGlitchedShadersPhoenix-) - Eaglercraft Shaders!
 - [OutRed/tristan.rip-src](https://github.com/OutRed/tristan.rip-src) - i remember tristan saying some time that if something happened, hed release src, which, well, i dont remember. so i ripped it, and here ya go!
@@ -287,6 +303,7 @@
 
 ## JavaScript 
 
+- [HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
 - [mobilemancer/au2-config](https://github.com/mobilemancer/au2-config) - Config for Aurelia 2 apps
 - [CyberShadow/DuolingoMoreKeys](https://github.com/CyberShadow/DuolingoMoreKeys) - 
 - [Mottie/Octopatcher](https://github.com/Mottie/Octopatcher) - Arrgh Some Patchy Goodness to GitHub!
@@ -559,6 +576,12 @@
 
 ## Others 
 
+- [tkmru/awesome-linux-rootkits](https://github.com/tkmru/awesome-linux-rootkits) - a summary of linux rootkits published on GitHub
+- [threatland/TL-TROJAN](https://github.com/threatland/TL-TROJAN) - A collection of source code for various RATs, Stealers, and other Trojans.
+- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Organized list of my malware development resources
+- [NTFS123/MalwareDatabase](https://github.com/NTFS123/MalwareDatabase) - 
+- [shahriarshafin/shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - 😎 Shafin's GitHub readme profile.  Feel free to check out the readme file, copy, fork, and use.
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [khalby786/khalby786](https://github.com/khalby786/khalby786) - Don't just star it, fork it as well.
 - [AbhishekMaira10/AbhishekMaira10](https://github.com/AbhishekMaira10/AbhishekMaira10) - My GitHub profile-README
 - [MarikIshtar007/MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007) - 
@@ -694,6 +717,17 @@
 
 ## Python 
 
+- [hassamohammed/python-reverse-shell](https://github.com/hassamohammed/python-reverse-shell) - 
+- [ncorbuk/SubZone](https://github.com/ncorbuk/SubZone) - SubZone - Subdomains, Dns records, & more! || Python tutorial || Certificate authority abuse || Adavnced || Hacking/Info-Sec ||
+- [ncorbuk/Python-Keylogger](https://github.com/ncorbuk/Python-Keylogger) - Python Tutorial - || Advanced Keylogger || Code Walk-through || Hacking/Info-Sec ||
+- [tomchop/malcom](https://github.com/tomchop/malcom) - Malcom - Malware Communications Analyzer
+- [rivitna/Malware](https://github.com/rivitna/Malware) - 
+- [marcoramilli/MalwareTrainingSets](https://github.com/marcoramilli/MalwareTrainingSets) - Free Malware Training Datasets for Machine Learning
+- [kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction
+- [623665910/Malware](https://github.com/623665910/Malware) - Rootkits | Backdoors | Sniffers | Virus | Ransomware | Steganography | Keylogger | Botnets | Worms | Other Network Tools
+- [misterch0c/malSploitBase](https://github.com/misterch0c/malSploitBase) - Malware exploits
+- [davidbombal/red-python-scripts](https://github.com/davidbombal/red-python-scripts) - 
+- [leetCipher/python-trojan](https://github.com/leetCipher/python-trojan) - A simple implementation of a trojan malware in python
 - [WaylonWalker/WaylonWalker](https://github.com/WaylonWalker/WaylonWalker) - Learning in public
 - [bulletmark/cdhist](https://github.com/bulletmark/cdhist) - Linux shell cd history.
 - [FWSmasher/CryptoSmite](https://github.com/FWSmasher/CryptoSmite) - New unenrollment exploit
@@ -864,6 +898,7 @@
 
 ## Shell 
 
+- [Aeres-u99/ncChat](https://github.com/Aeres-u99/ncChat) - Network based simple applications in Shell script
 - [brokenricefilms/tmux-fzf-session-switch](https://github.com/brokenricefilms/tmux-fzf-session-switch) - Easy ways to switch between tons of tmux sessions
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -965,6 +1000,10 @@
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [delusionzz/Emerald-old](https://github.com/delusionzz/Emerald-old) - The new revamped Emerald Proxy
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+## VBScript 
+
+- [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 
 ## Vue 
 
