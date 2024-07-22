@@ -64,6 +64,8 @@
 
 ## C 
 
+- [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [bytecode77/r77-rootkit](https://github.com/bytecode77/r77-rootkit) - Fileless ring 3 rootkit with installer and persistence that hides processes, files, network connections, etc.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
@@ -73,6 +75,7 @@
 
 ## C# # 
 
+- [moom825/Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
@@ -129,6 +132,8 @@
 
 ## Go 
 
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [wvanlint/twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -150,6 +155,7 @@
 
 ## HTML 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [unblockhype/Hype](https://github.com/unblockhype/Hype) - Hype is a powerful proxy service/unblocker for school.
@@ -303,6 +309,7 @@
 
 ## JavaScript 
 
+- [cryst4linqq/TurkoRat](https://github.com/cryst4linqq/TurkoRat) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
 - [mobilemancer/au2-config](https://github.com/mobilemancer/au2-config) - Config for Aurelia 2 apps
 - [CyberShadow/DuolingoMoreKeys](https://github.com/CyberShadow/DuolingoMoreKeys) - 
@@ -576,6 +583,12 @@
 
 ## Others 
 
+- [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) - https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
+- [Ludricous/ChatGPT-Developer](https://github.com/Ludricous/ChatGPT-Developer) - OpenAI Patched Developer Mode, so heres a bypass to that!
+- [hassamohammed/DiscordRAT_Build](https://github.com/hassamohammed/DiscordRAT_Build) - 
+- [249KING/Fully-Interactive-Reverse-Shell](https://github.com/249KING/Fully-Interactive-Reverse-Shell) - Fully Interactive Reverse Shell for both Windows and Linux
 - [tkmru/awesome-linux-rootkits](https://github.com/tkmru/awesome-linux-rootkits) - a summary of linux rootkits published on GitHub
 - [threatland/TL-TROJAN](https://github.com/threatland/TL-TROJAN) - A collection of source code for various RATs, Stealers, and other Trojans.
 - [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Organized list of my malware development resources
@@ -713,10 +726,25 @@
 
 ## PowerShell 
 
+- [antonioCoco/ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [forgottentq/powershell](https://github.com/forgottentq/powershell) - Just random powershell things I've put together.
 
 ## Python 
 
+- [syntheticlol/Discord-RAT](https://github.com/syntheticlol/Discord-RAT) - Discord RAT: A versatile bot-based C2 tool that can manage multiple clients at once.
+- [3ct0s/dystopia-c2](https://github.com/3ct0s/dystopia-c2) - Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s
+- [prometheusdevelop/Prometheus](https://github.com/prometheusdevelop/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+- [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
+- [moom825/Discord-QR-Token-Grabber](https://github.com/moom825/Discord-QR-Token-Grabber) - Grab a Discord token by someone scanning a QR code
+- [moom825/Better-pwn](https://github.com/moom825/Better-pwn) - Tools for hacking better discord(BD).
+- [NullCode1337/NullRAT](https://github.com/NullCode1337/NullRAT) - Your next stealthy Remote Access Trojan
+- [AstraaDev/Discord-All-Tools-In-One](https://github.com/AstraaDev/Discord-All-Tools-In-One) - ATIO is a AIO Script Developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface
+- [moom825/Discord-RAT](https://github.com/moom825/Discord-RAT) - Discord Remote Administration Tool fully written in Python3
+- [BronyaCat/Many-Shot-Generator](https://github.com/BronyaCat/Many-Shot-Generator) - Many-shot Jailbreaking, achieved through a simple Python Q&A pair generator.
+- [hassamohammed/NitroGen](https://github.com/hassamohammed/NitroGen) - 
+- [ncorbuk/Python-TCP-Reverse-Shell](https://github.com/ncorbuk/Python-TCP-Reverse-Shell) - Python TCP reverse shell & persistence & exe & more! (Also with YouTube  tuturial)
+- [ncorbuk/Python-Tutorial-Zip-Cracker-Bruteforce-Hacking-Info-Sec](https://github.com/ncorbuk/Python-Tutorial-Zip-Cracker-Bruteforce-Hacking-Info-Sec) - Python Tutorial - || Zip Cracking || Bruteforce || Code Walk-through || Hacking/Info-Sec ||
 - [hassamohammed/python-reverse-shell](https://github.com/hassamohammed/python-reverse-shell) - 
 - [ncorbuk/SubZone](https://github.com/ncorbuk/SubZone) - SubZone - Subdomains, Dns records, & more! || Python tutorial || Certificate authority abuse || Adavnced || Hacking/Info-Sec ||
 - [ncorbuk/Python-Keylogger](https://github.com/ncorbuk/Python-Keylogger) - Python Tutorial - || Advanced Keylogger || Code Walk-through || Hacking/Info-Sec ||
