@@ -7,6 +7,7 @@
 
 - [ActionScript](#actionscript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -30,6 +31,7 @@
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
@@ -43,7 +45,9 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vue](#vue)
+- [XSLT](#xslt)
 - [Xonsh](#xonsh)
+- [Zig](#zig)
 
 ## ActionScript 
 
@@ -51,8 +55,15 @@
 
 ## Assembly 
 
+- [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial) - Programming in assembly language tutorial
 - [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit) - 🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about Malware threats😈, analysis and mitigation🧐.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+
+## Astro 
+
+- [holy-unblocker/website2](https://github.com/holy-unblocker/website2) - 
+- [brokenricefilms/brokenricefilms](https://github.com/brokenricefilms/brokenricefilms) - Personal website and video editing portfolio
+- [Aluben-service/Aluben-service.github.io](https://github.com/Aluben-service/Aluben-service.github.io) - 
 
 ## AutoHotkey 
 
@@ -64,6 +75,9 @@
 
 ## C 
 
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [bytecode77/r77-rootkit](https://github.com/bytecode77/r77-rootkit) - Fileless ring 3 rootkit with installer and persistence that hides processes, files, network connections, etc.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -75,6 +89,7 @@
 
 ## C# # 
 
+- [microsoft/samples-for-ai](https://github.com/microsoft/samples-for-ai) - Samples for getting started with deep learning across TensorFlow, CNTK, Theano and more.
 - [moom825/Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
@@ -89,6 +104,8 @@
 
 ## C++ 
 
+- [googlevr/blocks](https://github.com/googlevr/blocks) - An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift
+- [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [leetCipher/Malware.development](https://github.com/leetCipher/Malware.development) - Malware attacks/techniques explained
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -99,6 +116,11 @@
 
 ## CSS 
 
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [Hydrogen-Network/Hydrogen-AI](https://github.com/Hydrogen-Network/Hydrogen-AI) - 
+- [hassamohammed/gmail-login-phishing-discord](https://github.com/hassamohammed/gmail-login-phishing-discord) - 
+- [pickle69420/picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
+- [PolyMarsDev/PolyMarsDev.github.io](https://github.com/PolyMarsDev/PolyMarsDev.github.io) - A simple landing page for social media links
 - [Synqat/vencord-theme](https://github.com/Synqat/vencord-theme) - 
 - [TheGlitchedPhoenix/TacoPrrxyV2](https://github.com/TheGlitchedPhoenix/TacoPrrxyV2) - A node.js web proxy for use in combating web filters
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
@@ -110,13 +132,13 @@
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [VillainsRule/villainsrule.xyz](https://github.com/VillainsRule/villainsrule.xyz) - my personal website :)
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
-- [DerpmanDev/worksheetsforteachers](https://github.com/DerpmanDev/worksheetsforteachers) - Fake educational website to bypass Lightspeed Filters
+- [DerpmanDev/worksheetsforteachers](https://github.com/DerpmanDev/worksheetsforteachers) - Fake educational website for spoofing
 - [Deblok-Workshop/DeblokAI](https://github.com/Deblok-Workshop/DeblokAI) - deblok ai
 - [A-Random-Person-on-Github/A-Random-Person-on-Github.github.io](https://github.com/A-Random-Person-on-Github/A-Random-Person-on-Github.github.io) - kali linux on web if websit dont work download zip file then unzip then open index.html
+- [molkify/molkify.github.io](https://github.com/molkify/molkify.github.io) - akjc
 
 ## Clojure 
 
@@ -128,10 +150,21 @@
 
 ## EJS 
 
+- [BrianWalczak/WiFiStream](https://github.com/BrianWalczak/WiFiStream) - A local web server (powered by Express) to manage files over your secure network (WiFi).
 - [shuttlenetwork/shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 
 ## Go 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [D3vd/Meme_Api](https://github.com/D3vd/Meme_Api) - Summon a random meme at will
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [eust-w/gopic](https://github.com/eust-w/gopic) - fast image hosting tool
+- [eust-w/openai-chat-switch](https://github.com/eust-w/openai-chat-switch) - chat embeddings&switch
+- [Waifu-im/waifu-api](https://github.com/Waifu-im/waifu-api) - An easy to use API that allows you to get waifu pictures from an archive of over 4000 images and multiple tags!
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -148,13 +181,44 @@
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [Ruby-Network/corlink](https://github.com/Ruby-Network/corlink) - An alternative to Masqr, aiming to be simpler and easier to use
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Shivam010/bypass-cors](https://github.com/Shivam010/bypass-cors) - a proxy server to bypass CORS enabled servers
-- [localuser-isback/BUFFY-GO](https://github.com/localuser-isback/BUFFY-GO) - Buffy web proxy re-written in golang because why not?
 - [SapiCLI/SapiCLI](https://github.com/SapiCLI/SapiCLI) - Linux - Darlingapi CLI
-- [localuser-isback/Lilium](https://github.com/localuser-isback/Lilium) - A alloy-like web proxy in early beta/POC
 
 ## HTML 
 
+- [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
+- [Whirlwind-Studio/Whirlwind-App](https://github.com/Whirlwind-Studio/Whirlwind-App) - The repo for the Whirlwind Proxy
+- [wondlatd/wondlatd.github.](https://github.com/wondlatd/wondlatd.github.) - Elixir is a beautiful proxy made using Tailwind CSS, Ultraviolet and bare-server!
+- [wondlatd/balls](https://github.com/wondlatd/balls) - balls.github.io
+- [albibos/sf](https://github.com/albibos/sf) - 
+- [Russell2259/Avatar.js](https://github.com/Russell2259/Avatar.js) - thing
+- [BrianWalczak/ProxyHouse](https://github.com/BrianWalczak/ProxyHouse) - A highly sophisticated proxy service using the UltraViolet Static to visit any sites, and bypass restrictions
+- [standardgalactic/alphabet](https://github.com/standardgalactic/alphabet) -   
+- [anshnk/unblockedtech](https://github.com/anshnk/unblockedtech) - Unblockedtech is a Static Game website, can be used locally!
+- [anshnk/nullOS](https://github.com/anshnk/nullOS) - NullOS is a webOS utilizing Ultraviolet and Winbox.js to create an immersive operating system feel. The UI is Inspired by Chrome OS while the idea of the webOS is inspired by AnuraOS
+- [SpeedSlicer/MineXLauncher-Archive](https://github.com/SpeedSlicer/MineXLauncher-Archive) - 
+- [SpeedSlicer/CookieNCacheJS](https://github.com/SpeedSlicer/CookieNCacheJS) - 
+- [SpeedSlicer/webbite](https://github.com/SpeedSlicer/webbite) - 
+- [SpeedSlicer/Eclipse-Launcher](https://github.com/SpeedSlicer/Eclipse-Launcher) - A regular Eaglercraft Launcher
+- [asc2563/asc2563.github.io](https://github.com/asc2563/asc2563.github.io) - fsdf
+- [velzie/velzie.rip](https://github.com/velzie/velzie.rip) - website for https://velzie.rip
+- [titaniumnetwork-dev/Ultraviolet-Static](https://github.com/titaniumnetwork-dev/Ultraviolet-Static) - Frontend for the example Ultraviolet-Node repository
+- [fuhadkalathingal/PhishGuard](https://github.com/fuhadkalathingal/PhishGuard) - PhishGuard is an interactive cyber awareness game designed to educate users about phishing attacks and improve their ability to detect and avoid them.
+- [whos-evan/elixir](https://github.com/whos-evan/elixir) - Elixir is a beautiful proxy made using Tailwind CSS, Ultraviolet and bare-server!
+- [BomberFish/Infrared-Frontend](https://github.com/BomberFish/Infrared-Frontend) - Frontend for Infrared.
+- [asc2563/Aluben-Node](https://github.com/asc2563/Aluben-Node) - 
+- [titaniumnetwork-dev/Definitely-Science](https://github.com/titaniumnetwork-dev/Definitely-Science) - Definitely Science is a proxy site with an amazing collection of online games.
+- [3kh0/Oxide](https://github.com/3kh0/Oxide) - No tracking, no useless stuff, just a dead simple proxy.
+- [pickle69420/nativeamerican](https://github.com/pickle69420/nativeamerican) - project
+- [dragon731012/shooter-game-in-progress-](https://github.com/dragon731012/shooter-game-in-progress-) - 
+- [dragon731012/DM-Unbl0cker-Experimental](https://github.com/dragon731012/DM-Unbl0cker-Experimental) - nothin
+- [Coding4Hours/Innate-Open-Source](https://github.com/Coding4Hours/Innate-Open-Source) - Full source of innate, don't make me regret sharing it.
+- [dragon731012/Innate-Open-Source](https://github.com/dragon731012/Innate-Open-Source) - Full source of innate, don't make me regret sharing it.
+- [asc2563/sidebar-app](https://github.com/asc2563/sidebar-app) - 
+- [asc2563/griot-project](https://github.com/asc2563/griot-project) - 
+- [Coding4Hours/tyap-V2](https://github.com/Coding4Hours/tyap-V2) - 
+- [asc2563/tyap-v2](https://github.com/asc2563/tyap-v2) - 
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
@@ -197,7 +261,6 @@
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Deblok-Workshop/ND-old](https://github.com/Deblok-Workshop/ND-old) - The old, not-in-development, but able to be deployed version of NewDeblok for easy access
 - [Sunset-Network/Proxy-login](https://github.com/Sunset-Network/Proxy-login) - 
-- [005Konz/Blooket-Cheats](https://github.com/005Konz/Blooket-Cheats) - 
 - [Sh1N02/blooket-cheats](https://github.com/Sh1N02/blooket-cheats) - An updated version of 05k0nz's cheats [old, get the new one from readme]
 - [frogiee1certified/cyamanz.github.io](https://github.com/frogiee1certified/cyamanz.github.io) - 
 - [cyaban/swf](https://github.com/cyaban/swf) - Hosts a bunch of Flash games.
@@ -218,7 +281,7 @@
 - [ChillYTT/Supernova-site](https://github.com/ChillYTT/Supernova-site) - 
 - [FireStreaker2/Godspeed](https://github.com/FireStreaker2/Godspeed) - A simple chrome extension blocker.
 - [FireStreaker2/AddAPI](https://github.com/FireStreaker2/AddAPI) - A simple API made with express.js
-- [theskid22/Asphalt](https://github.com/theskid22/Asphalt) - Asphalt is a UV based proxy, with exploits, about:blank cloaking, and several games
+- [Shrey719/Asphalt](https://github.com/Shrey719/Asphalt) - Asphalt is a UV based proxy, with exploits, about:blank cloaking, and several games
 - [Coding4Hours/blobrowser](https://github.com/Coding4Hours/blobrowser) - An HTML Browser (THIS IS A UNBLOCKER)
 - [Blobby-Boi/ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
 - [Blobby-Boi/BlobeBM](https://github.com/Blobby-Boi/BlobeBM) - Runs bookmarklets in about:blank
@@ -238,7 +301,7 @@
 - [amethystnetwork-dev/google](https://github.com/amethystnetwork-dev/google) - Incognito disguised as Google
 - [illusionTBA/React-Ruffle](https://github.com/illusionTBA/React-Ruffle) - This is just a simple game site i made the utilizez ruffle to run flash games
 - [DoxrGitHub/doxr-blooket-hacks](https://github.com/DoxrGitHub/doxr-blooket-hacks) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
-- [DoxrGitHub/doxrcdn](https://github.com/DoxrGitHub/doxrcdn) - doxrcdn file upload
+- [DoxrGitHub/doxr-assets](https://github.com/DoxrGitHub/doxr-assets) - my randon assets used in other programs
 - [solodev/google-translator](https://github.com/solodev/google-translator) - In today’s connected digital age, it’s important to ensure your content is as widely available as possible. Part of this requires making your site’s content available for language translation. By incl
 - [AbyssServices/Abyss-Web](https://github.com/AbyssServices/Abyss-Web) - Abyss is an advanced proxy service that provides modern unblocking for all users who use it.
 - [NRZT555/now.gg-roblox-in-browser](https://github.com/NRZT555/now.gg-roblox-in-browser) - ROBLOX in browser using a copy of now.gg's site.
@@ -263,7 +326,6 @@
 - [dragon731012/material-unblocker](https://github.com/dragon731012/material-unblocker) - An improved version of nodeunblocker
 - [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities) - This repo has a collection of hubs I found with gxmes, prxes, apps, bookmarklets, exploits and more!
 - [MineBoy99/Blooket-Cheats](https://github.com/MineBoy99/Blooket-Cheats) - The best hacks ever. These are from Minescraft2 orignally but I've made a better version so credit to him
-- [molkify/molkify.github.io](https://github.com/molkify/molkify.github.io) - v2 just dropped!! (whole website/style redo!)
 - [kristheamazing2/Kristheamazing2-main-all-hacks](https://github.com/kristheamazing2/Kristheamazing2-main-all-hacks) - This will be with every single one of my hacks, dinosaur game hacks, cookie clicker hacks, prodigy hacks, dangerous hacks, boxel rebound hacks, tutorial of doodle jump and snake game hacks.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -271,7 +333,6 @@
 - [tw31122007/BCHS-Unblocked-Games](https://github.com/tw31122007/BCHS-Unblocked-Games) - 
 - [infmapi/infmapr.github.io](https://github.com/infmapi/infmapr.github.io) - 
 - [Cencent-Proxy/Cencent-Proxy](https://github.com/Cencent-Proxy/Cencent-Proxy) - 
-- [localuser-isback/steganography](https://github.com/localuser-isback/steganography) - 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [RONAKPATELLLLLLL/Weird-Working-Hacks](https://github.com/RONAKPATELLLLLLL/Weird-Working-Hacks) - The best Hacks for everything out there
 
@@ -309,12 +370,63 @@
 
 ## JavaScript 
 
+- [DerpmanDev/modal](https://github.com/DerpmanDev/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
+- [NightProxy/Daylight](https://github.com/NightProxy/Daylight) - The minimalistic browser. | Entry for the Proxathon 2024 |
+- [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
+- [e9x/spadium-lite](https://github.com/e9x/spadium-lite) - Spadium Lite is a lightweight demonstration of the Spadium library, showing how it can be integrated into a single page application to render websites locally without external requests.
+- [e9x/stomp-demo](https://github.com/e9x/stomp-demo) - Frontend for SystemYA's implementation of the TOMP model.
+- [LudicrousDevelopment/Voidnet-Reborn](https://github.com/LudicrousDevelopment/Voidnet-Reborn) - Voidnet Proxy is being rewritten to support many more sites. Currently only href rewrites are complete.
+- [LudicrousDevelopment/Rhodium](https://github.com/LudicrousDevelopment/Rhodium) - The Rhodium Proxy: Fast, Supporting, Simple. The flagship proxy of Ludicrous
+- [e9x/stomp](https://github.com/e9x/stomp) - SystemYA's implementation of the TOMP model.
+- [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
+- [FogNetwork/Tsunami](https://github.com/FogNetwork/Tsunami) - An official Fog Network proxy site, made to access the blocked web. Surf without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom fr
+- [MercuryWorkshop/v86](https://github.com/MercuryWorkshop/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [albibos/rawgit](https://github.com/albibos/rawgit) - RawGit for deployment on Replit, Glitch, etc
+- [carbonsystems-dev/gitloaf](https://github.com/carbonsystems-dev/gitloaf) - Gitloaf an open sourced cdn that displays files from github with their correct content type headers. See a list of supported files here: https://gitloaf.com/filetypes.html Similar to raw.githack.com, 
+- [embr-dev/Blaze](https://github.com/embr-dev/Blaze) - A website downloader written with node.js.
+- [Russell2259/Scratch-Extensions](https://github.com/Russell2259/Scratch-Extensions) - 
+- [Russell2259/Geode](https://github.com/Russell2259/Geode) - A simple unfinished proxy
+- [Russell2259/stuff](https://github.com/Russell2259/stuff) - A ton of stuff mainly for school projects and idea testing.
+- [Russell2259/Easyviolet](https://github.com/Russell2259/Easyviolet) - An easy way to use the ultraviolet proxy.
+- [Flow-Works/FlowOS](https://github.com/Flow-Works/FlowOS) - The most aesthetic webOS.
+- [TerbiumOS/terbulence-v2](https://github.com/TerbiumOS/terbulence-v2) - The new terbium webOS packed with features
+- [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+- [phoboslab/Impact](https://github.com/phoboslab/Impact) - HTML5 Game Engine
+- [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
+- [BrianWalczak/Echo-Client](https://github.com/BrianWalczak/Echo-Client) - Run Discord in your console! Send messages, read messages, download images, and much much more.
+- [BrianWalczak/SimpleMail](https://github.com/BrianWalczak/SimpleMail) - A straightforward Node.js library that enables you to effortlessly launch your own native incoming SMTP server.
+- [Nebelung-Forks/Ultraviolet-Static](https://github.com/Nebelung-Forks/Ultraviolet-Static) - Frontend source of the official Ultraviolet site. Bundled asset for an Ultraviolet environment.
+- [anshnk/Phoenix](https://github.com/anshnk/Phoenix) - Phoenix Source Code
+- [Notplayingallday383/chimerix](https://github.com/Notplayingallday383/chimerix) - Chimerix shell, based on phoenix shell and modified to use anura's apis. This is forked from a repo that provides the phoenix shell subtree frop the puter monorepo
+- [SpeedSlicer/GeneralAdditionsJS](https://github.com/SpeedSlicer/GeneralAdditionsJS) - random additions in JS
+- [SpeedSlicer/eaglerbinth](https://github.com/SpeedSlicer/eaglerbinth) - 
+- [TacoGuy21/Just-Talk](https://github.com/TacoGuy21/Just-Talk) - I tried to make a chat. This is a global chat which can be used by different people all around the world. There are absolutely no rules and it is complete freedom of speech.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
+- [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+- [hackergrrl/common-readme](https://github.com/hackergrrl/common-readme) - :star2: « a common readme for node »
+- [NightProxy/NextAI](https://github.com/NightProxy/NextAI) - 
+- [wearrrrr/alu-adblocker](https://github.com/wearrrrr/alu-adblocker) - 
+- [r58Playz/aboutproxy](https://github.com/r58Playz/aboutproxy) - Chrome in your browser
+- [NightProxy/Eclipse-OS](https://github.com/NightProxy/Eclipse-OS) - 
+- [NightProxy/Night](https://github.com/NightProxy/Night) - Night is a speeding proxy with several customizable features and easy deployment.
+- [gagedevs/Anonymous-Static](https://github.com/gagedevs/Anonymous-Static) - Anonymous-Static is an unblocker for school and work
+- [titaniumnetwork-dev/Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) - Example application of Ultraviolet which can be deployed in production.
+- [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
+- [art-class/v4](https://github.com/art-class/v4) - 
+- [Aluben-service/Aluben-Assets](https://github.com/Aluben-service/Aluben-Assets) - Since i quit hydrogen here have some fun
+- [Hydrogen-Network/Hydrogen-Assets](https://github.com/Hydrogen-Network/Hydrogen-Assets) - 
+- [Aluben-service/Aluben-Node](https://github.com/Aluben-service/Aluben-Node) - static testing link: https://aluben-node.pages.dev (this is for devs!!!)
+- [BomberFish/DodoPlus](https://github.com/BomberFish/DodoPlus) - A modification of the popular web platformer IceDodo.
+- [MercuryWorkshop/CurlTransport](https://github.com/MercuryWorkshop/CurlTransport) - a bare transport that implements end-to-end encryption with libcurl.js and wisp
+- [lich2king/InterstellarTS](https://github.com/lich2king/InterstellarTS) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
+- [3kh0/readme-toc](https://github.com/3kh0/readme-toc) - 📜 Generate a Table of Contents from GitHub Markdown or Wiki online.
+- [pickle69420/pickelhubreact](https://github.com/pickle69420/pickelhubreact) - The react and (hopefully) final version of picklehub.
 - [cryst4linqq/TurkoRat](https://github.com/cryst4linqq/TurkoRat) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
 - [HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection) - Collection of almost 40.000 javascript malware samples
 - [mobilemancer/au2-config](https://github.com/mobilemancer/au2-config) - Config for Aurelia 2 apps
 - [CyberShadow/DuolingoMoreKeys](https://github.com/CyberShadow/DuolingoMoreKeys) - 
 - [Mottie/Octopatcher](https://github.com/Mottie/Octopatcher) - Arrgh Some Patchy Goodness to GitHub!
-- [GoStarLight/StarLight](https://github.com/GoStarLight/StarLight) - StarLight is a proxy that is fast and easy to use
 - [MercuryWorkshop/anuraOS](https://github.com/MercuryWorkshop/anuraOS) - A web "OS" and development environment with full linux emulation
 - [s-tn/Anti-Proxy](https://github.com/s-tn/Anti-Proxy) - 
 - [titaniumnetwork-dev/Alu](https://github.com/titaniumnetwork-dev/Alu) - Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead
@@ -370,7 +482,6 @@
 - [Coding4Hours/SpaceCompany](https://github.com/Coding4Hours/SpaceCompany) - An incremental game about Space Mining
 - [Coding4Hours/exit-intent](https://github.com/Coding4Hours/exit-intent) - 📬 Exit-intent popup in vanilla JavaScript
 - [VillainsRule/Templates](https://github.com/VillainsRule/Templates) - these are templates I use for various projects.
-- [AwesomeDudeIsHere/1337hax](https://github.com/AwesomeDudeIsHere/1337hax) - leet hax for 3v3ry0n3!
 - [Coding4Hours/docss](https://github.com/Coding4Hours/docss) - 
 - [Coding4Hours/inject0r](https://github.com/Coding4Hours/inject0r) - Injector is a JavaScript bookmark developed by platinome.
 - [Coding4Hours/docs](https://github.com/Coding4Hours/docs) - The blue sky was dotted with fluffy white clouds, lazily drifting across the horizon. The sound of birds chirping filled the air as a gentle breeze blew through the trees
@@ -407,7 +518,6 @@
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [gagedevs/Hydrogen](https://github.com/gagedevs/Hydrogen) - uh was bored
 - [patmood/wildcard-subdomains](https://github.com/patmood/wildcard-subdomains) - Handle dynamic subdomains in Node.js and Express
-- [NightProxy/Gloom](https://github.com/NightProxy/Gloom) - A proxy like UV, Rammerhead, or Scramjet.
 - [riolubruh/SplitLargeFiles](https://github.com/riolubruh/SplitLargeFiles) - Plugin for BetterDiscord that allows for uploading files larger than all of the normal limits. Fork for compatibility with YABDP4Nitro and general fixes.
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
@@ -416,12 +526,10 @@
 - [nates/ward](https://github.com/nates/ward) - 🔑 A Discord verification bot using reCAPTCHA v2.
 - [xelitezz/datdoggyunblocked](https://github.com/xelitezz/datdoggyunblocked) - Dat Doggy Unblocked is the best proxy with blazing speeds to uncensor any website!
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
-- [mecharis-420/Kitty-Cat-Club](https://github.com/mecharis-420/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
-- [TwoMuchRed/rubygames](https://github.com/TwoMuchRed/rubygames) - 
+- [thekittycatclub/Kitty-Cat-Club](https://github.com/thekittycatclub/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
 - [CycloKid/discord-clone](https://github.com/CycloKid/discord-clone) - A "Discord clone" with Socket.io, Node.js & MongoDB...  Create channel, invite other people to your channel, chat with everyone...
 - [Coding4Hours/i-like-this-guy](https://github.com/Coding4Hours/i-like-this-guy) - hes cool
 - [infosimples/detect-headless](https://github.com/infosimples/detect-headless) - Access https://infosimples.github.io/detect-headless to run several headless detection tests against your browser.
-- [005Konz/blook-script](https://github.com/005Konz/blook-script) - Testing new Javascript sublanguage to bypass CSP eval blocks
 - [isomorphic-git/cors-proxy](https://github.com/isomorphic-git/cors-proxy) - Proxy clone and push requests for the browser
 - [Freeboard/thingproxy](https://github.com/Freeboard/thingproxy) - A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.
 - [okfn/gobetween](https://github.com/okfn/gobetween) - A simple app for proxying requests with CORS support. Map any domain to any URI as a base path, or, use a dedicated endpoint for proxying any URI.
@@ -479,11 +587,10 @@
 - [3kh0/ext-remover](https://github.com/3kh0/ext-remover) - A curated list of exploits for ChromeOS
 - [titaniumnetwork-dev/MasqrProject](https://github.com/titaniumnetwork-dev/MasqrProject) - Masqr Project Repo
 - [PenguDevelopment/PrivatePengu](https://github.com/PenguDevelopment/PrivatePengu) - A repository of the 2nd best bot in the universe.
-- [Piplup7575/buypass](https://github.com/Piplup7575/buypass) - Opening blocked sites with the PaymentRequest API
 - [silvereennetwork/corrupted](https://github.com/silvereennetwork/corrupted) - A retro-style game site
 - [dbpsmath/cdn](https://github.com/dbpsmath/cdn) - A CDN for using our games on your websites
 - [briantuckerdesign/cors-proxy-worker](https://github.com/briantuckerdesign/cors-proxy-worker) - CORS proxy in a Cloudflare worker.
-- [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, and Microsoft Edge
+- [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 - [NebulaServices/STomp](https://github.com/NebulaServices/STomp) - Archive of sysce/stomp
 - [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) - A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley:
 - [Dynamic-Interception-Proxy/DIP](https://github.com/Dynamic-Interception-Proxy/DIP) - 
@@ -494,13 +601,9 @@
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [Parcoil/parcoilnext](https://github.com/Parcoil/parcoilnext) - wip
-- [localuser-isback/kylebot](https://github.com/localuser-isback/kylebot) - Kylebot | This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
-- [localuser-isback/aes](https://github.com/localuser-isback/aes) - Advanced Encryption Standard with 128-/192-/256-Bit Keys    Demo: https://ampferl.github.io/aes/
-- [localuser-isback/riju](https://github.com/localuser-isback/riju) - ⚡ Extremely fast online playground for every programming language.
-- [localuser-isback/cdn](https://github.com/localuser-isback/cdn) - 
-- [ProxyHaven/site](https://github.com/ProxyHaven/site) - A proxy site that demonstrates our services
-- [ProxyHaven/sdk](https://github.com/ProxyHaven/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
+- [VyperGroup/aero-demo-site](https://github.com/VyperGroup/aero-demo-site) - A proxy site that demonstrates our services
+- [VyperGroup/sdk](https://github.com/VyperGroup/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
 - [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [dragon731012/FreedomForge](https://github.com/dragon731012/FreedomForge) - THE ONLY AND FIRST NO CODE CUSTOM UNBLOCKER CREATOR!!!!!
@@ -527,12 +630,10 @@
 - [DogeNetwork/v4](https://github.com/DogeNetwork/v4) - Doge Unblocker is the #1 site unblocker, by far the best in speed and customization. (Please star this repo if you fork)
 - [smartfoloo/solarnova](https://github.com/smartfoloo/solarnova) - A statically deployable music player built with vanilla javascript. All songs belong to their respective owners.
 - [rxzyx/PopCat-Hack](https://github.com/rxzyx/PopCat-Hack) - The best hack for popcat.click
-- [BlacketWare/Blacket-Hacks](https://github.com/BlacketWare/Blacket-Hacks) - A library of hacks & cheats improving Blacket gameplay. Fully open-source.
 - [Hydrogen-Network/Bookmarkletz](https://github.com/Hydrogen-Network/Bookmarkletz) - Bookmarklets for noobs
 - [Doomlands/quil-autoanswer-hack](https://github.com/Doomlands/quil-autoanswer-hack) - Browser automation to auto answer my school work from the site https://quill.org
 - [Doomlands/Duolingohack](https://github.com/Doomlands/Duolingohack) - Paste into console for auto answer
 - [Hydrogen-Network/Hydrogen-static](https://github.com/Hydrogen-Network/Hydrogen-static) - All your wants in one website. THIS IS STATIC
-- [localuser-isback/load-balance-static](https://github.com/localuser-isback/load-balance-static) - 
 - [r480github/Galaxy-BETA-](https://github.com/r480github/Galaxy-BETA-) - A Game Website Made By r480
 - [Flow-Works/FlowOS-Legacy](https://github.com/Flow-Works/FlowOS-Legacy) - 
 - [VyperGroup/astroidv3](https://github.com/VyperGroup/astroidv3) - Astroid v3, the latest and greatest version of Astroid!
@@ -548,6 +649,7 @@
 
 ## Jupyter Notebook 
 
+- [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [Devetec/LinuxComputer](https://github.com/Devetec/LinuxComputer) - A computer that runs right from the browser.
 - [x4nth055/pythoncode-tutorials](https://github.com/x4nth055/pythoncode-tutorials) - The Python Code Tutorials
 - [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet) - The missing Cheatsheet for Python
@@ -557,7 +659,7 @@
 
 ## Kotlin 
 
-- [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a Minecraft Mod for Hypixel SkyBlock.
+- [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a 1.8.9 Minecraft Mod for Hypixel SkyBlock.
 
 ## Makefile 
 
@@ -574,7 +676,7 @@
 
 ## Mermaid 
 
-- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖 The Ultimate Markdown Cheat Sheet
+- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖  The Ultimate Markdown Cheatsheet
 
 ## Nim 
 
@@ -583,6 +685,32 @@
 
 ## Others 
 
+- [ViktorMares/ultimate_discovery](https://github.com/ViktorMares/ultimate_discovery) - Ultimate Wordlist for Web Content Discovery
+- [guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models) - A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hype
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
+- [theNetworkChuck/ai_hacking_study_prompts](https://github.com/theNetworkChuck/ai_hacking_study_prompts) - 
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
+- [xtenzQ/xtenzQ](https://github.com/xtenzQ/xtenzQ) - 📝🚀 Minimalistic profile README.md. Please ⭐ if you like it! ❤
+- [proudparrot2/test](https://github.com/proudparrot2/test) - 
+- [onimur/onimur](https://github.com/onimur/onimur) - 
+- [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
+- [mhucka/readmine](https://github.com/mhucka/readmine) - Example README file demonstrating a suggested README file structure for software projects
+- [jehna/readme-best-practices](https://github.com/jehna/readme-best-practices) - Best practices for writing a README for your open source project
+- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open source projects grow. See the README maturity model to help you keep going.
+- [Percslol/dotfiles](https://github.com/Percslol/dotfiles) - My linux dotfiles and install scripts
+- [Aluben-service/Aluben_icons](https://github.com/Aluben-service/Aluben_icons) - this is for speed on the website
+- [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Assets for Interstellar Unblocker.
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+- [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+- [Dormidera/WordList-Compendium](https://github.com/Dormidera/WordList-Compendium) - Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, wordlists of tools, etc.
+- [BomberFish/awesome-trollstore](https://github.com/BomberFish/awesome-trollstore) - TrollStore apps.
+- [realadeel/awesome-webhooks](https://github.com/realadeel/awesome-webhooks) - A curated list about real-time webhooks.
+- [Nebelung-Dev/Nebelung-Dev](https://github.com/Nebelung-Dev/Nebelung-Dev) - About me
+- [asc2563/code-for-my-friend-](https://github.com/asc2563/code-for-my-friend-) - 
+- [asc2563/discord-image](https://github.com/asc2563/discord-image) - reee
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [tamimology/docker-cloudflare-setup](https://github.com/tamimology/docker-cloudflare-setup) - Step-by-step guide on how to install and configure a self-host Cloudflare Tunnel using docker
 - [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) - https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -600,7 +728,6 @@
 - [MarikIshtar007/MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007) - 
 - [mobilemancer/windows-terminal-aurelia](https://github.com/mobilemancer/windows-terminal-aurelia) - Aurelia inspired Windows Terminal theme
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [Platinome/inject0r](https://github.com/Platinome/inject0r) - Injector is a JavaScript bookmark developed by platinome.
 - [red-stone-network/bypass-central](https://github.com/red-stone-network/bypass-central) - Your one-stop shop for Chrome bypasses. Deal with the likes of GoGuardian and Lightspeed easily. [LIKE THIS REPO? STAR IT!]
 - [troycla/kill-exetsions-](https://github.com/troycla/kill-exetsions-) - lookherelookhere
 - [fowntain/base-vm](https://github.com/fowntain/base-vm) - VM Method in progress
@@ -709,6 +836,7 @@
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖
+- [BlacketWare/Blacket-Hacks](https://github.com/BlacketWare/Blacket-Hacks) - disgusting.
 - [Doomlands/Blookethack-menu](https://github.com/Doomlands/Blookethack-menu) - just click bookmark or paste other code into console to open a hack menu for blooket!!!
 - [Doomlands/blookethack](https://github.com/Doomlands/blookethack) - All hacks for blooket
 - [CommanderGL/UBTW](https://github.com/CommanderGL/UBTW) - A website unblocker for school chromebooks.
@@ -724,16 +852,54 @@
 - [webpwnized/mutillidae](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, secu
 - [buffermet/CSP-bypass](https://github.com/buffermet/CSP-bypass) - Bypass Content-Security-Policy to phish data.
 
+## Perl 
+
+- [bkendzior/cowfiles](https://github.com/bkendzior/cowfiles) - ASCII cowfiles for cowsay
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+
 ## PowerShell 
 
+- [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
+- [AdrianVollmer/PowerHub](https://github.com/AdrianVollmer/PowerHub) - A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting
 - [antonioCoco/ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
 - [forgottentq/powershell](https://github.com/forgottentq/powershell) - Just random powershell things I've put together.
+- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 
 ## Python 
 
+- [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [CubicalBatch/deaddit](https://github.com/CubicalBatch/deaddit) - If Reddit's content was completely AI-generated.
+- [sharmaji27/face-recognition-based-attendance-system](https://github.com/sharmaji27/face-recognition-based-attendance-system) - 
+- [cicirello/user-statistician](https://github.com/cicirello/user-statistician) - Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions
+- [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
+- [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+- [ading2210/python-static](https://github.com/ading2210/python-static) - A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
+- [velzie/github-stats](https://github.com/velzie/github-stats) - 
+- [hassamohammed/DiscordKeylogger](https://github.com/hassamohammed/DiscordKeylogger) - 
+- [hassamohammed/cdWorm](https://github.com/hassamohammed/cdWorm) - 
+- [hassamohammed/anti-trouble](https://github.com/hassamohammed/anti-trouble) - 
+- [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
+- [ProDefense/LLOLBAS](https://github.com/ProDefense/LLOLBAS) - 
+- [AkshayaPujitha/Apex](https://github.com/AkshayaPujitha/Apex) - Apex is a web crawler and search engine that allows users to input multiple URLs and keywords to extract and return relevant URLs and snippets of content. It is designed to be efficient, responsive,ma
+- [atharva-mashalkar/web_crawler](https://github.com/atharva-mashalkar/web_crawler) - 
+- [AlessandroZ/BeRoot](https://github.com/AlessandroZ/BeRoot) - Privilege Escalation Project - Windows / Linux / Mac
+- [PacktPublishing/Artificial-Intelligence-By-Example](https://github.com/PacktPublishing/Artificial-Intelligence-By-Example) - Artificial Intelligence By Example, published by Packt
+- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+- [bresilla/cloudflare-duckdns](https://github.com/bresilla/cloudflare-duckdns) - 
+- [attreyabhatt/Space-Invaders-Pygame](https://github.com/attreyabhatt/Space-Invaders-Pygame) - Creating the game Space Invaders using Pygame Module in Python
+- [PolyMarsDev/Flappuccino](https://github.com/PolyMarsDev/Flappuccino) - A Pygame game made in 48 hours
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+- [keithrozario/lambda-cache](https://github.com/keithrozario/lambda-cache) - Python utility for caching in Lambda Functions
+- [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [PradyumnaKrishna/enigma-protocol-python](https://github.com/PradyumnaKrishna/enigma-protocol-python) - 
 - [syntheticlol/Discord-RAT](https://github.com/syntheticlol/Discord-RAT) - Discord RAT: A versatile bot-based C2 tool that can manage multiple clients at once.
 - [3ct0s/dystopia-c2](https://github.com/3ct0s/dystopia-c2) - Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s
-- [prometheusdevelop/Prometheus](https://github.com/prometheusdevelop/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 - [moom825/Discord-QR-Token-Grabber](https://github.com/moom825/Discord-QR-Token-Grabber) - Grab a Discord token by someone scanning a QR code
@@ -789,16 +955,15 @@
 - [Coding4Hours/Til](https://github.com/Coding4Hours/Til) - today i learned:
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo) - a beautiful template make your github profile look awesome ，give me a star , plz orz
-- [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
-- [SHREK-TM/Shrek-Tools](https://github.com/SHREK-TM/Shrek-Tools) - 
+- [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [Coding4Hours/TIL-forked](https://github.com/Coding4Hours/TIL-forked) - Today-I-learned - Mini snippets of learnings
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 1 stars and 0 forks🌟
+- [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 2 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -807,7 +972,7 @@
 - [cubicbyte/tempmail-python](https://github.com/cubicbyte/tempmail-python) - Python library for generating temporary emails
 - [omkarcloud/omkar-temp-mail](https://github.com/omkarcloud/omkar-temp-mail) - 🚀 OMKAR TEMP MAIL HELPS YOU USE TEMPORARY EMAILS. 🤖
 - [x404xx/TempMailGenerator-1SECMAIL](https://github.com/x404xx/TempMailGenerator-1SECMAIL) - Temporary email addresses generator specifically designed for automated registration processes.
-- [kozyol/TempMailBot](https://github.com/kozyol/TempMailBot) - TempMailBot is a Telegram bot that makes you temporary emails with access to mailbox!
+- [Kourva/TempMailBot](https://github.com/Kourva/TempMailBot) - TempMailBot is a Telegram bot that makes you temporary emails with access to mailbox!
 - [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
 - [sameera-madushan/Mail-Swipe](https://github.com/sameera-madushan/Mail-Swipe) - Script to create temporary email addresses and receive emails.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -843,7 +1008,6 @@
 - [noarche/dorkGen](https://github.com/noarche/dorkGen) - Quickly create a list of dorks based on variables entered.
 - [SHUR1K-N/DorkNinja-Google-Dork-Term-Generator](https://github.com/SHUR1K-N/DorkNinja-Google-Dork-Term-Generator) - A tool that assists in Google Dorks by simplifying your task enough to just adding keywords to be turned into a strict search term for more accurate and relevant search results.
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [AtuboDad/playwright_stealth](https://github.com/AtuboDad/playwright_stealth) - playwright stealth
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [mzaglia/flask-redoc](https://github.com/mzaglia/flask-redoc) - A Flask extension for displaying OpenAPI/Swagger documentation using Redocs
@@ -870,15 +1034,13 @@
 - [logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker) - Generate discord nitro codes and check them
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
 - [KanekiWeb/Nitro-Generator](https://github.com/KanekiWeb/Nitro-Generator) - 🦊 Powerfull Discord Nitro Generator
-- [localuser-isback/DdosMod](https://github.com/localuser-isback/DdosMod) - Welcome to DdosMod v1.0
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
-- [localuser-isback/chatgpt-clone](https://github.com/localuser-isback/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
 - [gagedevs/discord-server-booster](https://github.com/gagedevs/discord-server-booster) - This Is Worlds Fastest + Best Booster Tool, It Wont Lock Anytoken + ITS PROXY SUPPORTABLE (no needed tho)
 - [CalebCurry/python](https://github.com/CalebCurry/python) - Python tutorials
 - [sksalahuddin2828/Python](https://github.com/sksalahuddin2828/Python) - Python Projects and Applications with exercise
 - [zhiwehu/100_plus_Python_Projects_Challenge](https://github.com/zhiwehu/100_plus_Python_Projects_Challenge) - 100+ Python Projects Challenge
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub.
+- [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
 - [PatrikH0lop/malware_showcase](https://github.com/PatrikH0lop/malware_showcase) - Understand the nature of malicious software with practical examples in Python.
 - [H1R0GH057/Anonymous](https://github.com/H1R0GH057/Anonymous) - 
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
@@ -891,7 +1053,6 @@
 - [JohnHammond/katana](https://github.com/JohnHammond/katana) - Katana - Automatic CTF Challenge Solver in Python3
 - [JohnHammond/drupalgeddon2](https://github.com/JohnHammond/drupalgeddon2) - lorddemon/drupalgeddon2 just working with Python3
 - [fate0/getproxy](https://github.com/fate0/getproxy) - getproxy 是一个抓取发放代理网站，获取 http/https 代理的程序
-- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## R 
@@ -911,6 +1072,15 @@
 
 ## Rust 
 
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [MercuryWorkshop/epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls) - An encrypted proxy for browser javascript
+- [MercuryWorkshop/twisp](https://github.com/MercuryWorkshop/twisp) - Wisp protocol server that exposes PTYs over the Wisp connection.
+- [stadust/pointercrate](https://github.com/stadust/pointercrate) - Rewrite of the https://pointercrate.com backend in Rust
+- [fu5ha/ultraviolet](https://github.com/fu5ha/ultraviolet) - A wide linear algebra crate for games and graphics.
+- [NebulaServices/Prismora](https://github.com/NebulaServices/Prismora) - A successor to Masqr and Corlink, aiming to prevent unauthorized proxy service use using fingerprinting.
+- [NebulaServices/lolproxy-html](https://github.com/NebulaServices/lolproxy-html) - html rewriter for lolproxy
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
@@ -926,6 +1096,19 @@
 
 ## Shell 
 
+- [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
+- [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
+- [velzie/bashtro](https://github.com/velzie/bashtro) - a &lt;100 line static site generator that's easy and fun
+- [gagedevs/DesktopOnCodespaces](https://github.com/gagedevs/DesktopOnCodespaces) - 
+- [hassamohammed/Kali-SMS](https://github.com/hassamohammed/Kali-SMS) - 
+- [sevagas/swap_digger](https://github.com/sevagas/swap_digger) - swap_digger is a tool used to automate Linux swap analysis during post-exploitation or forensics. It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms
+- [BomberFish/dssOS](https://github.com/BomberFish/dssOS) - Alternative live OS for Chrome OS devices.
+- [redcode-labs/Bashark](https://github.com/redcode-labs/Bashark) - Bash post exploitation toolkit
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [notthebee/cloud-homeserver](https://github.com/notthebee/cloud-homeserver) - 
 - [Aeres-u99/ncChat](https://github.com/Aeres-u99/ncChat) - Network based simple applications in Shell script
 - [brokenricefilms/tmux-fzf-session-switch](https://github.com/brokenricefilms/tmux-fzf-session-switch) - Easy ways to switch between tons of tmux sessions
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -944,7 +1127,6 @@
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
 - [Blobby-Boi/BlobeVM](https://github.com/Blobby-Boi/BlobeVM) - BlobeVM is a virtual machine that can bypass school restrictions.
 - [Mollomm1/docker-webtop-plus](https://github.com/Mollomm1/docker-webtop-plus) - webtop but better.
-- [localuser-isback/DebianRoot](https://github.com/localuser-isback/DebianRoot) - ReplRoot
 - [dragon731012/Chromebook-VM](https://github.com/dragon731012/Chromebook-VM) - A working example of Ubuntu running on a school chromebook
 - [JohnHammond/hackersyntax](https://github.com/JohnHammond/hackersyntax) - 
 - [jun-ro/Chromebook-VM](https://github.com/jun-ro/Chromebook-VM) - A working example of Ubuntu running on a school chromebook
@@ -956,6 +1138,7 @@
 
 ## Swift 
 
+- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [ngw69/Brew](https://github.com/ngw69/Brew) - Mathematics Helper.
 
 ## TeX 
@@ -965,6 +1148,32 @@
 
 ## TypeScript 
 
+- [car-axle-client/car-antenna](https://github.com/car-axle-client/car-antenna) - chat backend for car axle client
+- [e9x/spadium-offline](https://github.com/e9x/spadium-offline) - Spadium Offline is a script that operates within an offline webpage to avoid network traffic, similar to Spadium Lite, and allows websites to be rendered locally without external requests.
+- [e9x/spadium](https://github.com/e9x/spadium) - 
+- [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
+- [carbonsystems-dev/graphite](https://github.com/carbonsystems-dev/graphite) - Graphite is a JS library made to be a better and simpler localstorage. Being feature rich and easy to use, its perfect for your projects!
+- [carbonsystems-dev/liberium](https://github.com/carbonsystems-dev/liberium) - A lightweight, open source, and free to use library made for the unblocking community.
+- [MeteorProxy/meteor](https://github.com/MeteorProxy/meteor) - The modern interception proxy you've been waiting for
+- [titaniumnetwork-dev/masqr-middleware](https://github.com/titaniumnetwork-dev/masqr-middleware) - A simple express middleware for Masqr
+- [Nebelung-Forks/scramjet](https://github.com/Nebelung-Forks/scramjet) - 
+- [NebulaServices/Dynamic](https://github.com/NebulaServices/Dynamic) - [BETA] The new generation of interception proxies.
+- [RadiusProxy/Radius](https://github.com/RadiusProxy/Radius) - 
+- [owski9/Radius](https://github.com/owski9/Radius) - 
+- [Notplayingallday383/Radius](https://github.com/Notplayingallday383/Radius) - helping out bro
+- [Notplayingallday383/Nebula](https://github.com/Notplayingallday383/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
+- [Notplayingallday383/masqr-middleware](https://github.com/Notplayingallday383/masqr-middleware) - A simple express middleware for Masqr
+- [Notplayingallday383/dreamland-electron-vite](https://github.com/Notplayingallday383/dreamland-electron-vite) - A simple template for simple use of Electron with Dreamland and vite
+- [cafe-labs/mocha](https://github.com/cafe-labs/mocha) - The simplicity and power you expect from a web proxy
+- [BomberFish/wisp-workers](https://github.com/BomberFish/wisp-workers) - WIP Wisp implementation for the Cloudflare Workers runtime
+- [MercuryWorkshop/local-music-anura](https://github.com/MercuryWorkshop/local-music-anura) - Lightweight on device music player PWA.
+- [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - 
+- [MercuryWorkshop/bare-mux](https://github.com/MercuryWorkshop/bare-mux) - A system for managing http transports in a project such as Ultraviolet.
+- [MercuryWorkshop/proxy](https://github.com/MercuryWorkshop/proxy) - generic proxy testing
+- [l3wi/gearbox-ninja](https://github.com/l3wi/gearbox-ninja) - A fun UI for the Gearbox Protocol's V2 Launch
+- [UseInterstellar/Interstellar-Astro](https://github.com/UseInterstellar/Interstellar-Astro) - The latest version of Interstellar
+- [tomphttp/bare-server-node](https://github.com/tomphttp/bare-server-node) - TompHTTP Bare server in the Node runtime
+- [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
@@ -1035,13 +1244,22 @@
 
 ## Vue 
 
+- [3kh0/3kh0.net](https://github.com/3kh0/3kh0.net) - The source code behind 3kh0.net
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-- [csc530/mysite](https://github.com/csc530/mysite) - 😇My personal website for whatever I so choose😈
+- [csc530/mysite](https://github.com/csc530/mysite) - 😇My little mark on the internet👾
 - [FireStreaker2/NuxtProxy](https://github.com/FireStreaker2/NuxtProxy) - Simple proxy built with Nuxt as a SPA.
+
+## XSLT 
+
+- [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
 ## Xonsh 
 
 - [MercuryWorkshop/wispmark](https://github.com/MercuryWorkshop/wispmark) - A benchmarking tool for Wisp protocol implementations.
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
