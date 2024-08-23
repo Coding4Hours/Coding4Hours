@@ -408,7 +408,6 @@
 - [NightProxy/NextAI](https://github.com/NightProxy/NextAI) - 
 - [wearrrrr/alu-adblocker](https://github.com/wearrrrr/alu-adblocker) - 
 - [r58Playz/aboutproxy](https://github.com/r58Playz/aboutproxy) - Chrome in your browser
-- [NightProxy/Eclipse-OS](https://github.com/NightProxy/Eclipse-OS) - 
 - [NightProxy/Night](https://github.com/NightProxy/Night) - Night is a speeding proxy with several customizable features and easy deployment.
 - [gagedevs/Anonymous-Static](https://github.com/gagedevs/Anonymous-Static) - Anonymous-Static is an unblocker for school and work
 - [titaniumnetwork-dev/Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) - Example application of Ultraviolet which can be deployed in production.
@@ -839,7 +838,7 @@
 - [BlacketWare/Blacket-Hacks](https://github.com/BlacketWare/Blacket-Hacks) - disgusting.
 - [Doomlands/Blookethack-menu](https://github.com/Doomlands/Blookethack-menu) - just click bookmark or paste other code into console to open a hack menu for blooket!!!
 - [Doomlands/blookethack](https://github.com/Doomlands/blookethack) - All hacks for blooket
-- [CommanderGL/UBTW](https://github.com/CommanderGL/UBTW) - A website unblocker for school chromebooks.
+- [CrossScarDev/UBTW](https://github.com/CrossScarDev/UBTW) - A website unblocker for school chromebooks.
 - [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/rcpC9VfE  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
 - [payloadbox/ssti-payloads](https://github.com/payloadbox/ssti-payloads) - 🎯 Server Side Template Injection Payloads
 - [The-Blooket-Hacks/Blooket-Hacks](https://github.com/The-Blooket-Hacks/Blooket-Hacks) - A Repository With Blooket Hacks As A Chrome Extension And A Wiki About How To Install.
@@ -963,7 +962,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 2 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
