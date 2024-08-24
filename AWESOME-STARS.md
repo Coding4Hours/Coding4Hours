@@ -866,6 +866,8 @@
 
 ## Python 
 
+- [soxoj/async-search-scraper](https://github.com/soxoj/async-search-scraper) - Search google, bing, yahoo, and other search engines with python
+- [SrijanSriv211/Cpix](https://github.com/SrijanSriv211/Cpix) - A powerful, offline search engine.
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [CubicalBatch/deaddit](https://github.com/CubicalBatch/deaddit) - If Reddit's content was completely AI-generated.
