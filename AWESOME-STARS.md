@@ -684,6 +684,7 @@
 
 ## Others 
 
+- [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
 - [ViktorMares/ultimate_discovery](https://github.com/ViktorMares/ultimate_discovery) - Ultimate Wordlist for Web Content Discovery
 - [guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models) - A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hype
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
