@@ -515,7 +515,6 @@
 - [admirhodzic/multiselect-dropdown](https://github.com/admirhodzic/multiselect-dropdown) - Multiselect dropdown in pure JavaScript with no dependencies
 - [wh-iterabb-it/meowfacts](https://github.com/wh-iterabb-it/meowfacts) - 🐈 a simple api which returns a catfact
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [gagedevs/Hydrogen](https://github.com/gagedevs/Hydrogen) - uh was bored
 - [patmood/wildcard-subdomains](https://github.com/patmood/wildcard-subdomains) - Handle dynamic subdomains in Node.js and Express
 - [riolubruh/SplitLargeFiles](https://github.com/riolubruh/SplitLargeFiles) - Plugin for BetterDiscord that allows for uploading files larger than all of the normal limits. Fork for compatibility with YABDP4Nitro and general fixes.
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
@@ -1038,7 +1037,6 @@
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
 - [KanekiWeb/Nitro-Generator](https://github.com/KanekiWeb/Nitro-Generator) - 🦊 Powerfull Discord Nitro Generator
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
-- [gagedevs/discord-server-booster](https://github.com/gagedevs/discord-server-booster) - This Is Worlds Fastest + Best Booster Tool, It Wont Lock Anytoken + ITS PROXY SUPPORTABLE (no needed tho)
 - [CalebCurry/python](https://github.com/CalebCurry/python) - Python tutorials
 - [sksalahuddin2828/Python](https://github.com/sksalahuddin2828/Python) - Python Projects and Applications with exercise
 - [zhiwehu/100_plus_Python_Projects_Challenge](https://github.com/zhiwehu/100_plus_Python_Projects_Challenge) - 100+ Python Projects Challenge
