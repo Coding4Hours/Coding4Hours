@@ -648,6 +648,7 @@
 
 ## Jupyter Notebook 
 
+- [MariyaSha/ml_gui_app](https://github.com/MariyaSha/ml_gui_app) - simple machine learning image classifier GUI app for beginners
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [Devetec/LinuxComputer](https://github.com/Devetec/LinuxComputer) - A computer that runs right from the browser.
 - [x4nth055/pythoncode-tutorials](https://github.com/x4nth055/pythoncode-tutorials) - The Python Code Tutorials
