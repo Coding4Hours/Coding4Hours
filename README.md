@@ -42,7 +42,6 @@
         <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
       </td>
     </tr>
-    <tr>
       <td>
         <!-- blog starts -->
         * [IM BACK!!!](http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html) - 2024-08-24<br>
@@ -51,7 +50,6 @@
         <!-- blog ends -->
         𝙼𝚘𝚛𝚎 𝚘𝚗 <a href="https://coding4hours.github.io">𝙼𝚢 𝚋𝚕𝚘𝚐</a>
       </td>
-    </tr>
   </tbody>
 </table>
 
