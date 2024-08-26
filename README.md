@@ -216,11 +216,12 @@
 	</details>
 </details>
 </details>
-	
+
+<details><summary><h1>Spotify></h1></summary>
 <div align="center">
 <a  alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp7synce55dmtksfghfxg3hq34"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp7synce55dmtksfghfxg3hq34" alt="Data Card for Spotify"> </a>
 </div>
-
+</details>
 
  
 ---
