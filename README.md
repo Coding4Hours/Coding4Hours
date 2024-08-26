@@ -30,7 +30,7 @@
 </details>
 
 
-
+<details><summary><h2>Other</h2></summary>
 <details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
   <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary>
@@ -216,9 +216,11 @@
 	</details>
 </details>
 </details>
+</details>
 
-<details align="center"><summary><h1>Spotify></h1></summary>
-<a  alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp7synce55dmtksfghfxg3hq34"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp7synce55dmtksfghfxg3hq34" alt="Data Card for Spotify"> </a>
+ 
+<details align="center"><summary><h1>Spotify</h1></summary>
+<a alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp7synce55dmtksfghfxg3hq34"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp7synce55dmtksfghfxg3hq34" alt="Data Card for Spotify"></a>
 </details>
 
  
