@@ -370,6 +370,7 @@
 
 ## JavaScript 
 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [DerpmanDev/modal](https://github.com/DerpmanDev/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
 - [NightProxy/Daylight](https://github.com/NightProxy/Daylight) - The minimalistic browser. | Entry for the Proxathon 2024 |
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
