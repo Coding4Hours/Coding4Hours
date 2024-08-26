@@ -684,6 +684,7 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
 - [ViktorMares/ultimate_discovery](https://github.com/ViktorMares/ultimate_discovery) - Ultimate Wordlist for Web Content Discovery
 - [guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models) - A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hype
