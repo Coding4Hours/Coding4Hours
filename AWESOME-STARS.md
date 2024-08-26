@@ -370,6 +370,7 @@
 
 ## JavaScript 
 
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [DerpmanDev/modal](https://github.com/DerpmanDev/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
 - [NightProxy/Daylight](https://github.com/NightProxy/Daylight) - The minimalistic browser. | Entry for the Proxathon 2024 |
