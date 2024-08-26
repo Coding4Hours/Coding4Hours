@@ -684,6 +684,7 @@
 
 ## Others 
 
+- [hardhackerlabs/theme-wezterm](https://github.com/hardhackerlabs/theme-wezterm) - 🧑🏾‍🚀 HardHacker Theme for Wezterm 🌈
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
 - [ViktorMares/ultimate_discovery](https://github.com/ViktorMares/ultimate_discovery) - Ultimate Wordlist for Web Content Discovery
@@ -1150,6 +1151,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [car-axle-client/car-antenna](https://github.com/car-axle-client/car-antenna) - chat backend for car axle client
 - [e9x/spadium-offline](https://github.com/e9x/spadium-offline) - Spadium Offline is a script that operates within an offline webpage to avoid network traffic, similar to Spadium Lite, and allows websites to be rendered locally without external requests.
 - [e9x/spadium](https://github.com/e9x/spadium) - 
