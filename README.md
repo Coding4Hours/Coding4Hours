@@ -250,26 +250,3 @@ No activity tracked
 5. 🎉 Merged PR [#6](https://github.com/Aluben-service/Aluben-Node/pull/6) in [Aluben-service/Aluben-Node](https://github.com/Aluben-service/Aluben-Node)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
-
-
-## <img src="https://cardivo.vercel.app/api?name=Coding4Hours&description=just%20a%20teen%20with%20brain%20damage&image=https://avatars.githubusercontent.com/u/138321129?v=4"/>
-
-## Current Board
-
-|  |  | X |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-
-Possible moves:
-
-- [Move 1](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%201)
-- [Move 2](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%202)
-- [Move 3](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%203)
-- [Move 4](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%204)
-- [Move 5](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%205)
-- [Move 6](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%206)
-- [Move 7](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%207)
-- [Move 8](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%208)
-- [Move 9](https://github.com/Coding4Hours/Coding4Hours/issues/new?title=move%209)
-  
