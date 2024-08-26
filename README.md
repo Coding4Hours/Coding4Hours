@@ -30,7 +30,7 @@
 </details>
 
 
-<details><summary><h2>Other</h2></summary>
+<details align="center"><summary><h2>Fun/Other</h2></summary>
 <details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
   <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary>
