@@ -684,6 +684,7 @@
 
 ## Others 
 
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [hardhackerlabs/theme-wezterm](https://github.com/hardhackerlabs/theme-wezterm) - 🧑🏾‍🚀 HardHacker Theme for Wezterm 🌈
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [CorrieOnly/google-dorks](https://github.com/CorrieOnly/google-dorks) - 
