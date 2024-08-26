@@ -1,13 +1,55 @@
 <!--# HORRAY MY GITHUB ACTIONS ARE BACK!!!! 8/24/2024 9:55 AM PST-->
 
-<p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img width="100%" height=100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=700&lines=𝙷𝚒,+𝙸'𝚖+𝙲𝚘𝚍𝚒𝚗𝚐𝟺𝙷𝚘𝚞𝚛𝚜👋;𝙸'𝚖+𝚊+𝚠𝚊𝚗𝚗𝚊𝚋𝚎+𝚑𝚊𝚌𝚔𝚎𝚛+𝚊𝚗𝚍+𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.;𝙸+𝚕𝚘𝚟𝚎+𝙸𝚃.;𝙿𝚛𝚎𝚜𝚜+𝚏𝚘𝚛+𝚖𝚘𝚛𝚎+𝚒𝚗𝚏𝚘!;⏳+𝚈𝚎𝚊𝚛+𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜+{+███████████████████▁▁▁▁▁▁▁▁▁▁▁+}+52.72%" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img width="100%" height=100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=700&lines=𝙷𝚒,+𝙸'𝚖+𝙲𝚘𝚍𝚒𝚗𝚐𝟺𝙷𝚘𝚞𝚛𝚜👋;𝙸'𝚖+𝚊+𝚠𝚊𝚗𝚗𝚊𝚋𝚎+𝚑𝚊𝚌𝚔𝚎𝚛+𝚊𝚗𝚍+𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.;𝙸+𝚕𝚘𝚟𝚎+𝙸𝚃.;𝙿𝚛𝚎𝚜𝚜+𝚏𝚘𝚛+𝚖𝚘𝚛𝚎+𝚒𝚗𝚏𝚘!;⏳+𝚈𝚎𝚊𝚛+𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜+{+███████████████████▁▁▁▁▁▁▁▁▁▁▁+}+52.72%" alt="Typing SVG" />
+</a> </p>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
 
 
-<h3 id="tools" align="center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" /><img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" /><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" /><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" /><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" /><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" /><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" /><img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white" alt="gatsby" /><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" /><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" /><img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" /><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" /><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" /><img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" /><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" /><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" /><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" /><img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" /><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" /><img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" /><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" /><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" /><img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" /><img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
-</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</th>
+      <th>𝙾𝚗 𝚖𝚢 𝚋𝚕𝚘𝚐</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="docker" />
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="express" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="firebase" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="flask" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" alt="gcp" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="heroku" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="javascript" />
+<img src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white" alt="jekyll" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="kubernetes" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="linux" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql" />
+<img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="nginx" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="oracle" />
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" />
+<img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" />
+<img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
+    </tr>
+    <tr>
+ <!-- blog starts -->
+* [IM BACK!!!](http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html) - 2024-08-24
+* [Hello World!](http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
+* [Welcome to Jekyll!](http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
+<!-- blog ends -->
+ 𝙼𝚘𝚛𝚎 𝚘𝚗 [𝙼𝚢 𝚋𝚕𝚘𝚐](https://coding4hours.github.io)
+    </tr>
+  </tbody>
+</table>
 
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details  id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
@@ -220,15 +262,6 @@
 
  
 ---
-	
- ### 𝙾𝚗 𝚖𝚢 𝚋𝚕𝚘𝚐
- 
- <!-- blog starts -->
-* [IM BACK!!!](http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html) - 2024-08-24
-* [Hello World!](http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
-* [Welcome to Jekyll!](http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
-<!-- blog ends -->
- 𝙼𝚘𝚛𝚎 𝚘𝚗 [𝙼𝚢 𝚋𝚕𝚘𝚐](https://coding4hours.github.io)
  
  <!--START_SECTION:waka-->
 
