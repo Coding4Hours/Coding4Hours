@@ -563,7 +563,6 @@
 - [holyunblocker900/hwhelp](https://github.com/holyunblocker900/hwhelp) - 
 - [Blobby-Boi/snow-rider-3d](https://github.com/Blobby-Boi/snow-rider-3d) - An alternative link to play Snow Rider 3D
 - [renzz00/ultimate-bookmarklet-hacks](https://github.com/renzz00/ultimate-bookmarklet-hacks) - Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
-- [NightProxy/Osana-Static](https://github.com/NightProxy/Osana-Static) - This is a Osana Remake, similar to UV-Static
 - [NebulaServices/Zeno](https://github.com/NebulaServices/Zeno) - A proxy front-end submission for TN's proxathon.
 - [wearrrrr/Dynamic_Image_Resizer](https://github.com/wearrrrr/Dynamic_Image_Resizer) - Dynamic Image Resizer is a small ExpressJS server to resize images, with dynamic width and height support coming soon! ™
 - [VirgilSecurity/demo-sharing-js](https://github.com/VirgilSecurity/demo-sharing-js) - This is a demo app shows how you can create a secure file sharing app using Virgil Crypto Library in Javascript.
