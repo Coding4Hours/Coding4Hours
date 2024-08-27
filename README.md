@@ -236,8 +236,8 @@
 
 <!-- END TOP MOVES -->
 </details>
-</details>
 <a href="#game3">Back</a>
+</details>
 </details>
 
 <details id="insights" align="center">
