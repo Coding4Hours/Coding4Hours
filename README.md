@@ -44,9 +44,9 @@
       <td valign="top" width="50%">
 	      
 <!-- blog starts -->
- * <a href="http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html">IM BACK!!!</a> - 2024-08-24<br>
- * <a href="http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html">Hello World!</a> - 2024-07-07<br>
- * <a href="http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html">Welcome to Jekyll!</a> - 2024-07-06<br>
+* [IM BACK!!!](http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html) - 2024-08-24
+* [Hello World!](http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html) - 2024-07-07
+* [Welcome to Jekyll!](http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06
 <!-- blog ends -->
  * 𝙼𝚘𝚛𝚎 𝚘𝚗 <a href="https://coding4hours.github.io">𝙼𝚢 𝚋𝚕𝚘𝚐</a>
       </td>
