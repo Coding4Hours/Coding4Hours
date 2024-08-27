@@ -67,6 +67,7 @@
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
 <br>
+<a href="#stats">Back</a>
 <!-- <img src="https://profile-summary-for-github.com/user/Coding4Hours" align="center"/> -->
 </details>
 
@@ -121,6 +122,7 @@
 </details>
 </td></tr>
 </table>
+<a href="#games">Back</a>
 </details>
 <!-- CONNECT4 -->
 <!-- OTHELLO -->
@@ -173,6 +175,7 @@
 </details>
 </td></tr>
 </table>
+<a href="#game2">Back</a>
 </details>
 <!-- OTHELLO -->
 
@@ -234,6 +237,7 @@
 <!-- END TOP MOVES -->
 </details>
 </details>
+<a href="#game3">Back</a>
 </details>
 
 <details id="insights" align="center">
