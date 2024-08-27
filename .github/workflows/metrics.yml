@@ -23,7 +23,12 @@ jobs:
         with:
           token: ${{ secrets.GOD }}
       - name: Get the changelog
-        run: echo "${{ steps.changelog.outputs.changelog }} > CHANGELOG.md"
+        run: |
+          echo "${{ steps.changelog.outputs.changelog }} > CHANGELOG.md"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Automated"
+          git commit -am "updated changelog"
+          git push
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
@@ -39,7 +44,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.name "Automated"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update awesome stars"
       - name: Pull changes
