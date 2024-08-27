@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td valign="top" width="50%">
         <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" />
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="bootstrap" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="css3" />
@@ -41,15 +41,16 @@
         <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" />
         <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
       </td>
-    </tr>
-      <td>
-        <!-- blog starts -->
-        * [IM BACK!!!](http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html) - 2024-08-24<br>
-        * [Hello World!](http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html) - 2024-07-07<br>
-        * [Welcome to Jekyll!](http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html) - 2024-07-06<br>
-        <!-- blog ends -->
-        𝙼𝚘𝚛𝚎 𝚘𝚗 <a href="https://coding4hours.github.io">𝙼𝚢 𝚋𝚕𝚘𝚐</a>
+      <td valign="top" width="50%">
+	      
+<!-- blog starts -->
+ * <a href="http://coding4hours.duckdns.org/first/post/2024/08/24/IM-BACK!!!!!.html">IM BACK!!!</a> - 2024-08-24<br>
+ * <a href="http://coding4hours.duckdns.org/first/post/2024/07/07/Hello-World!.html">Hello World!</a> - 2024-07-07<br>
+ * <a href="http://coding4hours.duckdns.org/first/post/2024/07/06/Welcome-to-my-blog.html">Welcome to Jekyll!</a> - 2024-07-06<br>
+<!-- blog ends -->
+ * 𝙼𝚘𝚛𝚎 𝚘𝚗 <a href="https://coding4hours.github.io">𝙼𝚢 𝚋𝚕𝚘𝚐</a>
       </td>
+    </tr>
   </tbody>
 </table>
 
