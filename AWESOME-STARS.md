@@ -25,6 +25,7 @@
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mermaid](#mermaid)
@@ -660,6 +661,10 @@
 ## Kotlin 
 
 - [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a 1.8.9 Minecraft Mod for Hypixel SkyBlock.
+
+## MDX 
+
+- [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 
 ## Makefile 
 
