@@ -188,6 +188,7 @@
 
 ## HTML 
 
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
 - [Whirlwind-Studio/Whirlwind-App](https://github.com/Whirlwind-Studio/Whirlwind-App) - The repo for the Whirlwind Proxy
 - [wondlatd/wondlatd.github.](https://github.com/wondlatd/wondlatd.github.) - Elixir is a beautiful proxy made using Tailwind CSS, Ultraviolet and bare-server!
