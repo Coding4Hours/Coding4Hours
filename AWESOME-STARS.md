@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [D3vd/Meme_Api](https://github.com/D3vd/Meme_Api) - Summon a random meme at will
@@ -877,6 +878,7 @@
 
 ## Python 
 
+- [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [soxoj/async-search-scraper](https://github.com/soxoj/async-search-scraper) - Search google, bing, yahoo, and other search engines with python
 - [SrijanSriv211/Cpix](https://github.com/SrijanSriv211/Cpix) - A powerful, offline search engine.
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
@@ -1159,6 +1161,7 @@
 
 ## TypeScript 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [car-axle-client/car-antenna](https://github.com/car-axle-client/car-antenna) - chat backend for car axle client
 - [e9x/spadium-offline](https://github.com/e9x/spadium-offline) - Spadium Offline is a script that operates within an offline webpage to avoid network traffic, similar to Spadium Lite, and allows websites to be rendered locally without external requests.
