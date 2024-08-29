@@ -122,7 +122,7 @@
 - [hassamohammed/gmail-login-phishing-discord](https://github.com/hassamohammed/gmail-login-phishing-discord) - 
 - [pickle69420/picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
 - [PolyMarsDev/PolyMarsDev.github.io](https://github.com/PolyMarsDev/PolyMarsDev.github.io) - A simple landing page for social media links
-- [Synqat/vencord-theme](https://github.com/Synqat/vencord-theme) - 
+- [nanoqoi/vencord-theme](https://github.com/nanoqoi/vencord-theme) - 
 - [TheGlitchedPhoenix/TacoPrrxyV2](https://github.com/TheGlitchedPhoenix/TacoPrrxyV2) - A node.js web proxy for use in combating web filters
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [StylishThemes/GitHub-Selected-Tab-Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) - :flags: Add a custom selected tab color to GitHub
