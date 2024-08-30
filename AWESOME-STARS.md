@@ -189,6 +189,8 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
 - [Whirlwind-Studio/Whirlwind-App](https://github.com/Whirlwind-Studio/Whirlwind-App) - The repo for the Whirlwind Proxy
@@ -373,6 +375,11 @@
 
 ## JavaScript 
 
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [DerpmanDev/modal](https://github.com/DerpmanDev/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
@@ -692,6 +699,7 @@
 
 ## Others 
 
+- [softvar/awesome-web-storage](https://github.com/softvar/awesome-web-storage) - :sunglasses: Everything you need to know about Client-side Storage.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [hardhackerlabs/theme-wezterm](https://github.com/hardhackerlabs/theme-wezterm) - 🧑🏾‍🚀 HardHacker Theme for Wezterm 🌈
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -857,6 +865,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [opsxcq/docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa) - Damn Vulnerable Web Application Docker container
@@ -1161,6 +1170,8 @@
 
 ## TypeScript 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [KID-joker/stokado](https://github.com/KID-joker/stokado) - stokado can proxy objects of any storage-like, providing getter/setter syntax sugars, serialization, subscription listening, expiration setting, one-time value retrieval.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [car-axle-client/car-antenna](https://github.com/car-axle-client/car-antenna) - chat backend for car axle client
