@@ -905,6 +905,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [soxoj/async-search-scraper](https://github.com/soxoj/async-search-scraper) - Search google, bing, yahoo, and other search engines with python
 - [SrijanSriv211/Cpix](https://github.com/SrijanSriv211/Cpix) - A powerful, offline search engine.
