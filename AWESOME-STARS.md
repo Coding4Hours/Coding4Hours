@@ -623,7 +623,7 @@
 - [xnightless/Shadownetwork](https://github.com/xnightless/Shadownetwork) - Experience the global internet using Shadow, the fastest Proxy in the world The best looking proxy there is with Apps and tab cloaking and over 100+ games for students
 - [pooxie-proxy/Pooxie-Proxy-Official](https://github.com/pooxie-proxy/Pooxie-Proxy-Official) - A proxy made by Xemkea inc. (Poodle school)
 - [Snorlaxs-Cave/Snorlaxs-Cave-v2](https://github.com/Snorlaxs-Cave/Snorlaxs-Cave-v2) - Snorlax's Cave is a UV-built proxy and game site boasting an extensive collection of over 200+ unblocked games and apps, providing a seamless unblocked experience for students.
-- [a456pur/seraph](https://github.com/a456pur/seraph) - an open source game hosting site with 300+ games, clean user interface, tab cloaking, themes, full downloadable support and frequent updates
+- [a456pur/seraph](https://github.com/a456pur/seraph) - an open source game website that hosts 500+ games with customisable settings, full rehosting support and a beautiful design
 - [DeltaUBNetwork/DeltaOSinBrowser](https://github.com/DeltaUBNetwork/DeltaOSinBrowser) - webbrowse
 - [DeltaUBNetwork/DeltaProxy](https://github.com/DeltaUBNetwork/DeltaProxy) - t
 - [3kh0/3kh0-lite](https://github.com/3kh0/3kh0-lite) - Welcome to 3kh0 lite, a lightweight, fast, and clean game site.
