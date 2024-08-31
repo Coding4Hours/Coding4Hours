@@ -137,7 +137,6 @@
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
-- [DerpmanDev/worksheetsforteachers](https://github.com/DerpmanDev/worksheetsforteachers) - Fake educational website for spoofing
 - [Deblok-Workshop/DeblokAI](https://github.com/Deblok-Workshop/DeblokAI) - deblok ai
 - [A-Random-Person-on-Github/A-Random-Person-on-Github.github.io](https://github.com/A-Random-Person-on-Github/A-Random-Person-on-Github.github.io) - kali linux on web if websit dont work download zip file then unzip then open index.html
 - [molkify/molkify.github.io](https://github.com/molkify/molkify.github.io) - akjc
@@ -315,6 +314,7 @@
 - [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses) - School Bypasses that should work for blockers like Securly, iBoss, and GoGuardian. End internet censorship! (without using Holy Unblocker)
 - [Nebelung-Dev/Metallic-theme-maker](https://github.com/Nebelung-Dev/Metallic-theme-maker) - Have fun with it.
 - [DerpmanDev/chat-client](https://github.com/DerpmanDev/chat-client) - An online node.js chat client
+- [DerpmanDev/worksheetsforteachers](https://github.com/DerpmanDev/worksheetsforteachers) - Fake educational website for spoofing
 - [Shploop/Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate).      https://05konz.github.io/Blooket-Cheats/
 - [pauljadam/bookmarklets](https://github.com/pauljadam/bookmarklets) - 
 - [janmoesen/bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
