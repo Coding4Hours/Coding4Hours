@@ -377,6 +377,8 @@
 
 ## JavaScript 
 
+- [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Leave a star if you like it :D
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [asc2563/proxys](https://github.com/asc2563/proxys) - 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
