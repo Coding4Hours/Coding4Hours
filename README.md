@@ -40,6 +40,8 @@
         <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="spring" />
         <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="svelte" />
         <img src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white" alt="zapier" />
+	<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+	<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" />
       </td>
       <td valign="top" width="50%">
 	      
