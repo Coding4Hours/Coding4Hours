@@ -1193,6 +1193,7 @@
 
 ## TypeScript 
 
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [KID-joker/stokado](https://github.com/KID-joker/stokado) - stokado can proxy objects of any storage-like, providing getter/setter syntax sugars, serialization, subscription listening, expiration setting, one-time value retrieval.
