@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -908,6 +909,8 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [quicaxd/Exela-V2.0](https://github.com/quicaxd/Exela-V2.0) - Exela Stealer is an undetectable stealer software at both runtime and scan time. It operates asynchronously, ensuring complete stealth (FUD). It steals passwords, cookies, autofill data, sessions, and
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [soxoj/async-search-scraper](https://github.com/soxoj/async-search-scraper) - Search google, bing, yahoo, and other search engines with python
@@ -1295,6 +1298,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [3kh0/3kh0.net](https://github.com/3kh0/3kh0.net) - The source code behind 3kh0.net
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [csc530/mysite](https://github.com/csc530/mysite) - 😇My little mark on the internet👾
