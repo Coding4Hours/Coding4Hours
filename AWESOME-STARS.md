@@ -1197,6 +1197,7 @@
 
 ## TypeScript 
 
+- [MercuryWorkshop/bare-as-module3](https://github.com/MercuryWorkshop/bare-as-module3) - Tomp Bare Client as a bare-mux module.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
