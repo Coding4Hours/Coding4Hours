@@ -315,7 +315,7 @@
 - [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses) - School Bypasses that should work for blockers like Securly, iBoss, and GoGuardian. End internet censorship! (without using Holy Unblocker)
 - [Nebelung-Dev/Metallic-theme-maker](https://github.com/Nebelung-Dev/Metallic-theme-maker) - Have fun with it.
 - [DerpmanDev/chat-client](https://github.com/DerpmanDev/chat-client) - An online node.js chat client
-- [DerpmanDev/worksheetsforteachers](https://github.com/DerpmanDev/worksheetsforteachers) - Fake educational website for spoofing
+- [DogeNetwork/worksheetsforteachers](https://github.com/DogeNetwork/worksheetsforteachers) - Fake educational website for spoofing
 - [Shploop/Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate).      https://05konz.github.io/Blooket-Cheats/
 - [pauljadam/bookmarklets](https://github.com/pauljadam/bookmarklets) - 
 - [janmoesen/bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
@@ -901,6 +901,7 @@
 
 ## PowerShell 
 
+- [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 - [AdrianVollmer/PowerHub](https://github.com/AdrianVollmer/PowerHub) - A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting
 - [antonioCoco/ConPtyShell](https://github.com/antonioCoco/ConPtyShell) - ConPtyShell - Fully Interactive Reverse Shell for Windows
