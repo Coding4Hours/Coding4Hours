@@ -280,7 +280,7 @@
 - [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic) - Modern web proxy with games, apps, and even a built in browser! If you fork this repo please star it!
 - [Potato-constellation/Hubsite](https://github.com/Potato-constellation/Hubsite) - this is a personal project of mine to group all of the games, cheats, unblockers and general entertainment that the school has yet to block. I update the website regularly in my free time as well. If 
 - [Githubman6996/05konz-blooket-site](https://github.com/Githubman6996/05konz-blooket-site) - 05konz blooket site
-- [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - Lunaar / Native v4 - Free Unblocked Games - Opensource
+- [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - A simple open-source unblocked gaming site
 - [FogNetwork/Mist](https://github.com/FogNetwork/Mist) - A simple youtube downloader included in Tsunami
 - [HolyFwig/shrimplefix.github.io](https://github.com/HolyFwig/shrimplefix.github.io) - A simple Content Delivery Network for delivering games, movies, shows, and static web services!
 - [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page
