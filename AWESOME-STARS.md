@@ -190,6 +190,7 @@
 
 ## HTML 
 
+- [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
@@ -378,6 +379,7 @@
 
 ## JavaScript 
 
+- [ShadowDevLabs/ShadowV3](https://github.com/ShadowDevLabs/ShadowV3) - A tabbed web proxy used to evade censorship
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Leave a star if you like it :D
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -878,7 +880,7 @@
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖
-- [BlacketWare/Blacket-Hacks](https://github.com/BlacketWare/Blacket-Hacks) - disgusting.
+- [BlacketWare/TheEnd](https://github.com/BlacketWare/TheEnd) - nothing is eternal, and we will prove it.
 - [Doomlands/Blookethack-menu](https://github.com/Doomlands/Blookethack-menu) - just click bookmark or paste other code into console to open a hack menu for blooket!!!
 - [Doomlands/blookethack](https://github.com/Doomlands/blookethack) - All hacks for blooket
 - [CrossScarDev/UBTW](https://github.com/CrossScarDev/UBTW) - A website unblocker for school chromebooks.
