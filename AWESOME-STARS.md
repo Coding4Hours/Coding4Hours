@@ -1229,7 +1229,7 @@
 - [titaniumnetwork-dev/masqr-middleware](https://github.com/titaniumnetwork-dev/masqr-middleware) - A simple express middleware for Masqr
 - [Nebelung-Forks/scramjet](https://github.com/Nebelung-Forks/scramjet) - 
 - [NebulaServices/Dynamic](https://github.com/NebulaServices/Dynamic) - [BETA] The new generation of interception proxies.
-- [proudparrot2/Radius](https://github.com/proudparrot2/Radius) - 
+- [RadiusProxy/Radius](https://github.com/RadiusProxy/Radius) - 
 - [owski9/Radius](https://github.com/owski9/Radius) - 
 - [Notplayingallday383/Radius](https://github.com/Notplayingallday383/Radius) - helping out bro
 - [Notplayingallday383/Nebula](https://github.com/Notplayingallday383/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
