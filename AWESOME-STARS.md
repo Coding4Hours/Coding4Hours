@@ -190,6 +190,7 @@
 
 ## HTML 
 
+- [Bromine35/kajigs](https://github.com/Bromine35/kajigs) - Full archives of the kajigs channel within Titanium Network.
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -380,6 +381,10 @@
 
 ## JavaScript 
 
+- [Astatine-Development/uWisp-Server](https://github.com/Astatine-Development/uWisp-Server) - A updated, faster, lower latency wisp server written using uwebsockets.js for max peformance.
+- [chemicaljs/chemical](https://github.com/chemicaljs/chemical) - Easily create your own web proxy with no experience required.
+- [Eclipse-Proxy/Eclipse](https://github.com/Eclipse-Proxy/Eclipse) - An interception web proxy.
+- [cognetwork-dev/Galaxy](https://github.com/cognetwork-dev/Galaxy) - A stunning web proxy with support for many popular sites.
 - [titaniumnetwork-dev/nano](https://github.com/titaniumnetwork-dev/nano) - A minimalist web proxy built to be simple yet powerful.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
