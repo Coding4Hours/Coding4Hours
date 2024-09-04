@@ -794,7 +794,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [raklaptudirm/raklaptudirm](https://github.com/raklaptudirm/raklaptudirm) - please stop starring this repo ;-;
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [VyperGroup/Moonrock](https://github.com/VyperGroup/Moonrock) - This is a search engine / aggregator for game sites
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [minesraft4/stuff-for-proxy-on-replit](https://github.com/minesraft4/stuff-for-proxy-on-replit) - replit proxy icon
