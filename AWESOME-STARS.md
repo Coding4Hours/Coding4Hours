@@ -385,7 +385,6 @@
 - [Aluminum-Depot/Tinf0il-Go](https://github.com/Aluminum-Depot/Tinf0il-Go) - Browser extension for shenanagins
 - [Astatine-Development/uWisp-Server](https://github.com/Astatine-Development/uWisp-Server) - A updated, faster, lower latency wisp server written using uwebsockets.js for max peformance.
 - [chemicaljs/chemical](https://github.com/chemicaljs/chemical) - Easily create your own web proxy with no experience required.
-- [Eclipse-Proxy/Eclipse](https://github.com/Eclipse-Proxy/Eclipse) - An interception web proxy.
 - [cognetwork-dev/Galaxy](https://github.com/cognetwork-dev/Galaxy) - A stunning web proxy with support for many popular sites.
 - [titaniumnetwork-dev/nano](https://github.com/titaniumnetwork-dev/nano) - A minimalist web proxy built to be simple yet powerful.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
@@ -1211,6 +1210,7 @@
 
 ## TypeScript 
 
+- [Eclipse-Proxy/Eclipse](https://github.com/Eclipse-Proxy/Eclipse) - An interception web proxy.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [MercuryWorkshop/bare-as-module3](https://github.com/MercuryWorkshop/bare-as-module3) - Tomp Bare Client as a bare-mux module.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
