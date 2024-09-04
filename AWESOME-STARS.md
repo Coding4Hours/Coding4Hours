@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [FoxMoss/WispServerCpp](https://github.com/FoxMoss/WispServerCpp) - A TCP and UDP proxy over websockets. Implementing the full Wisp protocol.
 - [googlevr/blocks](https://github.com/googlevr/blocks) - An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [leetCipher/Malware.development](https://github.com/leetCipher/Malware.development) - Malware attacks/techniques explained
@@ -381,6 +382,7 @@
 
 ## JavaScript 
 
+- [Aluminum-Depot/Tinf0il-Go](https://github.com/Aluminum-Depot/Tinf0il-Go) - Browser extension for shenanagins
 - [Astatine-Development/uWisp-Server](https://github.com/Astatine-Development/uWisp-Server) - A updated, faster, lower latency wisp server written using uwebsockets.js for max peformance.
 - [chemicaljs/chemical](https://github.com/chemicaljs/chemical) - Easily create your own web proxy with no experience required.
 - [Eclipse-Proxy/Eclipse](https://github.com/Eclipse-Proxy/Eclipse) - An interception web proxy.
