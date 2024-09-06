@@ -308,7 +308,7 @@
 - [Blobby-Boi/RammerheadPR0XY](https://github.com/Blobby-Boi/RammerheadPR0XY) - Dont run this. This is meant as a prank for those dumb kids who use proxies
 - [Blobby-Boi/BlobeBlocker](https://github.com/Blobby-Boi/BlobeBlocker) - Like URLRedirector but it unblocks stuff
 - [Blobby-Boi/WorldsHardestGame2](https://github.com/Blobby-Boi/WorldsHardestGame2) - An alternative link to play World's Hardest Game 2
-- [colbychittenden/DuckOS](https://github.com/colbychittenden/DuckOS) - A pure JavaScript web-based operating system. 100% static but seemingly dynamic 💖
+- [colbster937/DuckOS](https://github.com/colbster937/DuckOS) - A pure JavaScript web-based operating system. 100% static but seemingly dynamic 💖
 - [xlluminate/Illuminate](https://github.com/xlluminate/Illuminate) - An unblocked games website with multiple features, including proxies, apps, and more!
 - [dragon731012/Innate](https://github.com/dragon731012/Innate) - Stop scrolling, start chatting with Innate, the ultimate chatting website for any purpose. Dive into lively conversations, create groups for your school or friend circle, and be whoever you want to be
 - [Project-Bradnails/Bradnails](https://github.com/Project-Bradnails/Bradnails) - The definitive unblocked games archive
