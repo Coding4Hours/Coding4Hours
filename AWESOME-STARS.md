@@ -120,6 +120,7 @@
 
 ## CSS 
 
+- [JaniRefsnes/w3css](https://github.com/JaniRefsnes/w3css) - W3.CSS - CSS Framework
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [Hydrogen-Network/Hydrogen-AI](https://github.com/Hydrogen-Network/Hydrogen-AI) - 
 - [hassamohammed/gmail-login-phishing-discord](https://github.com/hassamohammed/gmail-login-phishing-discord) - 
