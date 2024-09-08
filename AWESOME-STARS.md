@@ -1152,6 +1152,7 @@
 
 ## Rust 
 
+- [MercuryWorkshop/wisp-server-workers](https://github.com/MercuryWorkshop/wisp-server-workers) - Wisp server running on Cloudflare Workers.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
