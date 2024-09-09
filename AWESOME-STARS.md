@@ -444,7 +444,6 @@
 - [anshnk/Phoenix](https://github.com/anshnk/Phoenix) - Phoenix Source Code
 - [Notplayingallday383/chimerix](https://github.com/Notplayingallday383/chimerix) - Chimerix shell, based on phoenix shell and modified to use anura's apis. This is forked from a repo that provides the phoenix shell subtree frop the puter monorepo
 - [SpeedSlicer/GeneralAdditionsJS](https://github.com/SpeedSlicer/GeneralAdditionsJS) - random additions in JS
-- [SpeedSlicer/eaglerbinth](https://github.com/SpeedSlicer/eaglerbinth) - 
 - [TacoGuy21/Just-Talk](https://github.com/TacoGuy21/Just-Talk) - I tried to make a chat. This is a global chat which can be used by different people all around the world. There are absolutely no rules and it is complete freedom of speech.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
