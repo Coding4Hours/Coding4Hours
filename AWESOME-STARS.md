@@ -1305,7 +1305,7 @@
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [swagging-post/simple-proxy](https://github.com/swagging-post/simple-proxy) - Simple proxy for a cloudflare worker
 - [ritwickdey/vscode-live-server-plus-plus](https://github.com/ritwickdey/vscode-live-server-plus-plus) - VsCode Live Server++ : It's Truly Live 😊 (BETA)  -- [NOT RELEASED YET]
-- [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based crawler in a single Docker container
+- [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [uhidontkno/Artemis](https://github.com/uhidontkno/Artemis) - Discord bot for steering alt accounts away. Alternative to Double Counter.
 - [Deblok-Workshop/NewDeblok](https://github.com/Deblok-Workshop/NewDeblok) - The New Deblok.
