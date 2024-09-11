@@ -426,7 +426,7 @@
 - [e9x/stomp](https://github.com/e9x/stomp) - SystemYA's implementation of the TOMP model.
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [FogNetwork/Tsunami](https://github.com/FogNetwork/Tsunami) - An official Fog Network proxy site, made to access the blocked web. Surf without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom fr
-- [MercuryWorkshop/v86](https://github.com/MercuryWorkshop/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [MercuryWorkshop/v86](https://github.com/MercuryWorkshop/v86) - anuraOS's fork of the v86 emulator
 - [albibos/rawgit](https://github.com/albibos/rawgit) - RawGit for deployment on Replit, Glitch, etc
 - [carbonsystems-dev/gitloaf](https://github.com/carbonsystems-dev/gitloaf) - Gitloaf an open sourced cdn that displays files from github with their correct content type headers. See a list of supported files here: https://gitloaf.com/filetypes.html Similar to raw.githack.com, 
 - [embr-dev/Blaze](https://github.com/embr-dev/Blaze) - A website downloader written with node.js.
