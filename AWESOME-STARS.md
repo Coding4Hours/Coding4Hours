@@ -1096,7 +1096,7 @@
 - [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [kashaziz/rotating-proxy-python](https://github.com/kashaziz/rotating-proxy-python) - Python script for rotation through Proxy Servers
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
-- [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Web scrapers for popular targets powered Scrapfly.io
+- [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [realhardik18/Image-To-Ascii](https://github.com/realhardik18/Image-To-Ascii) - a python program which converts an image to ascii charecters
 - [ivan-sincek/scrapy-scraper](https://github.com/ivan-sincek/scrapy-scraper) - Web crawler and scraper based on Scrapy and Playwright's headless browser.
