@@ -200,6 +200,7 @@
 
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
+- [ShadowDevLabs/ShadowV3](https://github.com/ShadowDevLabs/ShadowV3) - A tabbed web proxy used to evade censorship
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
@@ -401,7 +402,6 @@
 - [titaniumnetwork-dev/nano](https://github.com/titaniumnetwork-dev/nano) - A minimalist web proxy built to be simple yet powerful.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
-- [ShadowDevLabs/ShadowV3](https://github.com/ShadowDevLabs/ShadowV3) - A tabbed web proxy used to evade censorship
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [jvillegasd/Jvillegasd](https://github.com/jvillegasd/Jvillegasd) - Leave a star if you like it :D
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
