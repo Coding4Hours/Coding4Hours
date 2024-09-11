@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [microsoft/samples-for-ai](https://github.com/microsoft/samples-for-ai) - Samples for getting started with deep learning across TensorFlow, CNTK, Theano and more.
 - [moom825/Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
