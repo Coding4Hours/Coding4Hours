@@ -435,7 +435,7 @@
 - [Russell2259/Geode](https://github.com/Russell2259/Geode) - A simple unfinished proxy
 - [Russell2259/stuff](https://github.com/Russell2259/stuff) - A ton of stuff mainly for school projects and idea testing.
 - [Russell2259/Easyviolet](https://github.com/Russell2259/Easyviolet) - An easy way to use the ultraviolet proxy.
-- [Flow-Works/FlowOS](https://github.com/Flow-Works/FlowOS) - The most aesthetic webOS.
+- [Flow-Works/FlowOS-OLD](https://github.com/Flow-Works/FlowOS-OLD) - The most aesthetic webOS.
 - [TerbiumOS/terbulence-v2](https://github.com/TerbiumOS/terbulence-v2) - The new terbium webOS packed with features
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [phoboslab/Impact](https://github.com/phoboslab/Impact) - HTML5 Game Engine
@@ -678,7 +678,7 @@
 - [Doomlands/Duolingohack](https://github.com/Doomlands/Duolingohack) - Paste into console for auto answer
 - [Hydrogen-Network/Hydrogen-static](https://github.com/Hydrogen-Network/Hydrogen-static) - All your wants in one website. THIS IS STATIC
 - [r480github/Galaxy-BETA-](https://github.com/r480github/Galaxy-BETA-) - A Game Website Made By r480
-- [Flow-Works/FlowOS-Legacy](https://github.com/Flow-Works/FlowOS-Legacy) - 
+- [Flow-Works/FlowOS](https://github.com/Flow-Works/FlowOS) - 
 - [VyperGroup/astroidv3](https://github.com/VyperGroup/astroidv3) - Astroid v3, the latest and greatest version of Astroid!
 
 ## Jinja 
