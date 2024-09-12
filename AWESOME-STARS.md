@@ -390,6 +390,7 @@
 
 ## JavaScript 
 
+- [rose-pine/vscode](https://github.com/rose-pine/vscode) - Soho vibes for Visual Studio Code
 - [worldwidewaves/Cookie-Stonks](https://github.com/worldwidewaves/Cookie-Stonks) - Cookie Clicker Stock Market Helper
 - [xrkffgg/xrkffgg](https://github.com/xrkffgg/xrkffgg) - 🎉 A quote a day, welcome PR to add your quotations.
 - [vibeOS/vibeos-legacy](https://github.com/vibeOS/vibeos-legacy) - Source code for legacy vibeOS
