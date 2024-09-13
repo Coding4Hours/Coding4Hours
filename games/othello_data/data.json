@@ -1,14 +1,19 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
         0
     ],
     "leaderboard": {
-        "Coding4Hours": 8
+        "Coding4Hours": 8,
+        "Liumingxun": 1
     },
     "history": [
+        [
+            "\ud83d\udd35 F4",
+            "Liumingxun"
+        ],
         [
             "\ud83d\udfe2 C5",
             "Coding4Hours"
@@ -82,7 +87,7 @@
             1,
             0,
             0,
-            1,
+            0,
             -1,
             -1
         ],
@@ -92,7 +97,7 @@
             1,
             0,
             0,
-            -1,
+            0,
             -1,
             -1
         ],
