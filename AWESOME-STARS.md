@@ -746,6 +746,7 @@
 
 ## Others 
 
+- [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
