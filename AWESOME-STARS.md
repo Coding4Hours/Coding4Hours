@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [catppuccin/daisyui](https://github.com/catppuccin/daisyui) - 🌼 Soothing pastel theme for daisyUI
 - [tw31122007/HTML-Games-Cloudflare-Pages-2](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages-2) - 
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
