@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [tw31122007/HTML-Games-Cloudflare-Pages-2](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages-2) - 
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
 - [ShadowDevLabs/ShadowV3](https://github.com/ShadowDevLabs/ShadowV3) - A tabbed web proxy used to evade censorship
@@ -390,6 +391,7 @@
 
 ## JavaScript 
 
+- [tw31122007/HTML-Games-Cloudflare-Pages](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages) - 
 - [rose-pine/vscode](https://github.com/rose-pine/vscode) - Soho vibes for Visual Studio Code
 - [worldwidewaves/Cookie-Stonks](https://github.com/worldwidewaves/Cookie-Stonks) - Cookie Clicker Stock Market Helper
 - [xrkffgg/xrkffgg](https://github.com/xrkffgg/xrkffgg) - 🎉 A quote a day, welcome PR to add your quotations.
