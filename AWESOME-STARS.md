@@ -1235,6 +1235,7 @@
 
 ## TypeScript 
 
+- [catppuccin/palette](https://github.com/catppuccin/palette) - 🎨 Soothing pastel theme to use within your projects!
 - [tomphttp/bare-server-worker](https://github.com/tomphttp/bare-server-worker) - TompHTTP Bare server in the Cloudflare Worker runtime
 - [cohenerickson/Nucleon](https://github.com/cohenerickson/Nucleon) - tee hee
 - [Eclipse-Proxy/Eclipse](https://github.com/Eclipse-Proxy/Eclipse) - An interception web proxy.
