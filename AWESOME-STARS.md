@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [seezaara/js2ray](https://github.com/seezaara/js2ray) - The v2ray vmess protocol, based on nodejs javascript which you can use on hosts and servers
 - [tw31122007/HTML-Games-Cloudflare-Pages](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages) - 
 - [rose-pine/vscode](https://github.com/rose-pine/vscode) - Soho vibes for Visual Studio Code
 - [worldwidewaves/Cookie-Stonks](https://github.com/worldwidewaves/Cookie-Stonks) - Cookie Clicker Stock Market Helper
