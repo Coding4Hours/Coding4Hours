@@ -829,7 +829,7 @@
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
 - [simonw/shot-scraper-demo](https://github.com/simonw/shot-scraper-demo) - Live demo of shot-scraper
 - [simonw/python-lib-template-repository](https://github.com/simonw/python-lib-template-repository) - GitHub template repository for creating new Python libraries, using the simonw/python-lib cookiecutter template
-- [maxontech/best-github-profile-readme](https://github.com/maxontech/best-github-profile-readme) - Curated list of beautiful and unique GitHub Profile Readme markdown files
+- [MaxRohowsky/best-github-profile-readme](https://github.com/MaxRohowsky/best-github-profile-readme) - Curated list of beautiful and unique GitHub Profile Readme markdown files
 - [jain-priyal1/Tic-tac-toe](https://github.com/jain-priyal1/Tic-tac-toe) - Two-player game played on 3x3 grid using python.
 - [sridhar-sp/tic-tac-toe](https://github.com/sridhar-sp/tic-tac-toe) - Tic-tac-toe game from markdown file. This is a learning attempt to see how interactive Github readme file can be. Checkout the backend code here. https://github.com/sridhar-sp/tic-tac-toe-backend
 - [orhun/orhun](https://github.com/orhun/orhun) - My GitHub profile README.md ⭐:octocat:
