@@ -252,7 +252,7 @@
 - [GeneralMathematics/General-Mathematics-Beta](https://github.com/GeneralMathematics/General-Mathematics-Beta) - A Web Proxy That is Fast and Has Multiple Games. Evade Internet Censorship and Browse the Internet Freely.
 - [MonkeyGG2/VioletGG2-Static](https://github.com/MonkeyGG2/VioletGG2-Static) - MonkeyGG2 static files for Ultraviolet Proxy
 - [smashah/github-readme-testimonials](https://github.com/smashah/github-readme-testimonials) - Show appreciation for your contributions in your readme
-- [TacoGuy21/VOID](https://github.com/TacoGuy21/VOID) - A 30 stage puzzle game where you are trapped in a pure black abyss housing nothing but a green gateway and several sharp spikes. How will you escape?
+- [TacoGuy21/VOID](https://github.com/TacoGuy21/VOID) - A 13 stage puzzle game where you are trapped in a pure black abyss housing nothing but a green gateway and several sharp spikes. How will you escape?
 - [Lissy93/md-toc-generator](https://github.com/Lissy93/md-toc-generator) - 📒 Quick script to generate a table of contents from a markdown document
 - [luciopaiva/markdown-toc](https://github.com/luciopaiva/markdown-toc) - Online markdown table of contents generator
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
@@ -746,6 +746,7 @@
 
 ## Others 
 
+- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
 - [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
