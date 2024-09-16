@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [TommyBoi-TB/Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 - [catppuccin/daisyui](https://github.com/catppuccin/daisyui) - 🌼 Soothing pastel theme for daisyUI
 - [tw31122007/HTML-Games-Cloudflare-Pages-2](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages-2) - 
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
@@ -747,6 +748,7 @@
 
 ## Others 
 
+- [Moonboy05/BlooketHacks](https://github.com/Moonboy05/BlooketHacks) - Hacks for people who want them!
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
 - [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
