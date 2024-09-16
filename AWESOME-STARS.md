@@ -1050,7 +1050,7 @@
 - [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - his repo has 2 stars and 0 forks🌟
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 177 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
