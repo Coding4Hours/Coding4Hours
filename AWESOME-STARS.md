@@ -361,7 +361,7 @@
 
 ## Java 
 
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 - [HCL-TECH-SOFTWARE/AltoroJ](https://github.com/HCL-TECH-SOFTWARE/AltoroJ) - WARNING: This app contains security vulnerabilities. AltoroJ is a sample banking J2EE web application. It shows what happens when web applications are written with consideration of app functionality b
 - [rusty-sj/Competitive-Coding](https://github.com/rusty-sj/Competitive-Coding) - Implentations of some of the problems on Competitive Coding Platforms
