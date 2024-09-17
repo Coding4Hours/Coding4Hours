@@ -288,7 +288,7 @@ XML     0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#73](https://github.com/Coding4Hours/Coding4Hours/issues/73) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
+1. ❗ Opened issue [#8](https://github.com/ThatFruedDued/kahoot-smasher/issues/8) in [ThatFruedDued/kahoot-smasher](https://github.com/ThatFruedDued/kahoot-smasher)
 2. 🗣 Commented on [#73](https://github.com/Coding4Hours/Coding4Hours/issues/73#issuecomment-2348329126) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 3. 🔒 Closed issue [#72](https://github.com/Coding4Hours/Coding4Hours/issues/72) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 4. 🗣 Commented on [#72](https://github.com/Coding4Hours/Coding4Hours/issues/72#issuecomment-2348327537) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
