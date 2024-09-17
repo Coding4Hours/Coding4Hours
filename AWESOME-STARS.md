@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [cloudirector/cantean](https://github.com/cloudirector/cantean) - An old project for evading censorship
 - [TommyBoi-TB/Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 - [catppuccin/daisyui](https://github.com/catppuccin/daisyui) - 🌼 Soothing pastel theme for daisyUI
 - [tw31122007/HTML-Games-Cloudflare-Pages-2](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages-2) - 
