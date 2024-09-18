@@ -593,7 +593,7 @@
 - [stenunblocked/stenunblocked.github.io](https://github.com/stenunblocked/stenunblocked.github.io) - Sten Unblocked is a website featuring many unblocked games, almost all stored at github pages.  Sten Unblocked Games/Stens Unblocked aims at providing unblocked games for school who blocked freedoms o
 - [xnti/discord-nitro-generator](https://github.com/xnti/discord-nitro-generator) - discord bot that tries discord nitro gift codes if exists.
 - [Mac-Web/macvg](https://github.com/Mac-Web/macvg) - MacVG, the best unblocked game site out there! (give us a star to support your favorite game site ⭐!)
-- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy to unblock all of your favorites.
+- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
 - [FogNetwork/ABC](https://github.com/FogNetwork/ABC) - A javascript library for creating websites with hidden urls.
 - [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - *Please star if you fork* A simple open-source unblocked gaming site
 - [FogNetwork/Riptide](https://github.com/FogNetwork/Riptide) - A unique site for combating web filters and regaining internet freedom
