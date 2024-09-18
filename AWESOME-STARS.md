@@ -394,6 +394,8 @@
 
 ## JavaScript 
 
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [seezaara/js2ray](https://github.com/seezaara/js2ray) - The v2ray vmess protocol, based on nodejs javascript which you can use on hosts and servers
 - [tw31122007/HTML-Games-Cloudflare-Pages](https://github.com/tw31122007/HTML-Games-Cloudflare-Pages) - 
 - [rose-pine/vscode](https://github.com/rose-pine/vscode) - Soho vibes for Visual Studio Code
@@ -1241,6 +1243,9 @@
 
 ## TypeScript 
 
+- [zxcvbn-ts/zxcvbn](https://github.com/zxcvbn-ts/zxcvbn) - Low-Budget Password Strength Estimation
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [catppuccin/palette](https://github.com/catppuccin/palette) - 🎨 Soothing pastel theme to use within your projects!
 - [tomphttp/bare-server-worker](https://github.com/tomphttp/bare-server-worker) - TompHTTP Bare server in the Cloudflare Worker runtime
 - [cohenerickson/Nucleon](https://github.com/cohenerickson/Nucleon) - tee hee
