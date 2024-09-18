@@ -251,7 +251,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
+<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
