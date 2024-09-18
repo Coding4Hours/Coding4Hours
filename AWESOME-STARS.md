@@ -306,16 +306,16 @@
 - [FireStreaker2/AddAPI](https://github.com/FireStreaker2/AddAPI) - A simple API made with express.js
 - [Shrey719/Asphalt](https://github.com/Shrey719/Asphalt) - Asphalt is a UV based proxy, with exploits, about:blank cloaking, and several games
 - [Coding4Hours/blobrowser](https://github.com/Coding4Hours/blobrowser) - An HTML Browser (THIS IS A UNBLOCKER)
-- [Blobby-Boi/ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
-- [Blobby-Boi/BlobeBM](https://github.com/Blobby-Boi/BlobeBM) - Runs bookmarklets in about:blank
-- [Blobby-Boi/Blobwifi](https://github.com/Blobby-Boi/Blobwifi) - Blobwifi is an exploit that allows Chromebook users to bypass Wi-Fi restrictions
-- [Blobby-Boi/BlobbypassXSS](https://github.com/Blobby-Boi/BlobbypassXSS) - XSS that opens Blobbypass. It can be useful for webview bypasses.
-- [Blobby-Boi/data-URL-Generator](https://github.com/Blobby-Boi/data-URL-Generator) - It generates data: links, which are not blocked.
-- [Blobby-Boi/blobrowser](https://github.com/Blobby-Boi/blobrowser) - An HTML Browser (THIS IS NOT AN UNBLOCKER)
-- [Blobby-Boi/BlobeGames](https://github.com/Blobby-Boi/BlobeGames) - 
-- [Blobby-Boi/RammerheadPR0XY](https://github.com/Blobby-Boi/RammerheadPR0XY) - Dont run this. This is meant as a prank for those dumb kids who use proxies
-- [Blobby-Boi/BlobeBlocker](https://github.com/Blobby-Boi/BlobeBlocker) - Like URLRedirector but it unblocks stuff
-- [Blobby-Boi/WorldsHardestGame2](https://github.com/Blobby-Boi/WorldsHardestGame2) - An alternative link to play World's Hardest Game 2
+- [BIobby-Boi/ExtHang3r](https://github.com/BIobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
+- [BIobby-Boi/BlobeBM](https://github.com/BIobby-Boi/BlobeBM) - Runs bookmarklets in about:blank
+- [BIobby-Boi/Blobwifi](https://github.com/BIobby-Boi/Blobwifi) - Blobwifi is an exploit that allows Chromebook users to bypass Wi-Fi restrictions
+- [BIobby-Boi/BlobbypassXSS](https://github.com/BIobby-Boi/BlobbypassXSS) - XSS that opens Blobbypass. It can be useful for webview bypasses.
+- [BIobby-Boi/data-URL-Generator](https://github.com/BIobby-Boi/data-URL-Generator) - It generates data: links, which are not blocked.
+- [BIobby-Boi/blobrowser](https://github.com/BIobby-Boi/blobrowser) - An HTML Browser (THIS IS NOT AN UNBLOCKER)
+- [BIobby-Boi/BlobeGames](https://github.com/BIobby-Boi/BlobeGames) - 
+- [BIobby-Boi/RammerheadPR0XY](https://github.com/BIobby-Boi/RammerheadPR0XY) - Dont run this. This is meant as a prank for those dumb kids who use proxies
+- [BIobby-Boi/BlobeBlocker](https://github.com/BIobby-Boi/BlobeBlocker) - Like URLRedirector but it unblocks stuff
+- [BIobby-Boi/WorldsHardestGame2](https://github.com/BIobby-Boi/WorldsHardestGame2) - An alternative link to play World's Hardest Game 2
 - [colbster937/DuckOS](https://github.com/colbster937/DuckOS) - A pure JavaScript web-based operating system. 100% static but seemingly dynamic 💖
 - [xlluminate/Illuminate](https://github.com/xlluminate/Illuminate) - An unblocked games website with multiple features, including proxies, apps, and more!
 - [dragon731012/Innate](https://github.com/dragon731012/Innate) - Stop scrolling, start chatting with Innate, the ultimate chatting website for any purpose. Dive into lively conversations, create groups for your school or friend circle, and be whoever you want to be
@@ -614,7 +614,7 @@
 - [FireStreaker2/LinkProtector](https://github.com/FireStreaker2/LinkProtector) - Simple databaseless website to secure content.
 - [SnowLord7/Gimkit-Hack](https://github.com/SnowLord7/Gimkit-Hack) - Little Hack for Gimkit
 - [holyunblocker900/hwhelp](https://github.com/holyunblocker900/hwhelp) - 
-- [Blobby-Boi/snow-rider-3d](https://github.com/Blobby-Boi/snow-rider-3d) - An alternative link to play Snow Rider 3D
+- [BIobby-Boi/snow-rider-3d](https://github.com/BIobby-Boi/snow-rider-3d) - An alternative link to play Snow Rider 3D
 - [renzz00/ultimate-bookmarklet-hacks](https://github.com/renzz00/ultimate-bookmarklet-hacks) - Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
 - [NebulaServices/Zeno](https://github.com/NebulaServices/Zeno) - A proxy front-end submission for TN's proxathon.
 - [wearrrrr/Dynamic_Image_Resizer](https://github.com/wearrrrr/Dynamic_Image_Resizer) - Dynamic Image Resizer is a small ExpressJS server to resize images, with dynamic width and height support coming soon! ™
@@ -1220,7 +1220,7 @@
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
-- [Blobby-Boi/BlobeVM](https://github.com/Blobby-Boi/BlobeVM) - BlobeVM is a virtual machine that can bypass school restrictions.
+- [BIobby-Boi/BlobeVM](https://github.com/BIobby-Boi/BlobeVM) - BlobeVM is a virtual machine that can bypass school restrictions.
 - [Mollomm1/docker-webtop-plus](https://github.com/Mollomm1/docker-webtop-plus) - webtop but better.
 - [dragon731012/Chromebook-VM](https://github.com/dragon731012/Chromebook-VM) - A working example of Ubuntu running on a school chromebook
 - [JohnHammond/hackersyntax](https://github.com/JohnHammond/hackersyntax) - 
