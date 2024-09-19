@@ -702,6 +702,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [MariyaSha/ml_gui_app](https://github.com/MariyaSha/ml_gui_app) - simple machine learning image classifier GUI app for beginners
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [Devetec/LinuxComputer](https://github.com/Devetec/LinuxComputer) - A computer that runs right from the browser.
@@ -953,6 +954,8 @@
 
 ## Python 
 
+- [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [BinBashBanana/html-obfuscator](https://github.com/BinBashBanana/html-obfuscator) - Easily obfuscate your html!
 - [BinBashBanana/PyDodge](https://github.com/BinBashBanana/PyDodge) - Python HTTP Proxy w/ Rewrites (PyDodge "B") https://github.com/webrecorder/pywb
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
