@@ -474,6 +474,7 @@
 - [Aluben-service/Aluben-Node](https://github.com/Aluben-service/Aluben-Node) - static testing link: https://aluben-node.pages.dev (this is for devs!!!)
 - [BomberFish/DodoPlus](https://github.com/BomberFish/DodoPlus) - A modification of the popular web platformer IceDodo.
 - [MercuryWorkshop/CurlTransport](https://github.com/MercuryWorkshop/CurlTransport) - a bare transport that implements end-to-end encryption with libcurl.js and wisp
+- [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - 
 - [lich2king/InterstellarTS](https://github.com/lich2king/InterstellarTS) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [3kh0/readme-toc](https://github.com/3kh0/readme-toc) - 📜 Generate a Table of Contents from GitHub Markdown or Wiki online.
 - [pickle69420/pickelhubreact](https://github.com/pickle69420/pickelhubreact) - The react and (hopefully) final version of picklehub.
@@ -1280,7 +1281,6 @@
 - [cafe-labs/mocha](https://github.com/cafe-labs/mocha) - The simplicity and power you expect from a web proxy
 - [BomberFish/wisp-workers](https://github.com/BomberFish/wisp-workers) - WIP Wisp implementation for the Cloudflare Workers runtime
 - [MercuryWorkshop/local-music-anura](https://github.com/MercuryWorkshop/local-music-anura) - Lightweight on device music player PWA.
-- [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - 
 - [MercuryWorkshop/bare-mux](https://github.com/MercuryWorkshop/bare-mux) - A system for managing http transports in a project such as Ultraviolet.
 - [MercuryWorkshop/proxy](https://github.com/MercuryWorkshop/proxy) - generic proxy testing
 - [l3wi/gearbox-ninja](https://github.com/l3wi/gearbox-ninja) - A fun UI for the Gearbox Protocol's V2 Launch
