@@ -279,7 +279,7 @@
 - [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - 
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
-- [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Reuploaded, upgraded version of unpatched Blooket Cheats. (Credits in README.md)
+- [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
 - [discowd-nitro/discowd-nitro.github.io](https://github.com/discowd-nitro/discowd-nitro.github.io) - 
 - [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [Vivaan-d/PreciseTools](https://github.com/Vivaan-d/PreciseTools) - Bee Swarm Simulator calculator
