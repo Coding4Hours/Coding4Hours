@@ -396,6 +396,8 @@
 
 ## JavaScript 
 
+- [Aluben-service/Blaze](https://github.com/Aluben-service/Blaze) - A website downloader written with node.js.
+- [Aluben-service/ripper](https://github.com/Aluben-service/ripper) - Rip websites made by EmberNetwork(not by Aluben)
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [seezaara/js2ray](https://github.com/seezaara/js2ray) - The v2ray vmess protocol, based on nodejs javascript which you can use on hosts and servers
