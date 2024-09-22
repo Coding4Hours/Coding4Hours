@@ -350,7 +350,7 @@
 - [dragon731012/prxy-test](https://github.com/dragon731012/prxy-test) - 
 - [dragon731012/eaglercraft-download](https://github.com/dragon731012/eaglercraft-download) - 
 - [dragon731012/material-unblocker](https://github.com/dragon731012/material-unblocker) - An improved version of nodeunblocker
-- [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities) - This repo has a collection of hubs I found with gxmes, prxes, apps, bookmarklets, exploits and more!
+- [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities) - This repo has a collection of cheats, exploits, gxmes, hubs, movies, prxes and more!
 - [MineBoy99/Blooket-Cheats](https://github.com/MineBoy99/Blooket-Cheats) - The best hacks ever. These are from Minescraft2 orignally but I've made a better version so credit to him
 - [kristheamazing2/Kristheamazing2-main-all-hacks](https://github.com/kristheamazing2/Kristheamazing2-main-all-hacks) - This will be with every single one of my hacks, dinosaur game hacks, cookie clicker hacks, prodigy hacks, dangerous hacks, boxel rebound hacks, tutorial of doodle jump and snake game hacks.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
