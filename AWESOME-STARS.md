@@ -658,7 +658,7 @@
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [Parcoil/parcoilnext](https://github.com/Parcoil/parcoilnext) - wip
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
-- [VyperGroup/aero-demo-site](https://github.com/VyperGroup/aero-demo-site) - A proxy site that demonstrates our services
+- [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
 - [VyperGroup/sdk](https://github.com/VyperGroup/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
 - [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
