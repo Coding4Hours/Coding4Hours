@@ -659,7 +659,7 @@
 - [Parcoil/parcoilnext](https://github.com/Parcoil/parcoilnext) - wip
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
 - [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
-- [VyperGroup/sdk](https://github.com/VyperGroup/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
+- [vortexdeveloperlabs/sdk](https://github.com/vortexdeveloperlabs/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
 - [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [dragon731012/FreedomForge](https://github.com/dragon731012/FreedomForge) - THE ONLY AND FIRST NO CODE CUSTOM UNBLOCKER CREATOR!!!!!
