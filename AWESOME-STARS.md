@@ -201,6 +201,7 @@
 
 ## HTML 
 
+- [Blooket-Council/Blooket-Cheats](https://github.com/Blooket-Council/Blooket-Cheats) - Managed by the original creators of the Blooket Cheats
 - [3kh0/eaglercraft-builds](https://github.com/3kh0/eaglercraft-builds) - All eaglercraft-related artifacts, cloned from https://git.eaglercraft.rip/eaglercraft/eaglercraft-builds
 - [cloudirector/cantean](https://github.com/cloudirector/cantean) - An old project for evading censorship
 - [TommyBoi-TB/Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
@@ -1198,6 +1199,10 @@
 
 ## Shell 
 
+- [AngryMorrocoy/tmux-neolazygit](https://github.com/AngryMorrocoy/tmux-neolazygit) - Better workflow with nvim + tmux + lazygit
+- [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
