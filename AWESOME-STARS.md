@@ -201,6 +201,7 @@
 
 ## HTML 
 
+- [3kh0/eaglercraft-builds](https://github.com/3kh0/eaglercraft-builds) - All eaglercraft-related artifacts, cloned from https://git.eaglercraft.rip/eaglercraft/eaglercraft-builds
 - [cloudirector/cantean](https://github.com/cloudirector/cantean) - An old project for evading censorship
 - [TommyBoi-TB/Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 - [catppuccin/daisyui](https://github.com/catppuccin/daisyui) - 🌼 Soothing pastel theme for daisyUI
