@@ -145,7 +145,6 @@
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
 - [Deblok-Workshop/DeblokAI](https://github.com/Deblok-Workshop/DeblokAI) - deblok ai
 - [A-Random-Person-on-Github/A-Random-Person-on-Github.github.io](https://github.com/A-Random-Person-on-Github/A-Random-Person-on-Github.github.io) - kali linux on web if websit dont work download zip file then unzip then open index.html
-- [molkify/molkify.github.io](https://github.com/molkify/molkify.github.io) - akjc
 
 ## Clojure 
 
