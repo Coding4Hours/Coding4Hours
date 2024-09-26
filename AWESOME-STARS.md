@@ -403,6 +403,7 @@
 
 ## JavaScript 
 
+- [coderaiser/minify](https://github.com/coderaiser/minify) - Minifier of js, css, html and img
 - [Aluben-service/Blaze](https://github.com/Aluben-service/Blaze) - A website downloader written with node.js.
 - [Aluben-service/ripper](https://github.com/Aluben-service/ripper) - Rip websites made by EmberNetwork(not by Aluben)
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
