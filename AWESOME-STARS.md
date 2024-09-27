@@ -668,7 +668,7 @@
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
 - [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
 - [vortexdeveloperlabs/sdk](https://github.com/vortexdeveloperlabs/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
-- [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
+- [vortexdeveloperlabs/aero](https://github.com/vortexdeveloperlabs/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [dragon731012/FreedomForge](https://github.com/dragon731012/FreedomForge) - THE ONLY AND FIRST NO CODE CUSTOM UNBLOCKER CREATOR!!!!!
 - [xnightless/Shadownetwork](https://github.com/xnightless/Shadownetwork) - Experience the global internet using Shadow, the fastest Proxy in the world The best looking proxy there is with Apps and tab cloaking and over 100+ games for students
@@ -836,7 +836,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [raklaptudirm/raklaptudirm](https://github.com/raklaptudirm/raklaptudirm) - please stop starring this repo ;-;
-- [VyperGroup/Moonrock](https://github.com/VyperGroup/Moonrock) - This is a search engine / aggregator for game sites
+- [MovByte/Moonrock](https://github.com/MovByte/Moonrock) - This is a search engine / aggregator for game sites
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [minesraft4/stuff-for-proxy-on-replit](https://github.com/minesraft4/stuff-for-proxy-on-replit) - replit proxy icon
 - [muskanrani/muskanrani](https://github.com/muskanrani/muskanrani) - :octocat: Hello there! This repository is for the welcome message on my Github Profile.
