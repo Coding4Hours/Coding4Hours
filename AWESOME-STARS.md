@@ -668,7 +668,7 @@
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
 - [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
 - [vortexdeveloperlabs/sdk](https://github.com/vortexdeveloperlabs/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
-- [vortexdeveloperlabs/aero](https://github.com/vortexdeveloperlabs/aero) - The innovative interception proxy
+- [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [dragon731012/FreedomForge](https://github.com/dragon731012/FreedomForge) - THE ONLY AND FIRST NO CODE CUSTOM UNBLOCKER CREATOR!!!!!
 - [xnightless/Shadownetwork](https://github.com/xnightless/Shadownetwork) - Experience the global internet using Shadow, the fastest Proxy in the world The best looking proxy there is with Apps and tab cloaking and over 100+ games for students
