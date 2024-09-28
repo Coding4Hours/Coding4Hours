@@ -157,7 +157,7 @@
 ## EJS 
 
 - [BrianWalczak/WiFiStream](https://github.com/BrianWalczak/WiFiStream) - A local web server (powered by Express) to manage files over your secure network (WiFi).
-- [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - *Please star if you fork* A simple open-source unblocked gaming site
+- [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked gaming site
 - [shuttlenetwork/shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 
 ## Elixir 
@@ -402,6 +402,7 @@
 
 ## JavaScript 
 
+- [aadsm/jsmediatags](https://github.com/aadsm/jsmediatags) - Media Tags Reader (ID3, MP4, FLAC)
 - [coderaiser/minify](https://github.com/coderaiser/minify) - Minifier of js, css, html and img
 - [Aluben-service/Blaze](https://github.com/Aluben-service/Blaze) - A website downloader written with node.js.
 - [Aluben-service/ripper](https://github.com/Aluben-service/ripper) - Rip websites made by EmberNetwork(not by Aluben)
