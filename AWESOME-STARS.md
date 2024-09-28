@@ -66,6 +66,7 @@
 
 ## Astro 
 
+- [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [holy-unblocker/website2](https://github.com/holy-unblocker/website2) - 
 - [brokenricefilms/brokenricefilms](https://github.com/brokenricefilms/brokenricefilms) - Personal website and video editing portfolio
 - [Aluben-service/Aluben-service.github.io](https://github.com/Aluben-service/Aluben-service.github.io) - 
@@ -1264,6 +1265,7 @@
 
 ## TypeScript 
 
+- [onwidget/astrolib](https://github.com/onwidget/astrolib) - 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
