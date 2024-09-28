@@ -402,6 +402,7 @@
 
 ## JavaScript 
 
+- [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [aadsm/jsmediatags](https://github.com/aadsm/jsmediatags) - Media Tags Reader (ID3, MP4, FLAC)
 - [coderaiser/minify](https://github.com/coderaiser/minify) - Minifier of js, css, html and img
 - [Aluben-service/Blaze](https://github.com/Aluben-service/Blaze) - A website downloader written with node.js.
