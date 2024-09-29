@@ -580,7 +580,6 @@
 - [Glitchyeet/IdleBreakout](https://github.com/Glitchyeet/IdleBreakout) - 
 - [SirCelloz/learn-discord.js](https://github.com/SirCelloz/learn-discord.js) - a simple discord bot that counts how much materials you need to craft something in bee swarm simulator
 - [Dddatt/bss](https://github.com/Dddatt/bss) - My remake of Bee Swarm Simulator, as an HTML5 game.
-- [As90909w/Coding-for-web-development](https://github.com/As90909w/Coding-for-web-development) - Hello! I am a 14 year old Linux and beta coder! This is the awesome Linux code source for Window 11, Mac OS, Mac X, And Chrome OS. You can manage student's devices when you run this repository! Please
 - [wanetty/TypoProtect-Extension](https://github.com/wanetty/TypoProtect-Extension) - Typosquatting Protection is a Chrome extension that enhances browsing safety. It alerts users when they visit a site that potentially poses a typosquatting threat. By comparing the URL's domain and su
 - [admirhodzic/multiselect-dropdown](https://github.com/admirhodzic/multiselect-dropdown) - Multiselect dropdown in pure JavaScript with no dependencies
 - [wh-iterabb-it/meowfacts](https://github.com/wh-iterabb-it/meowfacts) - 🐈 a simple api which returns a catfact
