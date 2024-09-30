@@ -769,6 +769,7 @@
 
 ## Others 
 
+- [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [Moonboy05/BlooketHacks](https://github.com/Moonboy05/BlooketHacks) - Hacks for people who want them!
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
 - [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
