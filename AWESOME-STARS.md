@@ -208,6 +208,7 @@
 
 ## HTML 
 
+- [SnesLover22/Offline-Downloads](https://github.com/SnesLover22/Offline-Downloads) - 
 - [Blooket-Council/Blooket-Cheats](https://github.com/Blooket-Council/Blooket-Cheats) - Managed by the original creators of the Blooket Cheats
 - [3kh0/eaglercraft-builds](https://github.com/3kh0/eaglercraft-builds) - All eaglercraft-related artifacts, cloned from https://git.eaglercraft.rip/eaglercraft/eaglercraft-builds
 - [cloudirector/cantean](https://github.com/cloudirector/cantean) - An old project for evading censorship
