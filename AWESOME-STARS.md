@@ -769,6 +769,7 @@
 
 ## Others 
 
+- [Zhenye-Na/zhenye-na](https://github.com/Zhenye-Na/zhenye-na) - 🧝‍♂️
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [Moonboy05/BlooketHacks](https://github.com/Moonboy05/BlooketHacks) - Hacks for people who want them!
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
