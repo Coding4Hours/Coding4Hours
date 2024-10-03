@@ -972,6 +972,8 @@
 
 ## Python 
 
+- [3kh0/bing-rewards](https://github.com/3kh0/bing-rewards) - An automated solution using Python and Selenium for earning daily Microsoft Rewards points in all categories including web, mobile, and offers.
+- [jack-mil/bing-rewards](https://github.com/jack-mil/bing-rewards) - A script to automate daily Bing rewards points
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
