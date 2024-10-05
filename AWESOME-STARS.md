@@ -70,7 +70,6 @@
 - [holy-unblocker/website2](https://github.com/holy-unblocker/website2) - 
 - [brokenricefilms/brokenricefilms](https://github.com/brokenricefilms/brokenricefilms) - Personal website and video editing portfolio
 - [Aluben-service/Aluben-service.github.io](https://github.com/Aluben-service/Aluben-service.github.io) - 
-- [NebulaServices/Prismora](https://github.com/NebulaServices/Prismora) - A successor to Masqr and Corlink, aiming to prevent unauthorized proxy service use using fingerprinting.
 
 ## AutoHotkey 
 
