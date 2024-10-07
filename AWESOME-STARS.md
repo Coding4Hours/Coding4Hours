@@ -672,7 +672,6 @@
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
 - [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
 - [vortexdeveloperlabs/sdk](https://github.com/vortexdeveloperlabs/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
-- [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [dragon731012/FreedomForge](https://github.com/dragon731012/FreedomForge) - THE ONLY AND FIRST NO CODE CUSTOM UNBLOCKER CREATOR!!!!!
 - [xnightless/Shadownetwork](https://github.com/xnightless/Shadownetwork) - Experience the global internet using Shadow, the fastest Proxy in the world The best looking proxy there is with Apps and tab cloaking and over 100+ games for students
@@ -1379,6 +1378,7 @@
 - [cohenerickson/Optic](https://github.com/cohenerickson/Optic) - An experimental web proxy for testing new technologies in evading local and region based internet restrictions.
 - [z1g-project/Ephemeral](https://github.com/z1g-project/Ephemeral) - The next generation proxy site for the z1g project!
 - [z1g-project/backend](https://github.com/z1g-project/backend) - 
+- [VyperGroup/aero](https://github.com/VyperGroup/aero) - The innovative interception proxy
 - [vortexdeveloperlabs/Filter-Lock](https://github.com/vortexdeveloperlabs/Filter-Lock) - Filter Lock makes your links nearly unblockable and prevents automatic blocking and scanning
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [delusionzz/Emerald-old](https://github.com/delusionzz/Emerald-old) - The new revamped Emerald Proxy
