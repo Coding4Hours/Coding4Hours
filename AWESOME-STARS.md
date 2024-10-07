@@ -1257,7 +1257,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [amethystnetwork-dev/Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Amethyst rewrite
 
 ## Swift 
