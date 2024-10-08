@@ -668,7 +668,6 @@
 - [CybriaTech/CybriaGG](https://github.com/CybriaTech/CybriaGG) - 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
-- [Parcoil/parcoilnext](https://github.com/Parcoil/parcoilnext) - wip
 - [2emk7/encrypt-password-module](https://github.com/2emk7/encrypt-password-module) - module to incorporate into your code
 - [vortexdeveloperlabs/aero-demo-site](https://github.com/vortexdeveloperlabs/aero-demo-site) - A proxy site that demonstrates our services
 - [vortexdeveloperlabs/sdk](https://github.com/vortexdeveloperlabs/sdk) - A collection of easy-to-use libraries that lets you build a proxy site without reinventing the wheel, saving time on what matters rather than coding
