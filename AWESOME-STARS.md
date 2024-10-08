@@ -906,6 +906,7 @@
 - [mandatoryprogrammer/NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [ERIZOAT/Amazon-Scraping-Captcha](https://github.com/ERIZOAT/Amazon-Scraping-Captcha) - 
+- [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [0xrisec/Hacking-APIs](https://github.com/0xrisec/Hacking-APIs) - This repository contains comprehensive documentation on the intricacies of hacking APIs. It covers various methods and tools for testing APIs, detailed guides on common vulnerabilities.
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [Wyatt721/BlooketGlobalHacks](https://github.com/Wyatt721/BlooketGlobalHacks) - School hacks blooket hacks from glixzzy if the school cheats website is blocked
@@ -1128,7 +1129,6 @@
 - [mzaglia/flask-redoc](https://github.com/mzaglia/flask-redoc) - A Flask extension for displaying OpenAPI/Swagger documentation using Redocs
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to build Awesome Scrapers.
-- [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [kashaziz/rotating-proxy-python](https://github.com/kashaziz/rotating-proxy-python) - Python script for rotation through Proxy Servers
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
