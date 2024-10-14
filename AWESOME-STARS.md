@@ -1106,7 +1106,7 @@
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [JohnHammond/qr2unicode](https://github.com/JohnHammond/qr2unicode) - Crappy Python code to render a QR code as "plaintext" with Unicode
-- [samiam1086/notepad11thief](https://github.com/samiam1086/notepad11thief) - Tool to exfiltrate and parse notepad tabstate files
+- [spextat0r/notepad11thief](https://github.com/spextat0r/notepad11thief) - Tool to exfiltrate and parse notepad tabstate files
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) - 
 - [kal1gh0st/Cipherishing](https://github.com/kal1gh0st/Cipherishing) - Advanced phishing tool used for session & credential grabbing and bypassing 2FA using man-in-the-middle attack with standalone reverse proxy server.
 - [cipheras/cipherginx](https://github.com/cipheras/cipherginx) - Advanced phishing tool:boom: used for session & credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.
