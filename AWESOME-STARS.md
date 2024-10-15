@@ -519,7 +519,7 @@
 - [d-koppenhagen/d-koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen) - My Github Profile
 - [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto) - https://www.dailyrandomphoto.com/
 - [nh-99/KhanAcademy-Lesson-Hack](https://github.com/nh-99/KhanAcademy-Lesson-Hack) - Hacks through Khan Academy lessons
-- [ihql/KhanAcademyBot](https://github.com/ihql/KhanAcademyBot) - A (newly-revised) answer revealer for Khan Academy.
+- [devTipy/KhanAcademyBot](https://github.com/devTipy/KhanAcademyBot) - A (newly-revised) answer revealer for Khan Academy.
 - [adubov1/khanacademy_bot](https://github.com/adubov1/khanacademy_bot) - An answer revealer userscript for Khan Academy
 - [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
