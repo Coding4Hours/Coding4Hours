@@ -45,10 +45,10 @@ def run_test_case(filename, main_fn):
     failed = 0
 
     with open(filename, 'r') as test_file:
-        test_data = yaml.load(test_file, Loader=yaml.FullLoader)
+        test_data = yaml.load(test_file, Loader=yaml.SafeLoader)
 
     with open('data/settings.yaml', 'r') as settings_file:
-        settings = yaml.load(settings_file, Loader=yaml.FullLoader)
+        settings = yaml.load(settings_file, Loader=yaml.SafeLoader)
 
     print('\u001b[0m\u001b[1m\u001b[37m  ' + test_data['name'])
 

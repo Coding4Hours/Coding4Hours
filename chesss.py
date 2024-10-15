@@ -78,7 +78,7 @@ def main(issue, issue_author, repo_owner):
     gameboard = chess.Board()
 
     with open('data/settings.yaml', 'r') as settings_file:
-        settings = yaml.load(settings_file, Loader=yaml.FullLoader)
+        settings = yaml.load(settings_file, Loader=yaml.SafeLoader)
 
     if action[0] == Action.NEW_GAME:
         if os.path.exists('games/current.pgn') and issue_author != repo_owner:
