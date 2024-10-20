@@ -284,7 +284,7 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jatin2003/notion](https://github.com/jatin2003/notion) - 
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - 
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
 - [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
