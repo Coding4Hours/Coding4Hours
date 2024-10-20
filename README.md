@@ -252,7 +252,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
+<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
