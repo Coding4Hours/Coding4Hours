@@ -404,6 +404,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [sparticle999/SpaceCompany](https://github.com/sparticle999/SpaceCompany) - An incremental game about Space Mining
 - [b4kt/fpp](https://github.com/b4kt/fpp) - An intermediary between your browser and sites, hiding real traffic behind domains
 - [omidnikrah/github-readme-medium](https://github.com/omidnikrah/github-readme-medium) - 📖    Dynamically generated your latest Medium article on your GitHub readmes!
