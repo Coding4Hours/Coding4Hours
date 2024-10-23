@@ -404,6 +404,7 @@
 
 ## JavaScript 
 
+- [Shrey719/Krypton](https://github.com/Shrey719/Krypton) - 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [sparticle999/SpaceCompany](https://github.com/sparticle999/SpaceCompany) - An incremental game about Space Mining
 - [b4kt/fpp](https://github.com/b4kt/fpp) - An intermediary between your browser and sites, hiding real traffic behind domains
@@ -1273,6 +1274,7 @@
 
 ## TypeScript 
 
+- [titaniumnetwork-dev/Proxy-Dispenser](https://github.com/titaniumnetwork-dev/Proxy-Dispenser) - The most advanced proxy dispenser bot for Discord. Used in Titanium Network.
 - [spicetify/marketplace](https://github.com/spicetify/marketplace) - Download extensions and themes directly from Spicetify
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
