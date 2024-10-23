@@ -817,7 +817,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [tamimology/docker-cloudflare-setup](https://github.com/tamimology/docker-cloudflare-setup) - Step-by-step guide on how to install and configure a self-host Cloudflare Tunnel using docker
 - [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) - https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [Ludricous/ChatGPT-Developer](https://github.com/Ludricous/ChatGPT-Developer) - OpenAI Patched Developer Mode, so heres a bypass to that!
 - [hassamohammed/DiscordRAT_Build](https://github.com/hassamohammed/DiscordRAT_Build) - 
