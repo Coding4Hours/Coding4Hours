@@ -974,6 +974,7 @@
 
 ## Python 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [3kh0/bing-rewards](https://github.com/3kh0/bing-rewards) - An automated solution using Python and Selenium for earning daily Microsoft Rewards points in all categories including web, mobile, and offers.
 - [jack-mil/bing-rewards](https://github.com/jack-mil/bing-rewards) - A script to automate daily Bing rewards points
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
