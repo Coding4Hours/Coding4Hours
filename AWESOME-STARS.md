@@ -802,7 +802,6 @@
 - [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
 - [mhucka/readmine](https://github.com/mhucka/readmine) - Example README file demonstrating a suggested README file structure for software projects
 - [jehna/readme-best-practices](https://github.com/jehna/readme-best-practices) - Best practices for writing a README for your open source project
-- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open source projects grow. See the README maturity model to help you keep going.
 - [Percslol/dotfiles](https://github.com/Percslol/dotfiles) - My linux dotfiles and install scripts
 - [Aluben-service/Aluben_icons](https://github.com/Aluben-service/Aluben_icons) - this is for speed on the website
 - [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Assets for Interstellar Unblocker.
