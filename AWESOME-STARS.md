@@ -666,7 +666,7 @@
 - [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) - A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley:
 - [Dynamic-Interception-Proxy/DIP](https://github.com/Dynamic-Interception-Proxy/DIP) - 
 - [Ruby-Network/ruby](https://github.com/Ruby-Network/ruby) - Customizable, Free, And fast
-- [silentsparrows/unblocked-games](https://github.com/silentsparrows/unblocked-games) - This repository is part of the DerpmanDev homepage. (https://derpmandev.uk.ms)
+- [silentsparrows/games](https://github.com/silentsparrows/games) - games!
 - [artem0/canvas-fingerprinting](https://github.com/artem0/canvas-fingerprinting) - POC of Canvas fingerprinting
 - [CybriaTech/CybriaGG](https://github.com/CybriaTech/CybriaGG) - 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
