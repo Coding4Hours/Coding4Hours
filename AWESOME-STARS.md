@@ -340,7 +340,7 @@
 - [NRZT555/now.gg-roblox-in-browser](https://github.com/NRZT555/now.gg-roblox-in-browser) - ROBLOX in browser using a copy of now.gg's site.
 - [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses) - School Bypasses that should work for blockers like Securly, iBoss, and GoGuardian. End internet censorship! (without using Holy Unblocker)
 - [Nebelung-Dev/Metallic-theme-maker](https://github.com/Nebelung-Dev/Metallic-theme-maker) - Have fun with it.
-- [DerpmanDev/chat-client](https://github.com/DerpmanDev/chat-client) - An online node.js chat client
+- [silentsparrows/chat-client](https://github.com/silentsparrows/chat-client) - An online node.js chat client
 - [DogeNetwork/worksheetsforteachers](https://github.com/DogeNetwork/worksheetsforteachers) - Fake educational website for spoofing
 - [Shploop/Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate).      https://05konz.github.io/Blooket-Cheats/
 - [pauljadam/bookmarklets](https://github.com/pauljadam/bookmarklets) - 
@@ -446,7 +446,7 @@
 - [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [DerpmanDev/modal](https://github.com/DerpmanDev/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
+- [silentsparrows/modal](https://github.com/silentsparrows/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
 - [NightProxy/Daylight](https://github.com/NightProxy/Daylight) - The minimalistic browser. | Entry for the Proxathon 2024 |
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [e9x/spadium-lite](https://github.com/e9x/spadium-lite) - Spadium Lite is a lightweight demonstration of the Spadium library, showing how it can be integrated into a single page application to render websites locally without external requests.
@@ -666,7 +666,7 @@
 - [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) - A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley:
 - [Dynamic-Interception-Proxy/DIP](https://github.com/Dynamic-Interception-Proxy/DIP) - 
 - [Ruby-Network/ruby](https://github.com/Ruby-Network/ruby) - Customizable, Free, And fast
-- [DerpmanDev/unblocked-games](https://github.com/DerpmanDev/unblocked-games) - This repository is part of the DerpmanDev homepage. (https://derpmandev.uk.ms)
+- [silentsparrows/unblocked-games](https://github.com/silentsparrows/unblocked-games) - This repository is part of the DerpmanDev homepage. (https://derpmandev.uk.ms)
 - [artem0/canvas-fingerprinting](https://github.com/artem0/canvas-fingerprinting) - POC of Canvas fingerprinting
 - [CybriaTech/CybriaGG](https://github.com/CybriaTech/CybriaGG) - 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
