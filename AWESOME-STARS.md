@@ -284,6 +284,7 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jatin2003/notion](https://github.com/jatin2003/notion) - 
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
 - [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
@@ -575,7 +576,6 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [joshuajohncohen/Monitor](https://github.com/joshuajohncohen/Monitor) - Spectate GoGuardian classes, chat with teachers, and more
 - [jonbarrow/simple-cf-worker-cors-proxy](https://github.com/jonbarrow/simple-cf-worker-cors-proxy) - Simple CORS proxy for a cloudflare worker
