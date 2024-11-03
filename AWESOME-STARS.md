@@ -284,7 +284,6 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jatin2003/notion](https://github.com/jatin2003/notion) - 
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
 - [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
@@ -576,6 +575,7 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [joshuajohncohen/Monitor](https://github.com/joshuajohncohen/Monitor) - Spectate GoGuardian classes, chat with teachers, and more
 - [jonbarrow/simple-cf-worker-cors-proxy](https://github.com/jonbarrow/simple-cf-worker-cors-proxy) - Simple CORS proxy for a cloudflare worker
@@ -814,10 +814,9 @@
 - [asc2563/discord-image](https://github.com/asc2563/discord-image) - reee
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [tamimology/docker-cloudflare-setup](https://github.com/tamimology/docker-cloudflare-setup) - Step-by-step guide on how to install and configure a self-host Cloudflare Tunnel using docker
-- [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) - https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update
+- [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) - https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update / I skidded this lmao
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [Ludricous/ChatGPT-Developer](https://github.com/Ludricous/ChatGPT-Developer) - OpenAI Patched Developer Mode, so heres a bypass to that!
 - [hassamohammed/DiscordRAT_Build](https://github.com/hassamohammed/DiscordRAT_Build) - 
 - [249KING/Fully-Interactive-Reverse-Shell](https://github.com/249KING/Fully-Interactive-Reverse-Shell) - Fully Interactive Reverse Shell for both Windows and Linux
 - [tkmru/awesome-linux-rootkits](https://github.com/tkmru/awesome-linux-rootkits) - a summary of linux rootkits published on GitHub
