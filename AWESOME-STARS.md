@@ -804,7 +804,6 @@
 - [jehna/readme-best-practices](https://github.com/jehna/readme-best-practices) - Best practices for writing a README for your open source project
 - [Percslol/dotfiles](https://github.com/Percslol/dotfiles) - My linux dotfiles and install scripts
 - [Aluben-service/Aluben_icons](https://github.com/Aluben-service/Aluben_icons) - this is for speed on the website
-- [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Assets for Interstellar Unblocker.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [Dormidera/WordList-Compendium](https://github.com/Dormidera/WordList-Compendium) - Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, wordlists of tools, etc.
@@ -996,6 +995,7 @@
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [ading2210/python-static](https://github.com/ading2210/python-static) - A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
 - [velzie/github-stats](https://github.com/velzie/github-stats) - 
+- [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Assets for Interstellar Unblocker.
 - [hassamohammed/DiscordKeylogger](https://github.com/hassamohammed/DiscordKeylogger) - 
 - [hassamohammed/cdWorm](https://github.com/hassamohammed/cdWorm) - 
 - [hassamohammed/anti-trouble](https://github.com/hassamohammed/anti-trouble) - 
