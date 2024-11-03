@@ -995,7 +995,7 @@
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [ading2210/python-static](https://github.com/ading2210/python-static) - A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
 - [velzie/github-stats](https://github.com/velzie/github-stats) - 
-- [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Assets for Interstellar Unblocker.
+- [UseInterstellar/Interstellar-Assets](https://github.com/UseInterstellar/Interstellar-Assets) - Interstellar Assets.
 - [hassamohammed/DiscordKeylogger](https://github.com/hassamohammed/DiscordKeylogger) - 
 - [hassamohammed/cdWorm](https://github.com/hassamohammed/cdWorm) - 
 - [hassamohammed/anti-trouble](https://github.com/hassamohammed/anti-trouble) - 
