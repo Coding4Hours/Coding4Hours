@@ -1377,7 +1377,7 @@
 - [FireStreaker2/GuraAI](https://github.com/FireStreaker2/GuraAI) - AI Chatbot using TypeScript and Bun
 - [FireStreaker2/GameLauncher](https://github.com/FireStreaker2/GameLauncher) - Simple game launcher made with Next, Electron, and Chakra
 - [FireStreaker2/SupportBot](https://github.com/FireStreaker2/SupportBot) - Discord bot that handles support in your server
-- [car-axle-client/car-axle-client](https://github.com/car-axle-client/car-axle-client) - A bookmarklet menu/client/hub with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place.
+- [penguinify/car-axle-client](https://github.com/penguinify/car-axle-client) - A bookmarklet menu/client/hub with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place.
 - [cognetwork-dev/Metallic](https://github.com/cognetwork-dev/Metallic) - A powerful web proxy built for speed and customization.
 - [cohenerickson/Ampere](https://github.com/cohenerickson/Ampere) - The future of proxy technology.
 - [cohenerickson/Velocity](https://github.com/cohenerickson/Velocity) - Velocity is a fully featured tabbed proxy with a seamless browsing experience.
