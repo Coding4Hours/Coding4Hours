@@ -1384,7 +1384,7 @@
 - [cohenerickson/Optic](https://github.com/cohenerickson/Optic) - An experimental web proxy for testing new technologies in evading local and region based internet restrictions.
 - [z1g-project/Ephemeral](https://github.com/z1g-project/Ephemeral) - The next generation proxy site for the z1g project!
 - [z1g-project/backend](https://github.com/z1g-project/backend) - 
-- [VyperGroup/aero](https://github.com/VyperGroup/aero) - A safe, developer-friendly, innovative interception web proxy with many features with a powerful web sandboxing library to bypass and overcome browser limitations in a secure sandbox that respects sec
+- [vortexdeveloperlabs/aero](https://github.com/vortexdeveloperlabs/aero) - A safe, developer-friendly, innovative interception web proxy with many features with a powerful web sandboxing library to bypass and overcome browser limitations in a secure sandbox that respects sec
 - [vortexdeveloperlabs/Filter-Lock](https://github.com/vortexdeveloperlabs/Filter-Lock) - Filter Lock makes your links nearly unblockable and prevents automatic blocking and scanning
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [delusionzz/Emerald-old](https://github.com/delusionzz/Emerald-old) - The new revamped Emerald Proxy
