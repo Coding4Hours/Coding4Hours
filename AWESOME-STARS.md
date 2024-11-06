@@ -1273,6 +1273,7 @@
 
 ## TypeScript 
 
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [aluben-docs/Aluben-docs.github.io](https://github.com/aluben-docs/Aluben-docs.github.io) - 
 - [titaniumnetwork-dev/Proxy-Dispenser](https://github.com/titaniumnetwork-dev/Proxy-Dispenser) - The most advanced proxy dispenser bot for Discord. Used in Titanium Network.
