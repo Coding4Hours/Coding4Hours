@@ -142,7 +142,6 @@
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
@@ -286,6 +285,7 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jatin2003/notion](https://github.com/jatin2003/notion) - 
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
 - [swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/swagging-post/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
