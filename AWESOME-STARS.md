@@ -68,6 +68,7 @@
 
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [holy-unblocker/website2](https://github.com/holy-unblocker/website2) - 
+- [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 - [brokenricefilms/brokenricefilms](https://github.com/brokenricefilms/brokenricefilms) - Personal website and video editing portfolio
 - [Aluben-service/Aluben-service.github.io](https://github.com/Aluben-service/Aluben-service.github.io) - 
 
@@ -1303,7 +1304,6 @@
 - [car-axle-client/car-antenna](https://github.com/car-axle-client/car-antenna) - chat backend for car axle client
 - [e9x/spadium-offline](https://github.com/e9x/spadium-offline) - Spadium Offline is a script that operates within an offline webpage to avoid network traffic, similar to Spadium Lite, and allows websites to be rendered locally without external requests.
 - [e9x/spadium](https://github.com/e9x/spadium) - 
-- [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 - [carbonsystems-dev/graphite](https://github.com/carbonsystems-dev/graphite) - Graphite is a JS library made to be a better and simpler localstorage. Being feature rich and easy to use, its perfect for your projects!
 - [carbonsystems-dev/liberium](https://github.com/carbonsystems-dev/liberium) - A lightweight, open source, and free to use library made for the unblocking community.
 - [MeteorProxy/meteor](https://github.com/MeteorProxy/meteor) - The modern interception proxy you've been waiting for
