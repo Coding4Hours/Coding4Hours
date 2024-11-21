@@ -662,7 +662,7 @@
 - [dbpsmath/solarsys](https://github.com/dbpsmath/solarsys) - test
 - [dbpsmath/solarsys-assets](https://github.com/dbpsmath/solarsys-assets) - test
 - [3kh0/ext-remover](https://github.com/3kh0/ext-remover) - A curated list of exploits for ChromeOS
-- [titaniumnetwork-dev/MasqrProject](https://github.com/titaniumnetwork-dev/MasqrProject) - Masqr Project Repo
+- [titaniumnetwork-dev/MasqrProject](https://github.com/titaniumnetwork-dev/MasqrProject) - Masqr is an "anti link leaking" authentication system that allows you to use a domain on specific devices to prevent web filters from detecting a web service.  The project also is a go-to method for s
 - [PenguDevelopment/PrivatePengu](https://github.com/PenguDevelopment/PrivatePengu) - A repository of the 2nd best bot in the universe.
 - [silvereennetwork/corrupted](https://github.com/silvereennetwork/corrupted) - A retro-style game site
 - [dbpsmath/cdn](https://github.com/dbpsmath/cdn) - A CDN for using our games on your websites
