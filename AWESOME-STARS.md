@@ -143,6 +143,7 @@
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
@@ -581,7 +582,6 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [joshuajohncohen/Monitor](https://github.com/joshuajohncohen/Monitor) - Spectate GoGuardian classes, chat with teachers, and more
 - [jonbarrow/simple-cf-worker-cors-proxy](https://github.com/jonbarrow/simple-cf-worker-cors-proxy) - Simple CORS proxy for a cloudflare worker
