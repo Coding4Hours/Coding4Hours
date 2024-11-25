@@ -1282,6 +1282,7 @@
 
 ## TypeScript 
 
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 - [BomberFish/chatgpt-raycast-plus](https://github.com/BomberFish/chatgpt-raycast-plus) - ChatGPT Raycast plugin, but with some useful modifications
