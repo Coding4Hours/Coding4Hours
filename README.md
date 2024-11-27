@@ -9,7 +9,7 @@
 Skills
 </h2>	
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,alpinejs,astro,bash,bootstrap,bun,cmake,cloudflare,css,debian,discord,bots,discordjs,docker,eclipse,fastapi,firebase,flask,git,github,githubactions,gmail,html,idea,java,js,jquery,kali,linux,lua,md,materialui,maven,mysql,neovim,netlify,nodejs,notion,npm,php,pnpm,postgres,postman,powershell,py,react,regex,replit,sqlite,stackoverflow,sublime,supabase,solidjs,svelte,tauri,ts,ubuntu,vercel,vim,vite,vscode,windows,wordpress,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,svelte,solidjs,vue,jquery,bootstrap,materialui,alpinejs,astro,nodejs,bun,php,adonis,fastapi,flask,npm,pnpm,vite,maven,mysql,postgres,sqlite,supabase,firebase,git,github,githubactions,vercel,netlify,cloudflare,workers,vscode,vim,neovim,sublime,idea,eclipse,postman,regex,replit,windows,linux,ubuntu,debian,kali,docker,discord,bots,discordjs,gmail,notion,wordpress,md,stackoverflow,tauri,lua,bash,powershell,cmake)](https://skillicons.dev)
 
 <!--
 androidstudio
