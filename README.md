@@ -9,8 +9,11 @@
 Skills
 </h2>	
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-	      
+[![My Skills](https://skillicons.dev/icons?i=adonis,alpinejs,astro,bash,bootstrap,bun,cmake,cloudflare,css,debian,discord,bots,discordjs,docker,eclipse,fastapi,firebase,flask,git,github,githubactions,gmail,html,idea,java,js,jquery,kali,linux,lua,md,materialui,maven,mysql,neovim,netlify,nodejs,notion,npm,php,pnpm,postgres,postman,powershell,py,react,regex,replit,sqlite,stackoverflow,sublime,supabase,solidjs,svelte,tauri,ts,ubuntu,vercel,vim,vite,vscode,windows,wordpress,workers)](https://skillicons.dev)
+
+<!--
+androidstudio
+-->
 
 <!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details  id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
