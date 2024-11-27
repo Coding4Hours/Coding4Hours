@@ -212,7 +212,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
+<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
