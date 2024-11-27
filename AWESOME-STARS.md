@@ -412,6 +412,7 @@
 
 ## JavaScript 
 
+- [ammezie/complete-adonis-auth](https://github.com/ammezie/complete-adonis-auth) - Complete authentication system in AdonisJs
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [QuiteAFancyEmerald/existing-moe](https://github.com/QuiteAFancyEmerald/existing-moe) - An anime discord bot with over 90 but two commands! This project was mostly a joke project I made for the Titanium Network community but I still maintain it. The source code is beyond cursed.
 - [shwosner/realtime-chat-supabase-react](https://github.com/shwosner/realtime-chat-supabase-react) - 
@@ -782,6 +783,7 @@
 
 ## Others 
 
+- [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 - [Zhenye-Na/zhenye-na](https://github.com/Zhenye-Na/zhenye-na) - 🧝‍♂️
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [Moonboy05/BlooketHacks](https://github.com/Moonboy05/BlooketHacks) - Hacks for people who want them!
@@ -1287,6 +1289,7 @@
 
 ## TypeScript 
 
+- [adonisjs-community/ally-starter-kit](https://github.com/adonisjs-community/ally-starter-kit) - A boilerplate to create your custom AdonisJS ally drivers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
