@@ -1289,6 +1289,7 @@
 
 ## TypeScript 
 
+- [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [adonisjs-community/ally-starter-kit](https://github.com/adonisjs-community/ally-starter-kit) - A boilerplate to create your custom AdonisJS ally drivers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
