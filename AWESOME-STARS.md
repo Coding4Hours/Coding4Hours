@@ -772,6 +772,7 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [jaywcjlove/git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
+- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 
 ## Mermaid 
 
@@ -901,7 +902,6 @@
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [jatin2003/resources-for-web-developers](https://github.com/jatin2003/resources-for-web-developers) - Resources for Web Developers
 - [ouuan/this-repo-has-42-stars-5-forks](https://github.com/ouuan/this-repo-has-42-stars-5-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 42 stars 5 forks.
-- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [athul/athul](https://github.com/athul/athul) - May the Force be with you :sparkles:
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
