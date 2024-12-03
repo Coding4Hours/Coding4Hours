@@ -381,6 +381,7 @@
 
 ## Java 
 
+- [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [kamer/spring-boot-user-registration](https://github.com/kamer/spring-boot-user-registration) - Repository for the article about Spring User Registration and Login.
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
