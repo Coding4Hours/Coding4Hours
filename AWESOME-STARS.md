@@ -703,7 +703,7 @@
 - [openethereum/wordlist](https://github.com/openethereum/wordlist) - Parity Brain Wallets Word List Library
 - [snyk-labs/nodejs-goof](https://github.com/snyk-labs/nodejs-goof) - Super vulnerable todo list application
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
-- [itzjustZJ123/GPortal](https://github.com/itzjustZJ123/GPortal) - GPortals!!!!!!!
+- [itzjustZJ123/GPortal](https://github.com/itzjustZJ123/GPortal) - GAME PORTAL!!!!!
 - [nettleweb/nettleweb](https://github.com/nettleweb/nettleweb) - The largest unblocked website on GitHub; 3000+ unblocked games + proxy + chat + emulators; 100% free
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [titaniumnetwork-dev/Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous) - The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
