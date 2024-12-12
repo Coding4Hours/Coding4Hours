@@ -214,7 +214,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
