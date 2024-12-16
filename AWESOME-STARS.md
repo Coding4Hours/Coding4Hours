@@ -236,7 +236,7 @@
 - [wondlatd/balls](https://github.com/wondlatd/balls) - balls.github.io
 - [albibos/sf](https://github.com/albibos/sf) - 
 - [mrsproutt/Avatar.js](https://github.com/mrsproutt/Avatar.js) - thing
-- [vndmp4/brokenricefilms](https://github.com/vndmp4/brokenricefilms) - Personal website and video editing portfolio
+- [cutbypham/brokenricefilms](https://github.com/cutbypham/brokenricefilms) - Personal website and video editing portfolio
 - [BrianWalczak/ProxyHouse](https://github.com/BrianWalczak/ProxyHouse) - A highly sophisticated proxy service using the UltraViolet Static to visit any sites, and bypass restrictions
 - [standardgalactic/alphabet](https://github.com/standardgalactic/alphabet) -   
 - [anshnk/unblockedtech](https://github.com/anshnk/unblockedtech) - Unblockedtech is a Static Game website, can be used locally!
@@ -1256,7 +1256,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [notthebee/cloud-homeserver](https://github.com/notthebee/cloud-homeserver) - 
 - [Aeres-u99/ncChat](https://github.com/Aeres-u99/ncChat) - Network based simple applications in Shell script
-- [vndmp4/tmux-fzf-session-switch](https://github.com/vndmp4/tmux-fzf-session-switch) - Easy ways to switch between tons of tmux sessions
+- [cutbypham/tmux-fzf-session-switch](https://github.com/cutbypham/tmux-fzf-session-switch) - Easy ways to switch between tons of tmux sessions
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
