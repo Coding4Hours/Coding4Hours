@@ -1351,7 +1351,7 @@
 - [cafe-labs/mocha](https://github.com/cafe-labs/mocha) - The simplicity and power you expect from a web proxy
 - [BomberFish/wisp-workers](https://github.com/BomberFish/wisp-workers) - WIP Wisp implementation for the Cloudflare Workers runtime
 - [MercuryWorkshop/local-music-anura](https://github.com/MercuryWorkshop/local-music-anura) - Lightweight on device music player PWA.
-- [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - 
+- [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - An experimental interception based web proxy that aims to be the successor to Ultraviolet
 - [MercuryWorkshop/bare-mux](https://github.com/MercuryWorkshop/bare-mux) - A system for managing http transports in a project such as Ultraviolet.
 - [MercuryWorkshop/proxy](https://github.com/MercuryWorkshop/proxy) - generic proxy testing
 - [l3wi/gearbox-ninja](https://github.com/l3wi/gearbox-ninja) - A fun UI for the Gearbox Protocol's V2 Launch
