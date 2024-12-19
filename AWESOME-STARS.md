@@ -177,6 +177,7 @@
 
 ## Go 
 
+- [danielmiessler/yt](https://github.com/danielmiessler/yt) - The yt command stands for YouTube Transcript, and pulls transcripts from YouTube.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
