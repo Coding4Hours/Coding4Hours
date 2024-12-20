@@ -504,7 +504,6 @@
 - [wearrrrr/alu-adblocker](https://github.com/wearrrrr/alu-adblocker) - 
 - [r58Playz/aboutproxy](https://github.com/r58Playz/aboutproxy) - Chrome in your browser
 - [NightProxy/Night](https://github.com/NightProxy/Night) - Night is a speeding proxy with several customizable features and easy deployment.
-- [gagedevs/Anonymous-Static](https://github.com/gagedevs/Anonymous-Static) - Anonymous-Static is an unblocker for school and work
 - [titaniumnetwork-dev/Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) - Example application of Ultraviolet which can be deployed in production.
 - [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
 - [art-class/v4](https://github.com/art-class/v4) - 
