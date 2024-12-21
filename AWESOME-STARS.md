@@ -351,7 +351,7 @@
 - [NRZT555/now.gg-roblox-in-browser](https://github.com/NRZT555/now.gg-roblox-in-browser) - ROBLOX in browser using a copy of now.gg's site.
 - [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses) - School Bypasses that should work for blockers like Securly, iBoss, and GoGuardian. End internet censorship! (without using Holy Unblocker)
 - [Nebelung-Dev/Metallic-theme-maker](https://github.com/Nebelung-Dev/Metallic-theme-maker) - Have fun with it.
-- [sysolace/chat-client](https://github.com/sysolace/chat-client) - An extremely simple bare-bones chat client made using Express and Socket.io. Can be used as a starting point to extend the functionality of your chat client.
+- [derpbyte/chat-client](https://github.com/derpbyte/chat-client) - An extremely simple bare-bones chat client made using Express and Socket.io. Can be used as a starting point to extend the functionality of your chat client.
 - [DogeNetwork/worksheetsforteachers](https://github.com/DogeNetwork/worksheetsforteachers) - Fake educational website for spoofing
 - [Shploop/Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate).      https://05konz.github.io/Blooket-Cheats/
 - [pauljadam/bookmarklets](https://github.com/pauljadam/bookmarklets) - 
@@ -417,6 +417,7 @@
 
 ## JavaScript 
 
+- [simplyrohan/lethal-js](https://github.com/simplyrohan/lethal-js) - A barebones framework for creating web-proxies
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [rotemdan/ExportCookies](https://github.com/rotemdan/ExportCookies) - WebExtension to export cookies to a Netscape format cookies.txt file.
 - [ammezie/complete-adonis-auth](https://github.com/ammezie/complete-adonis-auth) - Complete authentication system in AdonisJs
@@ -466,7 +467,7 @@
 - [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [sysolace/modal](https://github.com/sysolace/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
+- [derpbyte/modal](https://github.com/derpbyte/modal) - A web proxy made for TitaniumNetwork's 2024 Proxathon Contest
 - [NightProxy/Daylight](https://github.com/NightProxy/Daylight) - The minimalistic browser. | Entry for the Proxathon 2024 |
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [e9x/spadium-lite](https://github.com/e9x/spadium-lite) - Spadium Lite is a lightweight demonstration of the Spadium library, showing how it can be integrated into a single page application to render websites locally without external requests.
@@ -684,7 +685,7 @@
 - [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) - A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley:
 - [Dynamic-Interception-Proxy/DIP](https://github.com/Dynamic-Interception-Proxy/DIP) - 
 - [Ruby-Network/ruby](https://github.com/Ruby-Network/ruby) - Customizable, Free, And fast
-- [sysolace/games](https://github.com/sysolace/games) - games!
+- [derpbyte/games](https://github.com/derpbyte/games) - games!
 - [artem0/canvas-fingerprinting](https://github.com/artem0/canvas-fingerprinting) - POC of Canvas fingerprinting
 - [CybriaTech/CybriaGG](https://github.com/CybriaTech/CybriaGG) - 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
