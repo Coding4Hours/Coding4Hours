@@ -152,6 +152,7 @@
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
 - [Deblok-Workshop/DeblokAI](https://github.com/Deblok-Workshop/DeblokAI) - deblok ai
 - [A-Random-Person-on-Github/A-Random-Person-on-Github.github.io](https://github.com/A-Random-Person-on-Github/A-Random-Person-on-Github.github.io) - kali linux on web if websit dont work download zip file then unzip then open index.html
+- [shuttlenetwork/shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 
 ## Clojure 
 
@@ -165,7 +166,6 @@
 
 - [BrianWalczak/WiFiStream](https://github.com/BrianWalczak/WiFiStream) - A local web server (powered by Express) to manage files over your secure network (WiFi).
 - [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked gaming site
-- [shuttlenetwork/shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 
 ## Elixir 
 
