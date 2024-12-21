@@ -214,7 +214,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
+<i>❝“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
