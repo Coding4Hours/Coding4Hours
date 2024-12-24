@@ -994,6 +994,7 @@
 
 ## Python 
 
+- [Clangen-Web/clangen-web.github.io](https://github.com/Clangen-Web/clangen-web.github.io) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [sdan/vlite](https://github.com/sdan/vlite) - fast vector database made in numpy
