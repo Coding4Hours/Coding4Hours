@@ -243,11 +243,11 @@ androidstudio
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    7 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.53 %
-Astro         5 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-Other         2 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-C++           2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-TypeScript    1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JavaScript    9 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
+Astro         6 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+Other         2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+C++           2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+TypeScript    1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
