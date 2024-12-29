@@ -154,7 +154,6 @@
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [Om-Kamath/fastapi-tutorial](https://github.com/Om-Kamath/fastapi-tutorial) - 
 - [cmkhaledsaifullah/usaskchat](https://github.com/cmkhaledsaifullah/usaskchat) - A Chat Application build on Spring Websocket and Stomp JS
 - [TylerPottsDev/weather-app-js](https://github.com/TylerPottsDev/weather-app-js) - 
@@ -223,6 +222,8 @@
 
 ## HTML 
 
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) - 
+- [NightProxy/Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 - [00Fjongl/Fish7](https://github.com/00Fjongl/Fish7) - Automate website visits and obscure the browsing history with precision.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [MotorTruck1221/prism](https://github.com/MotorTruck1221/prism) - The files for my guide on setting up a proxy frontend from scratch. Also, a very simple example of a working frontend
@@ -427,6 +428,7 @@
 
 ## JavaScript 
 
+- [theogbob/hyprmin-proxy](https://github.com/theogbob/hyprmin-proxy) - For 2024 Titanium Network Proxathon. Theme: Minimalism.
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
@@ -610,6 +612,7 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [r480github/GalaxyV3](https://github.com/r480github/GalaxyV3) - proxy
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [joshuajohncohen/Monitor](https://github.com/joshuajohncohen/Monitor) - Spectate GoGuardian classes, chat with teachers, and more
 - [jonbarrow/simple-cf-worker-cors-proxy](https://github.com/jonbarrow/simple-cf-worker-cors-proxy) - Simple CORS proxy for a cloudflare worker
