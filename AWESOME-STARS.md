@@ -1325,6 +1325,7 @@
 
 ## TypeScript 
 
+- [rose-pine/palette](https://github.com/rose-pine/palette) - Color palette tool for Rosé Pine
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [cohenerickson/bare-server-bun](https://github.com/cohenerickson/bare-server-bun) - TOMP bare server implementation using native Bun API's.
