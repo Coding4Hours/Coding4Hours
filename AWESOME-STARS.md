@@ -1125,7 +1125,7 @@
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo) - a beautiful template make your github profile look awesome ，give me a star , plz orz
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [Coding4Hours/TIL-forked](https://github.com/Coding4Hours/TIL-forked) - Today-I-learned - Mini snippets of learnings
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
