@@ -432,6 +432,7 @@
 
 ## JavaScript 
 
+- [MercuryWorkshop/EpoxyTransport](https://github.com/MercuryWorkshop/EpoxyTransport) - a bare transport that implements end-to-end encryption with epoxy-tls and wisp
 - [dracula/tailwind](https://github.com/dracula/tailwind) - 🧛🏻‍♂️ Dark theme for Tailwind
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [theogbob/hyprmin-proxy](https://github.com/theogbob/hyprmin-proxy) - For 2024 Titanium Network Proxathon. Theme: Minimalism.
