@@ -214,7 +214,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
