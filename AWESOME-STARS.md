@@ -961,7 +961,6 @@
 - [reeeeeeeeeeeeeeeeeeee-g/Prodigy-Hacks](https://github.com/reeeeeeeeeeeeeeeeeeee-g/Prodigy-Hacks) - Prodigy Hacks
 - [Codydt/BlooketHack](https://github.com/Codydt/BlooketHack) - Blooket Hacks All Updated (Goto Console to work)
 - [Bosanac515/block-goguardian](https://github.com/Bosanac515/block-goguardian) - Block GoGuardian on the network level
-- [brunysixlovar900O/brunysixl](https://github.com/brunysixlovar900O/brunysixl) - moved https://github.com/b4unys/brunysixl
 - [SkyeGamesYT/Bookmarklets](https://github.com/SkyeGamesYT/Bookmarklets) - A collection of utilities for all kinds of websites!
 - [NJareau/C0NTR0L](https://github.com/NJareau/C0NTR0L) - A very high quality unblocked game/proxy site for all of your needs we have unblocked games, proxies, scripts, exploits, ai and more
 - [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol) - Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a single websocket.
