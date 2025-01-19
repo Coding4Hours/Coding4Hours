@@ -8,7 +8,7 @@ import chess
 import yaml
 
 with open('data/settings.yaml', 'r') as settings_file:
-    settings = yaml.load(settings_file, Loader=yaml.FullLoader)
+    settings = yaml.load(settings_file, Loader=yaml.SafeLoader)
 
 
 def create_link(text, link):
