@@ -1,1 +1,1 @@
-Error: 403, message='Forbidden', url='https://api.github.com/graphql'
+Error: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>
