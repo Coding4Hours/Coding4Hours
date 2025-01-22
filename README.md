@@ -214,7 +214,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
