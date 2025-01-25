@@ -361,7 +361,6 @@
 - [amethystnetwork-dev/google](https://github.com/amethystnetwork-dev/google) - Incognito disguised as Google
 - [illusionTBA/React-Ruffle](https://github.com/illusionTBA/React-Ruffle) - This is just a simple game site i made the utilizez ruffle to run flash games
 - [DoxrGitHub/doxr-blooket-hacks](https://github.com/DoxrGitHub/doxr-blooket-hacks) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
-- [DoxrGitHub/doxr-assets](https://github.com/DoxrGitHub/doxr-assets) - my randon assets used in other programs
 - [solodev/google-translator](https://github.com/solodev/google-translator) - In today’s connected digital age, it’s important to ensure your content is as widely available as possible. Part of this requires making your site’s content available for language translation. By incl
 - [AbyssServices/Abyss-Web](https://github.com/AbyssServices/Abyss-Web) - Abyss is an advanced proxy service that provides modern unblocking for all users who use it.
 - [NRZT555/now.gg-roblox-in-browser](https://github.com/NRZT555/now.gg-roblox-in-browser) - ROBLOX in browser using a copy of now.gg's site.
