@@ -1,5 +1,5 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
@@ -7,9 +7,14 @@
     ],
     "leaderboard": {
         "Coding4Hours": 9,
-        "Liumingxun": 1
+        "Liumingxun": 1,
+        "Saif-Quazi": 1
     },
     "history": [
+        [
+            "\ud83d\udd35 F6",
+            "Saif-Quazi"
+        ],
         [
             "\ud83d\udfe2 G3",
             "Coding4Hours"
@@ -110,7 +115,7 @@
             -1,
             1,
             1,
-            1,
+            0,
             -1,
             -1,
             -1
@@ -121,7 +126,7 @@
             -1,
             -1,
             -1,
-            -1,
+            0,
             -1,
             -1
         ],
