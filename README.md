@@ -245,8 +245,8 @@ androidstudio
  <!--START_SECTION:waka-->
 
 ```txt
-Other        36 mins         ███████████████▓░░░░░░░░░   62.77 %
-TypeScript   21 mins         █████████▒░░░░░░░░░░░░░░░   37.23 %
+Shell   20 mins         ███████████████████▓░░░░░   78.32 %
+Other   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
 ```
 
 <!--END_SECTION:waka-->
