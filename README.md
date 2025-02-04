@@ -245,8 +245,7 @@ androidstudio
  <!--START_SECTION:waka-->
 
 ```txt
-Shell   20 mins         ███████████████████▓░░░░░   78.32 %
-Other   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
