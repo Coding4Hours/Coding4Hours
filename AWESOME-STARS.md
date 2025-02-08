@@ -1093,7 +1093,7 @@
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) - source tree, website, and writeup for the  sh1mmer chromebook jailbreak
 - [ading2210/freedns-client](https://github.com/ading2210/freedns-client) - A Python API wrapper for FreeDNS.afraid.org
 - [ading2210/ext-watcher](https://github.com/ading2210/ext-watcher) - A Python script which provides update notifications for Chrome extensions, as well as automatic deobfuscation and diff generation.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [zlliu246/print_btree](https://github.com/zlliu246/print_btree) - 
 - [theanti9/PyCrawler](https://github.com/theanti9/PyCrawler) - A python web crawler
