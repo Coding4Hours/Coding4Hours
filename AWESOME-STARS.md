@@ -312,6 +312,7 @@
 - [discowd-nitro/discowd-nitro.github.io](https://github.com/discowd-nitro/discowd-nitro.github.io) - 
 - [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [Vivaan-d/PreciseTools](https://github.com/Vivaan-d/PreciseTools) - Bee Swarm Simulator calculator
+- [uclaacm/lactf-archive](https://github.com/uclaacm/lactf-archive) - An archive of past challenges from LA CTF hosted by ACM Cyber at UCLA and Psi Beta Rho.
 - [username-pass/clientX](https://github.com/username-pass/clientX) - peer to peer client app template
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Deblok-Workshop/ND-old](https://github.com/Deblok-Workshop/ND-old) - The old, not-in-development, but able to be deployed version of NewDeblok for easy access
@@ -1150,7 +1151,6 @@
 - [annpocoyo/neal-Fun-Automation](https://github.com/annpocoyo/neal-Fun-Automation) - A collection of scripts automating various aspects of the website: https://neal.fun!
 - [GithubHacker192/ThePasswordGame-Speedrunner](https://github.com/GithubHacker192/ThePasswordGame-Speedrunner) - Complex python script that plays https://neal.fun/password-game/ completely automatically
 - [PiggyAwesome/ThePasswordGame-Speedrunner](https://github.com/PiggyAwesome/ThePasswordGame-Speedrunner) - Complex python script that plays https://neal.fun/password-game/ completely automatically
-- [uclaacm/lactf-archive](https://github.com/uclaacm/lactf-archive) - An archive of past challenges from LA CTF hosted by ACM Cyber at UCLA and Psi Beta Rho.
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [JohnHammond/qr2unicode](https://github.com/JohnHammond/qr2unicode) - Crappy Python code to render a QR code as "plaintext" with Unicode
