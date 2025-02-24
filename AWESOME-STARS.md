@@ -380,7 +380,7 @@
 - [dragon731012/prxy-test](https://github.com/dragon731012/prxy-test) - 
 - [dragon731012/eaglercraft-download](https://github.com/dragon731012/eaglercraft-download) - 
 - [dragon731012/material-unblocker](https://github.com/dragon731012/material-unblocker) - An improved version of nodeunblocker
-- [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities) - This repo has a collection of cheats, exploits, gxmes, hubs, movies, prxes and more!
+- [S-PScripts/chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities) - old
 - [MineBoy99/Blooket-Cheats](https://github.com/MineBoy99/Blooket-Cheats) - The best hacks ever. These are from Minescraft2 orignally but I've made a better version so credit to him
 - [kristheamazing2/Kristheamazing2-main-all-hacks](https://github.com/kristheamazing2/Kristheamazing2-main-all-hacks) - This will be with every single one of my hacks, dinosaur game hacks, cookie clicker hacks, prodigy hacks, dangerous hacks, boxel rebound hacks, tutorial of doodle jump and snake game hacks.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -651,7 +651,6 @@
 - [rammerhq/RammerhqCenter](https://github.com/rammerhq/RammerhqCenter) - Welcome to My Game Website On Github Pages
 - [Dreamyplayer/DANG](https://github.com/Dreamyplayer/DANG) - 🔥 A Powerful JavaScript Module for Generating and Checking Discord Nitro 🌹
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
-- [stenunblocked/stenunblocked.github.io](https://github.com/stenunblocked/stenunblocked.github.io) - Sten Unblocked is a website featuring many unblocked games, almost all stored at github pages.  Sten Unblocked Games/Stens Unblocked aims at providing unblocked games for school who blocked freedoms o
 - [xnti/discord-nitro-generator](https://github.com/xnti/discord-nitro-generator) - discord bot that tries discord nitro gift codes if exists.
 - [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
 - [FogNetwork/ABC](https://github.com/FogNetwork/ABC) - A javascript library for creating websites with hidden urls.
@@ -798,7 +797,7 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [gleich/gleich](https://github.com/gleich/gleich) - :octocat: Config for my GitHub profile
+- [gleich/gleich](https://github.com/gleich/gleich) - :octocat:
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [jaywcjlove/git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
