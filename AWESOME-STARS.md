@@ -1019,6 +1019,7 @@
 
 ## Python 
 
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [simplyrohan/ti-python](https://github.com/simplyrohan/ti-python) - A Python compiler to make TI-BASIC programs
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [linkfrg/ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python
