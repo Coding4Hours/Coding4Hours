@@ -216,7 +216,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
+<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
