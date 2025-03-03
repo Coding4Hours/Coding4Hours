@@ -216,7 +216,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
