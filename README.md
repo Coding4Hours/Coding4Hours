@@ -216,7 +216,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
+<i>❝More than 80% of the emails sent daily are spams.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
