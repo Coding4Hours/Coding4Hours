@@ -216,7 +216,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
