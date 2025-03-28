@@ -1,4 +1,4 @@
-name: Metrics
+name: Awesome Stars
 on:
   schedule:
     - cron: "*/30 * * * *"
