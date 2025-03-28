@@ -12,15 +12,12 @@ Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,astro,nodejs,bun,flask,npm,pnpm,vite,maven,sqlite,supabase,firebase,git,github,githubactions,vercel,netlify,cloudflare,workers,vscode,vim,neovim,sublime,idea,eclipse,postman,replit,windows,linux,ubuntu,debian,kali,docker,discord,gmail,notion,md,stackoverflow,lua,bash,powershell,java)](https://skillicons.dev)
 
 
-<details  id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
+<details id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
-<br>
-<a href="#stats">Back</a>
 </details>
 
 
@@ -200,7 +197,7 @@ Skills
 </details>
 <a href="#game3">Back</a>
 </details>
- 
+</details>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
