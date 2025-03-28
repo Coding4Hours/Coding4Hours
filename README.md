@@ -138,65 +138,6 @@ Skills
 </details>
 <!-- OTHELLO -->
 
-<details id="game3" align="center"><summary><h2>𝙲𝚑𝚎𝚜𝚜</h2></summary>
-𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚝𝚞𝚛𝚗 𝚝𝚘 𝚙𝚕𝚊𝚢! 𝙼𝚘𝚟𝚎 𝚊 <!-- BEGIN TURN -->black<!-- END TURN --> piece.
-
-<!-- BEGIN CHESS BOARD -->
-|   | H | G | F | E | D | C | B | A |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-|   | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** |   |
-<!-- END CHESS BOARD -->
-
-**It's your turn to move! Choose one from the following table**
-<!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!) |
-| :----: | :---------------------- |
-| **A7** | [A5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A6) |
-| **B7** | [B5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B6) |
-| **B8** | [A6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+A6), [C6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+C6) |
-| **C7** | [C5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C5), [C6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C6) |
-| **D7** | [D5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D5), [D6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D6) |
-| **E7** | [E5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E5), [E6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E6) |
-| **F7** | [F5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F5), [F6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F6) |
-| **G7** | [G5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G5), [G6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G6) |
-| **G8** | [F6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+F6), [H6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+H6) |
-| **H7** | [H5](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/Coding4Hours/Coding4Hours/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
-<!-- END MOVES LIST -->
-
-𝙷𝚊𝚟𝚒𝚗𝚐 𝚏𝚞𝚗? 𝙰𝚜𝚔 𝚊 𝚏𝚛𝚒𝚎𝚗𝚍 𝚝𝚘 𝚍𝚘 𝚝𝚑𝚎 𝚗𝚎𝚡𝚝 𝚖𝚘𝚟𝚎!
-
-<details>
-  <summary>𝙻𝚊𝚜𝚝 𝟻 𝚖𝚘𝚟𝚎𝚜 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚊𝚖𝚎</summary>
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `F2` to `F4` | [ @Coding4Hours](https://github.com/Coding4Hours) |
-| `Start game` | [ @Coding4Hours](https://github.com/Coding4Hours) |
-
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>𝚃𝚘𝚙 𝟷0 𝚖𝚘𝚜𝚝 𝚖𝚘𝚟𝚎𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚊𝚕𝚕 𝚐𝚊𝚖𝚎𝚜'</summary>
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 | [@Coding4Hours](https://github.com/Coding4Hours) |
-
-<!-- END TOP MOVES -->
-</details>
-<a href="#game3">Back</a>
-</details>
 </details>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
@@ -204,7 +145,6 @@ Skills
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />  𝙷𝚎𝚛𝚎'𝚜 𝚜𝚘𝚖𝚎 𝚑𝚞𝚖𝚘𝚛 𝚏𝚘𝚛 𝚢𝚘𝚞:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <!--START_SECTION:activity-->
