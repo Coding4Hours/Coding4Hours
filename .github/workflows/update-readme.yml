@@ -4,45 +4,7 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
-  build:
-    name: "Update this repo's README with recent activity"
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.4.4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '14.x'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: Update README.md
-        run: node index.js
-      - name: Configure Git
-        run: |
-          git config user.name 'Automated'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m "year changed" || echo "No changes to commit"
-          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
-      - uses: siddharth2016/quote-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GOD }}          
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          outputs: |
-            github-snake-dark.svg?palette=github
   build2:
     runs-on: ubuntu-latest
     steps:
@@ -75,28 +37,6 @@ jobs:
           git add -A
           git commit -m "bot: update README.md automatically" || echo "No changes to commit"
           git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-  contrib:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name "Automated"
-          git config user.email "github-actions@github.com"
-          git commit -am "generated"
-          git push
   devcard:
     runs-on: ubuntu-latest
     permissions:
