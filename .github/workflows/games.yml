@@ -93,35 +93,3 @@ jobs:
               git config --global user.email "github-actions[bot]@users.noreply.github.com"
               git commit -am "${ISSUE_TITLE} by ${ISSUE_AUTHOR}"
               git push
-
-    TicTacToe:
-      runs-on: ubuntu-latest
-      if: startsWith(github.event.issue.title, 'move')
-      steps:
-      - uses: actions/checkout@v2
-  
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-  
-      - name: Process move
-        id: process_move
-        run: |
-          set -e
-          pip install urllib3 --break-system-packages
-          move=$(echo ${{ github.event.issue.title }} | sed 's/move //')
-          python games/tic_tac_toe.py $move 2>&1 | tee process_move.log
-  
-      - name: Commit and push if changed
-        run: |
-          git config user.name 'Automated'
-          git config user.email 'neealdon3@gmail.com'
-          git commit -am "bot: update README.md automatically" || echo "No changes to commit"
-          git push "https://x-access-token:${{secrets.GODMODE}}@github.com/${{ github.repository }}.git" -f
-  
-      - name: Close issue
-        uses: peter-evans/close-issue@v2
-        with:
-          issue-number: ${{ github.event.issue.number }}
-          comment: "Move processed. Check the README for the updated game board."
