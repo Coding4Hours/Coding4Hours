@@ -15,16 +15,8 @@ jobs:
           output_action: commit
           committer_branch: master
           committer_message: "chore: update master"
-      - run: echo "previous_tag=$(git describe --tags --abbrev=0 2>/dev/null || echo '')" >> $GITHUB_ENV
-      - name: Generate changelog
-        id: changelog
-        uses: jaywcjlove/changelog-generator@main
-        if: env.previous_tag
-        with:
-          token: ${{ secrets.GOD }}
-      - name: Get the changelog
-        run: |
-          echo "${{ steps.changelog.outputs.changelog }} > CHANGELOG.md"
+      - run: |
+          echo "previous_tag=$(git describe --tags --abbrev=0 2>/dev/null || echo '')" >> $GITHUB_ENV
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "Automated"
           git commit -am "updated changelog"
