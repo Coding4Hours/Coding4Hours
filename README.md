@@ -202,10 +202,7 @@ Skills
 <a href="#game3">Back</a>
 </details>
 </details>
-
-<details id="insights" align="center">
-	<summary><h2>𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝚜</h2></summary>
-
+ 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
@@ -214,10 +211,7 @@ Skills
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />  𝙷𝚎𝚛𝚎'𝚜 𝚜𝚘𝚖𝚎 𝚑𝚞𝚖𝚘𝚛 𝚏𝚘𝚛 𝚢𝚘𝚞:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-</details>
 
----
- 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
 2. 🗣 Commented on [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83#issuecomment-2617466220) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
