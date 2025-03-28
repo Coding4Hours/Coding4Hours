@@ -1,26 +1,19 @@
 <!--# HORRAY MY GITHUB ACTIONS ARE BACK!!!! 8/24/2024 9:55 AM PST-->
 
-<p align="center"> <a href="https://octoprofile.vercel.app/user?id=Coding4Hours"><img width="100%" height="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=700&lines=𝙷𝚒,+𝙸'𝚖+𝙲𝚘𝚍𝚒𝚗𝚐𝟺𝙷𝚘𝚞𝚛𝚜👋;𝙸'𝚖+𝚊+𝚠𝚊𝚗𝚗𝚊𝚋𝚎+𝚑𝚊𝚌𝚔𝚎𝚛+𝚊𝚗𝚍+𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.;𝙸+𝚕𝚘𝚟𝚎+𝙸𝚃.;𝙿𝚛𝚎𝚜𝚜+𝚏𝚘𝚛+𝚖𝚘𝚛𝚎+𝚒𝚗𝚏𝚘!;⏳+𝚈𝚎𝚊𝚛+𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜+{+███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁+}+23.56%+" alt="Typing SVG" /></a> </p>
+<p align="center"> <a><img width="100%" height="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&center=true&width=700&lines=𝙷𝚒,+𝙸'𝚖+𝙲𝚘𝚍𝚒𝚗𝚐𝟺𝙷𝚘𝚞𝚛𝚜👋;𝙸'𝚖+𝚊+𝚠𝚊𝚗𝚗𝚊𝚋𝚎+𝚑𝚊𝚌𝚔𝚎𝚛+𝚊𝚗𝚍+𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.;𝙸+𝚕𝚘𝚟𝚎+𝙸𝚃.;𝙿𝚛𝚎𝚜𝚜+𝚏𝚘𝚛+𝚖𝚘𝚛𝚎+𝚒𝚗𝚏𝚘!;⏳+𝚈𝚎𝚊𝚛+𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜+{+███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁+}+23.56%+" alt="Typing SVG" /></a> </p>
 </a> </p>
-<p align="center"> <a href="https://komarev.com/ghpvc/?username=Coding4Hours" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /> </a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /></p>
 
 
 <h2 align="center">
 Skills
 </h2>	
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,astro,nodejs,bun,adonis,flask,npm,pnpm,vite,maven,sqlite,supabase,firebase,git,github,githubactions,vercel,netlify,cloudflare,workers,vscode,vim,neovim,sublime,idea,eclipse,postman,regex,replit,windows,linux,ubuntu,debian,kali,docker,discord,bots,discordjs,gmail,notion,wordpress,md,stackoverflow,lua,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,astro,nodejs,bun,flask,npm,pnpm,vite,maven,sqlite,supabase,firebase,git,github,githubactions,vercel,netlify,cloudflare,workers,vscode,vim,neovim,sublime,idea,eclipse,postman,replit,windows,linux,ubuntu,debian,kali,docker,discord,gmail,notion,md,stackoverflow,lua,bash,powershell,java)](https://skillicons.dev)
 
-<!--
-androidstudio
--->
 
-<!--<p align="center"> <a href="https://discord.gg/Y3Amtwk27U"  ><img src="https://invidget.switchblade.xyz/Y3Amtwk27U"></img></a> </p>-->
 <details  id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
 <img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-
-  ### 🔝 𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚁𝚎𝚙𝚘
-  ![](https://github-contributor-𝚂𝚝𝚊𝚝𝚜.vercel.app/api?username=Coding4Hours&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
@@ -28,7 +21,6 @@ androidstudio
 <img src="profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
 <br>
 <a href="#stats">Back</a>
-<!-- <img src="https://profile-summary-for-github.com/user/Coding4Hours" align="center"/> -->
 </details>
 
 
@@ -216,7 +208,7 @@ androidstudio
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
@@ -228,27 +220,14 @@ androidstudio
 <details><summary><h2>𝙽𝚞𝚖𝚋𝚎𝚛 𝚃𝚛𝚒𝚌𝚔</h2></summary>
 	𝙸 𝚠𝚊𝚗𝚝 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚑𝚒𝚗𝚔 𝚘𝚏 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛. 𝚃𝚑𝚎𝚗 𝚙𝚛𝚎𝚜𝚜 𝚊𝚗𝚜𝚠𝚎𝚛.
 	<details><summary>𝙰𝚗𝚜𝚠𝚎𝚛</summary>
-		<h2>𝚈𝚘𝚞𝚛 𝚊𝚗𝚜𝚠𝚎𝚛 𝚑𝚊𝚜 𝚎𝚒𝚝𝚑𝚎𝚛 𝟹 𝚘𝚛 𝟽 𝚘𝚛 𝚋𝚘𝚝𝚑</h2>
+		<h2>𝚈𝚘ur number is a odd number.</h2>
 	</details>
 </details>
 </details>
 </details>
 
- 
-<details align="center"><summary><h2>Spotify</h2></summary>
-<a alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp7synce55dmtksfghfxg3hq34"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp7synce55dmtksfghfxg3hq34" alt="Data Card for Spotify"></a>
-</details>
 
- 
 ---
- 
- <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
  
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
@@ -258,9 +237,3 @@ No activity tracked
 5. 🎉 Merged PR [#6](https://github.com/Aluben-service/Aluben-Node/pull/6) in [Aluben-service/Aluben-Node](https://github.com/Aluben-service/Aluben-Node)
 5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
-
-<!-- blog starts -->
-
-<!-- blog ends -->
- * 𝙼𝚘𝚛𝚎 𝚘𝚗 <a href="https://coding4hours.github.io">𝙼𝚢 𝚋𝚕𝚘𝚐</a>
-
