@@ -216,17 +216,6 @@ Skills
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </details>
 
-<details align='center'><summary><h2>𝚆𝚊𝚗𝚗𝚊 𝚜𝚎𝚎 𝚊 𝚖𝚊𝚐𝚒𝚌 𝚝𝚛𝚒𝚌𝚔?</summary>
-<details><summary><h2>𝙽𝚞𝚖𝚋𝚎𝚛 𝚃𝚛𝚒𝚌𝚔</h2></summary>
-	𝙸 𝚠𝚊𝚗𝚝 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚑𝚒𝚗𝚔 𝚘𝚏 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛. 𝚃𝚑𝚎𝚗 𝚙𝚛𝚎𝚜𝚜 𝚊𝚗𝚜𝚠𝚎𝚛.
-	<details><summary>𝙰𝚗𝚜𝚠𝚎𝚛</summary>
-		<h2>𝚈𝚘ur number is a odd number.</h2>
-	</details>
-</details>
-</details>
-</details>
-
-
 ---
  
 <!--START_SECTION:activity-->
