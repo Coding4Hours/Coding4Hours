@@ -6,23 +6,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: commit
-          committer_branch: master
-          committer_message: "chore: update master"
-      - run: |
-          echo "previous_tag=$(git describe --tags --abbrev=0 2>/dev/null || echo '')" >> $GITHUB_ENV
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "Automated"
-      - name: Push changes
-        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
   awesome-stars:
     name: update awesome-stars
