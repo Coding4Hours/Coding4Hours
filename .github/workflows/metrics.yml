@@ -10,28 +10,3 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-  awesome-stars:
-    name: update awesome-stars
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.8
-      - run: pip install starred
-      - name: Update star list
-        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GOD }} > AWESOME-STARS.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "Automated"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
-      - name: Pull changes
-        run: git pull -r
-      - name: Push changes
-        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
