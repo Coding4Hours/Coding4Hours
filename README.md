@@ -24,8 +24,7 @@ Skills
 </details>
 
 
-<details align="center"><summary><h2>Fun/Other</h2></summary>
-<details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜</h2></summary>
+<details align="center" id="games"><summary><h2>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜(Made by other people! i just borrowed the games)</h2></summary>
   <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary>
 <table align="center">
@@ -200,7 +199,6 @@ Skills
 <!-- END TOP MOVES -->
 </details>
 <a href="#game3">Back</a>
-</details>
 </details>
  
 <a href="https://github.com/marketplace/actions/quote-readme">
