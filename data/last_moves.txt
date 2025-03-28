@@ -1,2 +1,0 @@
-f2f4: @Coding4Hours
-Start game: @Coding4Hours
