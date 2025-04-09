@@ -1034,7 +1034,7 @@
 - [1kaipark/GOBLiN](https://github.com/1kaipark/GOBLiN) - ts
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
-- [QuiteAFancyEmerald/Slate-Desktop-for-Windows-11](https://github.com/QuiteAFancyEmerald/Slate-Desktop-for-Windows-11) - Contemporary Slate Desktop Setup CLI for Windows 11 // Unlock powerful performance enhancements, system optimizations, and streamlined productivity tools—all wrapped in a sleek, modern design with an 
+- [QuiteAFancyEmerald/Slate-Desktop-for-Windows-11](https://github.com/QuiteAFancyEmerald/Slate-Desktop-for-Windows-11) - Contemporary Slate Desktop Setup CLI for Windows 11 // Collection of powerful performance enhancements, system optimizations, and streamlined productivity tools—all wrapped in a sleek, modern design w
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [simplyrohan/ti-python](https://github.com/simplyrohan/ti-python) - A Python compiler to make TI-BASIC programs
 - [ravendevteam/talon](https://github.com/ravendevteam/talon) - Simple utility to debloat Windows in 2 clicks.
