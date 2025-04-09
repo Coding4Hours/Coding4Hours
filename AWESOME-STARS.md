@@ -443,6 +443,7 @@
 
 ## JavaScript 
 
+- [dimdenGD/ultimate-express](https://github.com/dimdenGD/ultimate-express) - The Ultimate Express. Fastest http server with full Express compatibility, based on µWebSockets.
 - [Xylara/Prism](https://github.com/Xylara/Prism) - 
 - [SeanMcP/phosphor-astro](https://github.com/SeanMcP/phosphor-astro) - 👩‍🚀 Phosphor icons as Astro components
 - [NightProxy/DayDreamX](https://github.com/NightProxy/DayDreamX) - Official Tabbed Proxy of Night Network
