@@ -1,1 +1,1 @@
-Error: 504, message='Gateway Timeout', url='https://api.github.com/graphql'
+Error: 403, message='Forbidden', url='https://api.github.com/graphql'
