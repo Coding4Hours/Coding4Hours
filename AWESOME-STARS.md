@@ -840,7 +840,7 @@
 - [Zhenye-Na/zhenye-na](https://github.com/Zhenye-Na/zhenye-na) - 🧝‍♂️
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [Moonboy05/BlooketHacks](https://github.com/Moonboy05/BlooketHacks) - Hacks for people who want them!
-- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
+- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - A collection of high-quality cheat sheets for web development technologies, including CSS, Git, HTML, and VSCode.
 - [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
