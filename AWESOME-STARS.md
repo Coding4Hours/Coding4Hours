@@ -1058,7 +1058,6 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [BinBashBanana/html-obfuscator](https://github.com/BinBashBanana/html-obfuscator) - Easily obfuscate your html!
 - [BinBashBanana/PyDodge](https://github.com/BinBashBanana/PyDodge) - Python HTTP Proxy w/ Rewrites (PyDodge "B") https://github.com/webrecorder/pywb
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [quicaxd/Exela-V2.0](https://github.com/quicaxd/Exela-V2.0) - Exela Stealer is an undetectable stealer software at both runtime and scan time. It operates asynchronously, ensuring complete stealth (FUD). It steals passwords, cookies, autofill data, sessions, and
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
