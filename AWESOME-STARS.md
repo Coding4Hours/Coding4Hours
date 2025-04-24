@@ -38,6 +38,7 @@
 - [Markdown](#markdown)
 - [Mermaid](#mermaid)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -843,6 +844,10 @@
 - [genotrance/ff](https://github.com/genotrance/ff) - Windows wrapper for fzf
 - [JohnHammond/binnim](https://github.com/JohnHammond/binnim) - Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.
 
+## Nix 
+
+- [Immelancholy/NixDots](https://github.com/Immelancholy/NixDots) - My Nix Dots
+
 ## Others 
 
 - [devpew/corne-build-guide](https://github.com/devpew/corne-build-guide) - 
@@ -1385,6 +1390,7 @@
 
 ## TypeScript 
 
+- [outpoot/vyntr](https://github.com/outpoot/vyntr) - Independent search engine. Includes web crawling, search indexing, dictionary API, and more. https://vyntr.com
 - [The-CodingSloth/brainrot-games](https://github.com/The-CodingSloth/brainrot-games) - 
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
