@@ -369,7 +369,7 @@
 - [Blobby-Boi/BlobeBM](https://github.com/Blobby-Boi/BlobeBM) - Runs bookmarklets in about:blank
 - [Blobby-Boi/Blobwifi](https://github.com/Blobby-Boi/Blobwifi) - Blobwifi is an exploit that allows Chromebook users to bypass Wi-Fi restrictions
 - [Blobby-Boi/BlobbypassXSS](https://github.com/Blobby-Boi/BlobbypassXSS) - XSS that opens Blobbypass. It can be useful for webview bypasses.
-- [Blobby-Boi/data-URL-Generator](https://github.com/Blobby-Boi/data-URL-Generator) - It generates data: links, which can't easily be blocked by extensions.
+- [Blobby-Boi/data-URL-Generator](https://github.com/Blobby-Boi/data-URL-Generator) - It generates data: links, which can't easily be blocked by extensions. This was made with ChatGPT lol
 - [Blobby-Boi/RammerheadPR0XY](https://github.com/Blobby-Boi/RammerheadPR0XY) - Dont run this. This is meant as a prank for those dumb kids who use proxies
 - [Blobby-Boi/WorldsHardestGame2](https://github.com/Blobby-Boi/WorldsHardestGame2) - An alternative link to play World's Hardest Game 2
 - [colbster937/DuckOS](https://github.com/colbster937/DuckOS) - A pure JavaScript web-based operating system. 100% static but seemingly dynamic 💖
