@@ -247,6 +247,7 @@
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [Ruby-Network/corlink](https://github.com/Ruby-Network/corlink) - An alternative to Masqr, aiming to be simpler and easier to use
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [reynaldichernando/Whatever-Origin](https://github.com/reynaldichernando/Whatever-Origin) - An open source alternative to AnyOrigin.com
 - [Shivam010/bypass-cors](https://github.com/Shivam010/bypass-cors) - a proxy server to bypass CORS enabled servers
 - [SapiCLI/SapiCLI](https://github.com/SapiCLI/SapiCLI) - Linux - Darlingapi CLI
 
@@ -350,7 +351,6 @@
 - [cyaban/swf](https://github.com/cyaban/swf) - Hosts a bunch of Flash games.
 - [Coding4Hours/Hydrogen-Node](https://github.com/Coding4Hours/Hydrogen-Node) - important: check important.md
 - [Eiledon/alloworigin](https://github.com/Eiledon/alloworigin) - An open source, django alternative to AnyOrigin.com and WhateverOrigin.org
-- [reynaldichernando/Whatever-Origin](https://github.com/reynaldichernando/Whatever-Origin) - An open source alternative to AnyOrigin.com (this project is looking for a maintainer)
 - [chrishham/BypassCors](https://github.com/chrishham/BypassCors) - Bypass CORS restrictions Client Side.
 - [username-pass/gallium](https://github.com/username-pass/gallium) - the new webOS, designed to look the same as Chrome OS, with proxies and more, all in a single, portable html file!
 - [dragon731012/DM-Unbl0cker](https://github.com/dragon731012/DM-Unbl0cker) - A web proxy that uses a static version of ultraviolet made by TIW to search the web freely, with a chat, games, apps, and customizable settings. Hostable on any static provider, including netlify! Ple
