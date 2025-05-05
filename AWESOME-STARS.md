@@ -85,6 +85,7 @@
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [holy-unblocker/website2](https://github.com/holy-unblocker/website2) - 
 - [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
+- [RadiusProxy/Radius](https://github.com/RadiusProxy/Radius) - 
 - [Aluben-service/Aluben-service.github.io](https://github.com/Aluben-service/Aluben-service.github.io) - 
 
 ## AutoHotkey 
@@ -1464,7 +1465,6 @@
 - [titaniumnetwork-dev/masqr-middleware](https://github.com/titaniumnetwork-dev/masqr-middleware) - A simple express middleware for Masqr
 - [Nebelung-Forks/scramjet](https://github.com/Nebelung-Forks/scramjet) - 
 - [NebulaServices/Dynamic](https://github.com/NebulaServices/Dynamic) - [BETA] The new generation of interception proxies.
-- [RadiusProxy/Radius](https://github.com/RadiusProxy/Radius) - 
 - [Notplayingallday383/Radius](https://github.com/Notplayingallday383/Radius) - helping out bro
 - [Notplayingallday383/Nebula](https://github.com/Notplayingallday383/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 - [Notplayingallday383/masqr-middleware](https://github.com/Notplayingallday383/masqr-middleware) - A simple express middleware for Masqr
