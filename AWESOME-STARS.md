@@ -261,7 +261,7 @@
 ## HTML 
 
 - [GalacticNetwork/jordansmathwork-lite](https://github.com/GalacticNetwork/jordansmathwork-lite) - A version of Jordan's Math Work that runs locally, a successor for jordansmathwork.
-- [GalacticNetwork/jordansmathwork-v6](https://github.com/GalacticNetwork/jordansmathwork-v6) - 
+- [GalacticNetwork/jordansmathwork-v7](https://github.com/GalacticNetwork/jordansmathwork-v7) - 
 - [molkify/moch](https://github.com/molkify/moch) - #moch 💫
 - [Coding4Hours/asdf](https://github.com/Coding4Hours/asdf) - lutris ,boxes, mission center, warehouse ,vesktop, disks popsicle, usbimager
 - [freezenova/freezenova.github.io](https://github.com/freezenova/freezenova.github.io) - FreezeNova S1 — Unblocked Games Site
