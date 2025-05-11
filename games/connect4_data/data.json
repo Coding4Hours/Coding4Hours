@@ -37,7 +37,7 @@
             -1,
             -1,
             -1,
-            -1,
+            1,
             0
         ],
         [
@@ -65,7 +65,7 @@
             -1
         ]
     ],
-    "turn": 1,
+    "turn": 0,
     "games_won": [
         0,
         0,
@@ -73,13 +73,17 @@
     ],
     "leaderboard": {
         "": 2,
-        "Coding4Hours": 1,
+        "Coding4Hours": 2,
         "nhelchitnis": 1,
         "Liumingxun": 1,
         "miceoroni": 1,
         "Saif-Quazi": 1
     },
     "history": [
+        [
+            "\ud83d\udfe1 Column 4",
+            "Coding4Hours"
+        ],
         [
             "\ud83d\udd34 Column 0",
             "Saif-Quazi"
