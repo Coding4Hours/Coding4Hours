@@ -13,7 +13,8 @@ Skills
 
 
 <details id="stats" align="center"><summary><h2>𝚂𝚝𝚊𝚝𝚜</h2></summary>
-<img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Coding4Hours&count_private=true&show_icons=true"/>
+<img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 <p align="center">
 <img align="center" src="/github-metrics.svg">
 </p>
