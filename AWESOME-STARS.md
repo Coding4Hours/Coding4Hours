@@ -428,6 +428,7 @@
 
 ## Java 
 
+- [williamfiset/FastJavaIO](https://github.com/williamfiset/FastJavaIO) - Very fast Java input reader.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [berkayw/Blue-Boy-Adventure](https://github.com/berkayw/Blue-Boy-Adventure) - Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve the dungeon puzzle! KILL THE BOSS!
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
