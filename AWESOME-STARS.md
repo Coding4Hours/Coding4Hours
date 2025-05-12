@@ -347,7 +347,6 @@
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [swagging-post/robuxhunt](https://github.com/swagging-post/robuxhunt) - 
 - [swagging-post/papasgames](https://github.com/swagging-post/papasgames) - 
-- [KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI](https://github.com/KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI) - Original, upgraded version of unpatched Blooket Cheats.
 - [discowd-nitro/discowd-nitro.github.io](https://github.com/discowd-nitro/discowd-nitro.github.io) - 
 - [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [Vivaan-d/PreciseTools](https://github.com/Vivaan-d/PreciseTools) - Bee Swarm Simulator calculator
