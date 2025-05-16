@@ -78,6 +78,7 @@
 
 ## Astro 
 
+- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio built with Astro, React, TypeScript and TailwindCSS.
 - [MaeWolff/astro-portfolio-template](https://github.com/MaeWolff/astro-portfolio-template) - Portfolio with a blog part built with Astro
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
