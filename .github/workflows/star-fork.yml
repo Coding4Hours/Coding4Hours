@@ -20,4 +20,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v3
         with:
           token: ${{ secrets.STAR_TOKEN }}
-          template: "his repo has <starCount> stars and <forkCount> forks🌟"
+          template: "This repo has <starCount> stars and <forkCount> forks🌟"
