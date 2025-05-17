@@ -8,7 +8,7 @@
 Skills
 </h2>	
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,astro,nodejs,bun,flask,npm,pnpm,vite,maven,sqlite,supabase,firebase,git,github,githubactions,vercel,netlify,cloudflare,workers,vscode,vim,neovim,sublime,idea,eclipse,postman,replit,windows,linux,ubuntu,debian,kali,docker,discord,gmail,notion,md,stackoverflow,lua,bash,powershell,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,astro,nodejs,bun,flask,npm,vite,maven,sqlite,supabase,firebase,git,github,githubactions,netlify,cloudflare,vscode,vim,neovim,sublime,idea,eclipse,postman,replit,windows,linux,ubuntu,debian,kali,docker,discord,gmail,notion,md,stackoverflow,lua,bash,powershell,java)](https://skillicons.dev)
 
 
 <h2>
