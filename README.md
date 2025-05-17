@@ -140,13 +140,7 @@ Skills
 <!-- OTHELLO -->
 
 </details>
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
