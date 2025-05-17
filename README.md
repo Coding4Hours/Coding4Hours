@@ -20,15 +20,3 @@ Skills
 <img src="/github-metrics.svg">
 </p>
 
-
-
-
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
-2. 🗣 Commented on [#83](https://github.com/Coding4Hours/Coding4Hours/issues/83#issuecomment-2617466220) in [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours)
-3. 💪 Opened PR [#10](https://github.com/chemicaljs/chemical/pull/10) in [chemicaljs/chemical](https://github.com/chemicaljs/chemical)
-4. 💪 Opened PR [#2](https://github.com/Aluben-service/aluben-qwik/pull/2) in [Aluben-service/aluben-qwik](https://github.com/Aluben-service/aluben-qwik)
-5. 🎉 Merged PR [#6](https://github.com/Aluben-service/Aluben-Node/pull/6) in [Aluben-service/Aluben-Node](https://github.com/Aluben-service/Aluben-Node)
-5. 🗣 Commented on [#4084](https://github.com/microsoft/WSL/issues/4084#issuecomment-2211148242) in [microsoft/WSL](https://github.com/microsoft/WSL)
-<!--END_SECTION:activity-->
