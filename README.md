@@ -15,7 +15,6 @@ Skills
   Stats
 </h2>	
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Coding4Hours&count_private=true&show_icons=true"/>
-<img alt="trophies" src="https://github-trophies.vercel.app/?username=coding4hours&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 <p>
 <img src="/github-metrics.svg">
 </p>
