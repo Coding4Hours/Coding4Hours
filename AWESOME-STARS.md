@@ -255,7 +255,6 @@
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [Ruby-Network/corlink](https://github.com/Ruby-Network/corlink) - An alternative to Masqr, aiming to be simpler and easier to use
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Shivam010/bypass-cors](https://github.com/Shivam010/bypass-cors) - a proxy server to bypass CORS enabled servers
 - [SapiCLI/SapiCLI](https://github.com/SapiCLI/SapiCLI) - Linux - Darlingapi CLI
 
@@ -666,6 +665,7 @@
 - [patmood/wildcard-subdomains](https://github.com/patmood/wildcard-subdomains) - Handle dynamic subdomains in Node.js and Express
 - [riolubruh/SplitLargeFiles](https://github.com/riolubruh/SplitLargeFiles) - Plugin for BetterDiscord that allows for uploading files larger than all of the normal limits. Fork for compatibility with YABDP4Nitro and general fixes.
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [nates/ward](https://github.com/nates/ward) - 🔑 A Discord verification bot using reCAPTCHA v2.
