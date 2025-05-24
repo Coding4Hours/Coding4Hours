@@ -1065,6 +1065,7 @@
 
 ## Python 
 
+- [MercuryWorkshop/wisp-server-python](https://github.com/MercuryWorkshop/wisp-server-python) - A Wisp server implementation, written in Python.
 - [vmhl87/cmimc-programming](https://github.com/vmhl87/cmimc-programming) - cmimc programming work
 - [1kaipark/GOBLiN](https://github.com/1kaipark/GOBLiN) - ts
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
