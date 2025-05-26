@@ -1430,7 +1430,7 @@
 - [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 - [BomberFish/chatgpt-raycast-plus](https://github.com/BomberFish/chatgpt-raycast-plus) - ChatGPT Raycast plugin, but with some useful modifications
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [aluben-docs/Aluben-docs.github.io](https://github.com/aluben-docs/Aluben-docs.github.io) - 
 - [titaniumnetwork-dev/Proxy-Dispenser](https://github.com/titaniumnetwork-dev/Proxy-Dispenser) - The most advanced proxy dispenser bot for Discord. Used in Titanium Network.
 - [spicetify/marketplace](https://github.com/spicetify/marketplace) - Download extensions and themes directly from Spicetify
