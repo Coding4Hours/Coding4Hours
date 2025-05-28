@@ -283,7 +283,6 @@
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
@@ -1098,6 +1097,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [quicaxd/Exela-V2.0](https://github.com/quicaxd/Exela-V2.0) - Exela Stealer is an undetectable stealer software at both runtime and scan time. It operates asynchronously, ensuring complete stealth (FUD). It steals passwords, cookies, autofill data, sessions, and
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [soxoj/async-search-scraper](https://github.com/soxoj/async-search-scraper) - Search google, bing, yahoo, and other search engines with python
 - [SrijanSriv211/Cpix](https://github.com/SrijanSriv211/Cpix) - A powerful, offline search engine.
