@@ -1031,7 +1031,7 @@
 - [JohnHammond/wfi](https://github.com/JohnHammond/wfi) - Windows File Integrity -- an archive of information on installed Windows binaries.
 - [JohnHammond/labs](https://github.com/JohnHammond/labs) - Free and publicly available training labs and exercises, for quick copy-and-paste demonstrations, learning and education.
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana) - This repository aims to hold suggestions (and hopefully/eventually code) for CTF challenges. The "project" is nicknamed Katana.
-- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3000+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 - [shenkeYT/blooket-hack](https://github.com/shenkeYT/blooket-hack) - The original Blooket hack!
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
