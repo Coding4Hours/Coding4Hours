@@ -157,6 +157,7 @@
 
 ## CSS 
 
+- [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) - My Hyprland dotfiles
 - [An0nUD4Y/Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [Sommerwiesel/invidious-nerdvpn](https://github.com/Sommerwiesel/invidious-nerdvpn) - Invidious with customizations for invidious.nerdvpn.de
@@ -462,8 +463,8 @@
 
 ## JavaScript 
 
-- [Coding4Hours/cdn](https://github.com/Coding4Hours/cdn) - this is where i put all my proxy shit
-- [Coding4Hours/unamed-proxy](https://github.com/Coding4Hours/unamed-proxy) - um a experimental interception proxy that is extra new
+- [Bromine-Labs/cdn](https://github.com/Bromine-Labs/cdn) - this is where i put all my proxy shit
+- [Bromine-Labs/unamed-proxy](https://github.com/Bromine-Labs/unamed-proxy) - um a experimental interception proxy that is extra new
 - [Scaratech/gemini-proxy](https://github.com/Scaratech/gemini-proxy) - Gemini powered Webproxy
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this secure
 - [sera-js/sera](https://github.com/sera-js/sera) - 🤷‍♀️ SeraJS is a lightweight, signal-based reactive JavaScript library
@@ -672,7 +673,6 @@
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [nates/ward](https://github.com/nates/ward) - 🔑 A Discord verification bot using reCAPTCHA v2.
 - [xelitezz/datdoggyunblocked](https://github.com/xelitezz/datdoggyunblocked) - Dat Doggy Unblocked is the best proxy with blazing speeds to uncensor any website!
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
@@ -1529,6 +1529,7 @@
 - [Deblok-Workshop/NewDeblok](https://github.com/Deblok-Workshop/NewDeblok) - The New Deblok.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [BetterDiscord/docs](https://github.com/BetterDiscord/docs) - Documentation, guidelines and tutorials for BetterDiscord.
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [Notplayingallday383/Dynamic-static](https://github.com/Notplayingallday383/Dynamic-static) - [BETA] A new generation of interception proxy.
 - [omkarcloud/botasaurus-starter](https://github.com/omkarcloud/botasaurus-starter) - 🚀 OFFICIAL STARTER TEMPLATE FOR BOTASAURUS SCRAPING FRAMEWORK 🤖
 - [uhidontkno/filtercheckerv2](https://github.com/uhidontkno/filtercheckerv2) - The most powerful unblocked link checker, supporting Palo Alto, Lightspeed, and FortiGuard.
