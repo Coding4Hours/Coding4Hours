@@ -662,7 +662,6 @@
 - [swagging-post/Gradient-CSS-Snippet-Creator](https://github.com/swagging-post/Gradient-CSS-Snippet-Creator) - 
 - [sparemind/AutoClickerBookmarklet](https://github.com/sparemind/AutoClickerBookmarklet) - A bookmarklet to auto-click elements on a webpage.
 - [Glitchyeet/IdleBreakout](https://github.com/Glitchyeet/IdleBreakout) - 
-- [ceelloo/learn-discord.js](https://github.com/ceelloo/learn-discord.js) - a simple discord bot that counts how much materials you need to craft something in bee swarm simulator
 - [Dddatt/bss](https://github.com/Dddatt/bss) - My remake of Bee Swarm Simulator, as an HTML5 game.
 - [wanetty/TypoProtect-Extension](https://github.com/wanetty/TypoProtect-Extension) - Typosquatting Protection is a Chrome extension that enhances browsing safety. It alerts users when they visit a site that potentially poses a typosquatting threat. By comparing the URL's domain and su
 - [admirhodzic/multiselect-dropdown](https://github.com/admirhodzic/multiselect-dropdown) - Multiselect dropdown in pure JavaScript with no dependencies
