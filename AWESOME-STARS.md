@@ -1037,7 +1037,7 @@
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖
-- [BlacketWare/WIP](https://github.com/BlacketWare/WIP) - blacketware is currently being restored by @zastlx
+- [BlacketWare/WIP](https://github.com/BlacketWare/WIP) - smh
 - [Doomlands/Blookethack-menu](https://github.com/Doomlands/Blookethack-menu) - just click bookmark or paste other code into console to open a hack menu for blooket!!!
 - [Doomlands/blookethack](https://github.com/Doomlands/blookethack) - All hacks for blooket
 - [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/rcpC9VfE  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
