@@ -477,7 +477,7 @@
 - [Xylara/Prism](https://github.com/Xylara/Prism) - 
 - [SeanMcP/phosphor-astro](https://github.com/SeanMcP/phosphor-astro) - 👩‍🚀 Phosphor icons as Astro components
 - [NightProxy/DayDreamX](https://github.com/NightProxy/DayDreamX) - Official Tabbed Proxy of Night Network
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability.
 - [MercuryWorkshop/EpoxyTransport](https://github.com/MercuryWorkshop/EpoxyTransport) - a bare transport that implements end-to-end encryption with epoxy-tls and wisp
 - [dracula/tailwind](https://github.com/dracula/tailwind) - 🧛🏻‍♂️ Dark theme for Tailwind
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
