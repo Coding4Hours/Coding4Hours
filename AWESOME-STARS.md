@@ -1293,7 +1293,7 @@
 ## QML 
 
 - [aldenluthfi/susunluthfi](https://github.com/aldenluthfi/susunluthfi) - All of my configurations, customizations, and creations. Powered by GNU Stow
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability.
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [MarkoStanojevic12/MMaterial-Tester](https://github.com/MarkoStanojevic12/MMaterial-Tester) - A fully custom QML library built on the Material design scheme
 
 ## R 
