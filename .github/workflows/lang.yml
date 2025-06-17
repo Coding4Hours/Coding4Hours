@@ -18,4 +18,4 @@ jobs:
         env:
           GH_USERNAME: Coding4Hours
           GIST_ID: 47db63fd3e1cb787b6f62274e1188c8b
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GOD }}
