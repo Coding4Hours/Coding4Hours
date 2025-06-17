@@ -1,7 +1,7 @@
 <!--# HORRAY MY GITHUB ACTIONS ARE BACK!!!! 8/24/2024 9:55 AM PST-->
 
-<p> yo wassup losers(i use arch btw)</p>
-<a href="https://coding4portfolio.pages.dev/">Portfolio</a>
+<p> yo wassup losers(i use arch btw)<a href="https://coding4portfolio.pages.dev/">Portfolio</a>
+</p>
 <p><img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /></p>
 
 <h2>Stats</h2>	
