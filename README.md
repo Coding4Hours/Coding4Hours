@@ -1,7 +1,6 @@
 <!--# HORRAY MY GITHUB ACTIONS ARE BACK!!!! 8/24/2024 9:55 AM PST-->
 
 <p>
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /></p>
 
   yo wassup losers(i use arch btw)
   <br/>
@@ -13,3 +12,4 @@
 
 <img src="/github-metrics.svg">
 
+  <p ><img src="https://komarev.com/ghpvc/?username=Coding4Hours" alt="nee's profile views" width="125" height="25" /></p>
