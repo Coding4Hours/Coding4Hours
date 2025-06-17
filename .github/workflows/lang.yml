@@ -10,21 +10,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: pnpm/action-setup@v4
-        name: Install pnpm
-        id: pnpm-install
-        with:
-          version: 10
-          run_install: true
-
       - name: Setup node
         uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: pnpm
 
       - name: Update
-        run: pnpm dlx github-lang-box@2
+        run: npx github-lang-box@2
         env:
           GH_USERNAME: Coding4Hours
           GIST_ID: 47db63fd3e1cb787b6f62274e1188c8b
