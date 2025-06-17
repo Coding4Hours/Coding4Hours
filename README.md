@@ -1,11 +1,5 @@
 <!--# HORRAY MY GITHUB ACTIONS ARE BACK!!!! 8/24/2024 9:55 AM PST-->
-
-<p>
-
-  yo wassup losers(i use arch btw)
-  <br/>
-  <a href="https://coding4portfolio.pages.dev/">Portfolio</a>
-</p>
+<h2>[Coding4Hours](https://coding4portfolio.pages.dev/)</h2>
 
 <h2>Stats</h2>	
 <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=coding4hours&no-frame=true&row=1&&margin-w=20&no-bg=true&theme=monokai"/>
