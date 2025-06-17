@@ -992,7 +992,7 @@
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [jatin2003/resources-for-web-developers](https://github.com/jatin2003/resources-for-web-developers) - Resources for Web Developers
 - [ouuan/this-repo-has-42-stars-5-forks](https://github.com/ouuan/this-repo-has-42-stars-5-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 42 stars 5 forks.
-- [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - This repo has 4 stars and 1 forks🌟
+- [Coding4Hours/Coding4Hours](https://github.com/Coding4Hours/Coding4Hours) - This repo has 3 stars and 1 forks🌟
 - [athul/athul](https://github.com/athul/athul) - May the Force be with you :sparkles:
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
