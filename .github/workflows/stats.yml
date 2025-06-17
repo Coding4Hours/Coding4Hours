@@ -20,6 +20,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GOD }} # Do not edit, defined in secrets
 
-          GIST_ID: d16b8062c121a798cfddc31708e75569
+          GIST_ID: fa012eaf147defa360f0d3859c94b2bc
           ALL_COMMITS: true
           K_FORMAT: true
