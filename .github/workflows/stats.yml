@@ -1,0 +1,25 @@
+name: Update GitHub Stats Gist
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+  push:
+    branches: master
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@master
+        with:
+          node-version: 16
+
+        # - uses: actions/checkout@master
+        # - run: npm ci
+      - run: npx github-stats-box@1
+        env:
+          GH_TOKEN: ${{ secrets.GOD }} # Do not edit, defined in secrets
+
+          GIST_ID: d16b8062c121a798cfddc31708e75569
+          ALL_COMMITS: true
+          K_FORMAT: true
