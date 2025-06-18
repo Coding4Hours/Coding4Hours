@@ -1,0 +1,38 @@
+name: Monkeytype PB
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    paths-ignore:
+      - '**.md'
+    branches:    
+      - main
+      
+jobs:
+  update-gist:
+    runs-on: macos-latest
+    steps:
+      - name: Clone
+        run: |
+          git clone https://github.com/artemnovichkov/monkeytype-box
+
+      - name: Update Gist
+        working-directory: monkeytype-box
+        run: |
+          swift run MonkeytypeBox -o image.jpg
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git clone "https://user:${GH_TOKEN}@gist.github.com/${GIST_TOKEN}.git" gist
+          mv image.jpg gist
+          cd gist
+          git add image.jpg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update image"
+            git push origin main
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GOD }}
+          GIST_TOKEN: "58a90f5925e93ea1c06d590f26d94b51"
+          MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
