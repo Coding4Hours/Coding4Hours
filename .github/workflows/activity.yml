@@ -2,7 +2,7 @@ name: Activity Box
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'  # Updates every 30 minutes
+    - cron: '0 0 * * *'  # Every day
 
 jobs:
   update-activity:
