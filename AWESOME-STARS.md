@@ -160,7 +160,6 @@
 - [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) - My Hyprland dotfiles
 - [An0nUD4Y/Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
-- [Sommerwiesel/invidious-nerdvpn](https://github.com/Sommerwiesel/invidious-nerdvpn) - Invidious with customizations for invidious.nerdvpn.de
 - [rose-pine/tailwind-css](https://github.com/rose-pine/tailwind-css) - Soho vibes for Tailwind CSS
 - [JaniRefsnes/w3css](https://github.com/JaniRefsnes/w3css) - W3.CSS - CSS Framework
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
@@ -286,7 +285,6 @@
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [ShadowDevLabs/Astro](https://github.com/ShadowDevLabs/Astro) - Astro is a sleek, lightweight and simple to use web proxy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
@@ -529,6 +527,7 @@
 - [asc2563/proxys](https://github.com/asc2563/proxys) - 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
