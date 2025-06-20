@@ -465,6 +465,7 @@
 
 ## JavaScript 
 
+- [anmol098/npx_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
 - [bubbls/UGS-Assets](https://github.com/bubbls/UGS-Assets) - 
 - [Galaxy-Vortex/GalaxyV5](https://github.com/Galaxy-Vortex/GalaxyV5) - 
 - [Bromine-Labs/cdn](https://github.com/Bromine-Labs/cdn) - this is where i put all my proxy shit
