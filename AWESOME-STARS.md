@@ -473,7 +473,6 @@
 - [bubbls/UGS-Assets](https://github.com/bubbls/UGS-Assets) - 
 - [Galaxy-Vortex/GalaxyV5](https://github.com/Galaxy-Vortex/GalaxyV5) - 
 - [Bromine-Labs/cdn](https://github.com/Bromine-Labs/cdn) - this is where i put all my proxy shit
-- [Bromine-Labs/unamed-proxy](https://github.com/Bromine-Labs/unamed-proxy) - um a experimental interception proxy that is extra new
 - [Scaratech/gemini-proxy](https://github.com/Scaratech/gemini-proxy) - Gemini powered Webproxy
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this secure
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
@@ -654,7 +653,7 @@
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
 - [RaoHai/RaoHai](https://github.com/RaoHai/RaoHai) - https://github.githubassets.com/images/mona-whisper.gif
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 60 stars 7 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 61 stars 7 forks.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
