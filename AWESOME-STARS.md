@@ -303,7 +303,6 @@
 - [albibos/sf](https://github.com/albibos/sf) - 
 - [cutbypham/brokenricefilms](https://github.com/cutbypham/brokenricefilms) - Personal website and video editing portfolio
 - [BrianWalczak/ProxyHouse](https://github.com/BrianWalczak/ProxyHouse) - A highly sophisticated proxy service using the UltraViolet Static to visit any sites, and bypass restrictions
-- [anshnk/unblockedtech](https://github.com/anshnk/unblockedtech) - Unblockedtech is a Static Game website, can be used locally!
 - [anshnk/nullOS](https://github.com/anshnk/nullOS) - NullOS is a webOS utilizing Ultraviolet and Winbox.js to create an immersive operating system feel. The UI is Inspired by Chrome OS while the idea of the webOS is inspired by AnuraOS
 - [asc2563/asc2563.github.io](https://github.com/asc2563/asc2563.github.io) - fsdf
 - [velzie/velzie.rip](https://github.com/velzie/velzie.rip) - website for https://velzie.rip
@@ -1221,7 +1220,7 @@
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 209 stars and 182 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 210 stars and 183 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
