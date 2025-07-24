@@ -373,7 +373,6 @@
 - [username-pass/gallium](https://github.com/username-pass/gallium) - the new webOS, designed to look the same as Chrome OS, with proxies and more, all in a single, portable html file!
 - [dragon731012/DM-Unbl0cker](https://github.com/dragon731012/DM-Unbl0cker) - A web proxy that uses a static version of ultraviolet made by TIW to search the web freely, with a chat, games, apps, and customizable settings. Hostable on any static provider, including netlify! Ple
 - [UltraN0va288/Cosmic](https://github.com/UltraN0va288/Cosmic) - Modern web proxy with games, apps, and even a built in browser! If you fork this repo please star it!
-- [Mac-Web/macvg](https://github.com/Mac-Web/macvg) - MacVG, the best unblocked game site out there! (give us a star to support your favorite game site ⭐!)
 - [Potato-constellation/Hubsite](https://github.com/Potato-constellation/Hubsite) - this is a personal project of mine to group all of the games, cheats, unblockers and general entertainment that the school has yet to block. I update the website regularly in my free time as well. If 
 - [Githubman6996/05konz-blooket-site](https://github.com/Githubman6996/05konz-blooket-site) - 05konz blooket site
 - [FogNetwork/Mist](https://github.com/FogNetwork/Mist) - A simple youtube downloader included in Tsunami
@@ -695,6 +694,7 @@
 - [Dreamyplayer/DANG](https://github.com/Dreamyplayer/DANG) - 🔥 A Powerful JavaScript Module for Generating and Checking Discord Nitro 🌹
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [xnti/discord-nitro-generator](https://github.com/xnti/discord-nitro-generator) - discord bot that tries discord nitro gift codes if exists.
+- [Mac-Web/macvg](https://github.com/Mac-Web/macvg) - MacVG, the best unblocked game site out there! (give us a star to support your favorite game site ⭐!)
 - [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
 - [FogNetwork/ABC](https://github.com/FogNetwork/ABC) - A javascript library for creating websites with hidden urls.
 - [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked games site
@@ -1215,7 +1215,7 @@
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 213 stars and 185 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 214 stars and 186 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
