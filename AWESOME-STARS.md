@@ -106,7 +106,7 @@
 ## C 
 
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
-- [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor base wlroots and scenefx(dwl but no suckless)
+- [DreamMaoMao/mango](https://github.com/DreamMaoMao/mango) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 - [sigsegv7/Hyra](https://github.com/sigsegv7/Hyra) - The Hyra operating system. Mirror of https://osmora.org/cgit/Hyra/ - Pull requests not accepted, send patches to ian@osmora.org
 - [jezek2/fixbrowser](https://github.com/jezek2/fixbrowser) - FixBrowser is a lightweight web browser created from scratch.
 - [GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) - Play the Quake engine in your browser!  True to the original.  Supports WebGL, software-rendered mode, mods, and mission packs.
@@ -1092,7 +1092,7 @@
 - [neur0map/ipcrawler-legacy](https://github.com/neur0map/ipcrawler-legacy) - This project has been moved to its standalone repository. See readme
 - [MercuryWorkshop/wisp-server-python](https://github.com/MercuryWorkshop/wisp-server-python) - A Wisp server implementation, written in Python.
 - [vmhl87/cmimc-programming](https://github.com/vmhl87/cmimc-programming) - cmimc programming work
-- [1kaipark/GOBLiN](https://github.com/1kaipark/GOBLiN) - ts
+- [1kaipark/GOBLiN](https://github.com/1kaipark/GOBLiN) - toy wayland shell
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [QuiteAFancyEmerald/Slate-Desktop-for-Windows-11](https://github.com/QuiteAFancyEmerald/Slate-Desktop-for-Windows-11) - Contemporary Slate Desktop Setup CLI for Windows 11 // Collection of powerful performance enhancements, system optimizations, and streamlined productivity tools—all wrapped in a sleek, modern design w
@@ -1218,7 +1218,7 @@
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 215 stars and 186 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 215 stars and 187 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
