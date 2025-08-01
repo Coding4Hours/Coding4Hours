@@ -106,7 +106,7 @@
 ## C 
 
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
-- [DreamMaoMao/mango](https://github.com/DreamMaoMao/mango) - wayland compositor base wlroots and scenefx(dwl but no suckless)
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 - [sigsegv7/Hyra](https://github.com/sigsegv7/Hyra) - The Hyra operating system. Mirror of https://osmora.org/cgit/Hyra/ - Pull requests not accepted, send patches to ian@osmora.org
 - [jezek2/fixbrowser](https://github.com/jezek2/fixbrowser) - FixBrowser is a lightweight web browser created from scratch.
 - [GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) - Play the Quake engine in your browser!  True to the original.  Supports WebGL, software-rendered mode, mods, and mission packs.
@@ -1218,7 +1218,7 @@
 - [vidyabhandary/TIL](https://github.com/vidyabhandary/TIL) - Today-I-learned - Mini snippets of learnings
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [roaldnefs/roaldnefs](https://github.com/roaldnefs/roaldnefs) - Personal GitHub Profile README that's automatically updated by GitHub Actions.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 215 stars and 187 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 215 stars and 186 forks 🌟
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [santiko/KnockPy](https://github.com/santiko/KnockPy) - 
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
