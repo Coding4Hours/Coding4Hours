@@ -141,7 +141,6 @@
 - [xlluminate/Illuminate](https://github.com/xlluminate/Illuminate) - An unblocked games website with multiple features, including proxies, apps, and more!
 - [dragon731012/Innate](https://github.com/dragon731012/Innate) - Stop scrolling, start chatting with Innate, the ultimate chatting website for any purpose. Dive into lively conversations, create groups for your school or friend circle, and be whoever you want to be
 - [Project-Bradnails/Bradnails](https://github.com/Project-Bradnails/Bradnails) - The definitive unblocked games archive
-- [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [amethystnetwork-dev/google](https://github.com/amethystnetwork-dev/google) - Incognito disguised as Google
 - [illusionTBA/React-Ruffle](https://github.com/illusionTBA/React-Ruffle) - This is just a simple game site i made the utilizez ruffle to run flash games
 - [DoxrGitHub/doxr-blooket-hacks](https://github.com/DoxrGitHub/doxr-blooket-hacks) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
@@ -268,6 +267,7 @@
 - [VirgilSecurity/demo-sharing-js](https://github.com/VirgilSecurity/demo-sharing-js) - This is a demo app shows how you can create a secure file sharing app using Virgil Crypto Library in Javascript.
 - [bzapata95/instagram-clone](https://github.com/bzapata95/instagram-clone) - A Instagram clone with (Nodejs, Postgres, ReactJS, Styled components)
 - [dragon731012/DM-unbl0cker-corrosion](https://github.com/dragon731012/DM-unbl0cker-corrosion) - 
+- [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [amethystnetwork-dev/Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by BUFFY.
 - [kol-ton/greenlime](https://github.com/kol-ton/greenlime) - Stylish website that has a proxy for unblocking websites, games, and movies.
 - [mvolkmann/web-translate](https://github.com/mvolkmann/web-translate) - a set of framework-agnostic JavaScript functions that support language translation in web applications
