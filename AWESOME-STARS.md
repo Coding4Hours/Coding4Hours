@@ -223,7 +223,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nates/ward](https://github.com/nates/ward) - 🔑 A Discord verification bot using reCAPTCHA v2.
 - [xelitezz/datdoggyunblocked](https://github.com/xelitezz/datdoggyunblocked) - Dat Doggy Unblocked is the best proxy with blazing speeds to uncensor any website!
-- [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
+- [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Succeeded by Scramjet.
 - [MaxWeichers/UntitledProxy](https://github.com/MaxWeichers/UntitledProxy) - A simple, but efficient, fast free school proxy. With a custom bare server!
 - [thekittycatclub/Kitty-Cat-Club](https://github.com/thekittycatclub/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
 - [Coding4Hours/i-like-this-guy](https://github.com/Coding4Hours/i-like-this-guy) - hes cool
