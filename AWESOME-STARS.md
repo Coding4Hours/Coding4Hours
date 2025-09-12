@@ -75,7 +75,6 @@
 - [Potato-constellation/Hubsite](https://github.com/Potato-constellation/Hubsite) - this is a personal project of mine to group all of the games, cheats, unblockers and general entertainment that the school has yet to block. I update the website regularly in my free time as well. If 
 - [Githubman6996/05konz-blooket-site](https://github.com/Githubman6996/05konz-blooket-site) - 05konz blooket site
 - [FogNetwork/Mist](https://github.com/FogNetwork/Mist) - A simple youtube downloader included in Tsunami
-- [Coding4Hours/blobrowser](https://github.com/Coding4Hours/blobrowser) - An HTML Browser (THIS IS A UNBLOCKER)
 - [Blobby-Boi/ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch by flooding iframes in a window.
 - [Blobby-Boi/BlobeBM](https://github.com/Blobby-Boi/BlobeBM) - Runs bookmarklets in about:blank
 - [Blobby-Boi/Blobwifi](https://github.com/Blobby-Boi/Blobwifi) - Blobwifi is an exploit that allows Chromebook users to bypass Wi-Fi restrictions
@@ -141,7 +140,7 @@
 - [Mac-Web/macvg](https://github.com/Mac-Web/macvg) - MacVG, the best unblocked game site out there! (give us a star to support your favorite game site ⭐!)
 - [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
 - [FogNetwork/ABC](https://github.com/FogNetwork/ABC) - A javascript library for creating websites with hidden urls.
-- [Parcoil/lunaar.org](https://github.com/Parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked games site
+- [parcoil/lunaar.org](https://github.com/parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked games site
 - [FogNetwork/Riptide](https://github.com/FogNetwork/Riptide) - A unique site for combating web filters and regaining internet freedom
 - [FogNetwork/Nightmare-Windows](https://github.com/FogNetwork/Nightmare-Windows) - The window system used in Nightmare
 - [SnowLord7/Gimkit-Hack](https://github.com/SnowLord7/Gimkit-Hack) - Little Hack for Gimkit
