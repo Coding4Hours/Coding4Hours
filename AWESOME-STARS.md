@@ -113,6 +113,7 @@
 
 ## JavaScript 
 
+- [prplwtf/writea](https://github.com/prplwtf/writea) - Fast and comfy open-source alternative for blogs. Write posts with ✏️ Markdown, configure your blog with ⚙️ YAML, theme your page with 🎨 CSS and much more!
 - [openethereum/wordlist](https://github.com/openethereum/wordlist) - Parity Brain Wallets Word List Library
 - [kol-ton/greenlime](https://github.com/kol-ton/greenlime) - Stylish website that has a proxy for unblocking websites, games, and movies.
 - [FoxMoss/aboutproxy-wisp](https://github.com/FoxMoss/aboutproxy-wisp) - Chrome in your browser
@@ -237,7 +238,7 @@
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [JohnHammond/security-resources](https://github.com/JohnHammond/security-resources) - A communal outpouring of online resources for learning different things in cybersecurity
 - [shenkeYT/blooket-hack](https://github.com/shenkeYT/blooket-hack) - The original Blooket hack!
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖
 
@@ -247,6 +248,7 @@
 
 ## Python 
 
+- [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [spextat0r/notepad11thief](https://github.com/spextat0r/notepad11thief) - Tool to exfiltrate and parse notepad tabstate files
 - [QuiteAFancyEmerald/Slate-Desktop-for-Windows-11](https://github.com/QuiteAFancyEmerald/Slate-Desktop-for-Windows-11) - Contemporary Ricing Setup CLI for Windows 11 // Collection of performance enhancements, system optimizations, and streamlined productivity tools—all wrapped in a sleek, modern design with an elegant a
 - [ignis-sh/ignis](https://github.com/ignis-sh/ignis) - A widget framework for building desktop shells, written and configurable in Python
@@ -309,6 +311,8 @@
 
 ## TypeScript 
 
+- [notzen3264/Zen](https://github.com/notzen3264/Zen) - (IN DEVELOPMENT) Zen is a clean & modern web proxy browser interface with a vertical tab management system DEMO LINK IS AVAILABLE BELOW
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [cohenerickson/Velocity](https://github.com/cohenerickson/Velocity) - Velocity is a fully featured tabbed proxy with a seamless browsing experience.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
