@@ -119,7 +119,7 @@
 - [FoxMoss/aboutproxy-wisp](https://github.com/FoxMoss/aboutproxy-wisp) - Chrome in your browser
 - [VyperGroup/astroid-assets](https://github.com/VyperGroup/astroid-assets) - All of astroids games assets
 - [isomorphic-git/cors-proxy](https://github.com/isomorphic-git/cors-proxy) - Proxy clone and push requests for the browser
-- [Dddatt/bss](https://github.com/Dddatt/bss) - My remake of Bee Swarm Simulator, as an HTML5 game.
+- [Dddatt/bss](https://github.com/Dddatt/bss) - A remake of Bee Swarm Simulator, as an HTML5/WebGL game.
 - [embr-dev/Blaze](https://github.com/embr-dev/Blaze) - A website downloader written with node.js.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -331,6 +331,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
