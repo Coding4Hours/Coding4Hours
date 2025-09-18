@@ -181,6 +181,7 @@
 - [titaniumnetwork-dev/Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous) - The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
 - [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
 - [rsa16/proxyhub](https://github.com/rsa16/proxyhub) - proxy things?
+- [ozh/cookieclicker](https://github.com/ozh/cookieclicker) - Cookie Clicker copy for, errrr, educational purpose.
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [DogeNetwork/dogeub](https://github.com/DogeNetwork/dogeub) - Version 5 is finally here!
