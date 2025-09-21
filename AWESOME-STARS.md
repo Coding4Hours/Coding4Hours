@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -28,6 +29,10 @@
 - [TypeScript](#typescript)
 - [Zig](#zig)
 
+## Astro 
+
+- [Bromine-Labs/Bromine](https://github.com/Bromine-Labs/Bromine) - Bromine is a minimal and clean proxy, made by Bromine Labs.
+
 ## C 
 
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
@@ -42,7 +47,6 @@
 ## C++ 
 
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 
 ## CSS 
 
@@ -249,6 +253,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [spextat0r/notepad11thief](https://github.com/spextat0r/notepad11thief) - Tool to exfiltrate and parse notepad tabstate files
 - [QuiteAFancyEmerald/Slate-Desktop-for-Windows-11](https://github.com/QuiteAFancyEmerald/Slate-Desktop-for-Windows-11) - Contemporary Ricing Setup CLI for Windows 11 // Collection of performance enhancements, system optimizations, and streamlined productivity tools—all wrapped in a sleek, modern design with an elegant a
