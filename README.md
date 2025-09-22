@@ -9,4 +9,4 @@ i use arch btw
 ![trophies](https://github-profile-trophy.vercel.app/?username=coding4hours&no-frame=true&row=1&&margin-w=20&no-bg=true)
 ![metrics](/github-metrics.svg)
 ![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=false&show_owner=true&theme=rose_pine)
-![more stats](https://github-readme-streak-stats.vercel.app/?user=Coding4hours&theme=rose_pine&hide_border=true)
+![more stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding4hours&theme=rose_pine&hide_border=true)
