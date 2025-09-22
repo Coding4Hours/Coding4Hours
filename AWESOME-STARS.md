@@ -188,7 +188,7 @@
 - [ozh/cookieclicker](https://github.com/ozh/cookieclicker) - Cookie Clicker copy for, errrr, educational purpose.
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
-- [DogeNetwork/dogeub](https://github.com/DogeNetwork/dogeub) - Version 5 is finally here!
+- [DogeNetwork/dogeub](https://github.com/DogeNetwork/dogeub) - Version 5 is finally here: Now with a better UI, and way more customizable. Unblock your favorite websites and surf the web privately now!
 - [smartfoloo/solarnova](https://github.com/smartfoloo/solarnova) - A statically deployable music player built with vanilla javascript. All songs belong to their respective owners.
 - [rxzyx/PopCat-Hack](https://github.com/rxzyx/PopCat-Hack) - The best hack for popcat.click
 - [Hydrogen-Network/Bookmarkletz](https://github.com/Hydrogen-Network/Bookmarkletz) - Bookmarklets for noobs
