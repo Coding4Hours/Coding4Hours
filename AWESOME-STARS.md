@@ -199,7 +199,7 @@
 
 ## Jupyter Notebook 
 
-- [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
+- [djb-gt/gpt-automated-web-scraper](https://github.com/djb-gt/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
 - [EdwinZhang1970/Python](https://github.com/EdwinZhang1970/Python) - Source code about Python Development
 
 ## Lua 
