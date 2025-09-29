@@ -93,7 +93,7 @@
 - [NRZT555/now.gg-roblox-in-browser](https://github.com/NRZT555/now.gg-roblox-in-browser) - ROBLOX in browser using a copy of now.gg's site.
 - [ORryz/school-bypasses](https://github.com/ORryz/school-bypasses) - School Bypasses that should work for blockers like Securly, iBoss, and GoGuardian. End internet censorship! (without using Holy Unblocker)
 - [Nebelung-Dev/Metallic-theme-maker](https://github.com/Nebelung-Dev/Metallic-theme-maker) - Have fun with it.
-- [stellarcase/chat-client](https://github.com/stellarcase/chat-client) - An extremely simple bare-bones chat client made using Express and Socket.io. Can be used as a starting point to extend the functionality of your chat client.
+- [qerionx/chat-client](https://github.com/qerionx/chat-client) - An extremely simple bare-bones chat client made using Express and Socket.io. Can be used as a starting point to extend the functionality of your chat client.
 - [DogeNetwork/worksheetsforteachers](https://github.com/DogeNetwork/worksheetsforteachers) - Fake educational website for spoofing
 - [Shploop/Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate).      https://05konz.github.io/Blooket-Cheats/
 - [pauljadam/bookmarklets](https://github.com/pauljadam/bookmarklets) - 
@@ -168,7 +168,7 @@
 - [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) - A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley:
 - [Dynamic-Interception-Proxy/DIP](https://github.com/Dynamic-Interception-Proxy/DIP) - 
 - [Ruby-Network/ruby](https://github.com/Ruby-Network/ruby) - Customizable, Free, And fast
-- [stellarcase/games](https://github.com/stellarcase/games) - games!
+- [qerionx/games](https://github.com/qerionx/games) - games!
 - [artem0/canvas-fingerprinting](https://github.com/artem0/canvas-fingerprinting) - POC of Canvas fingerprinting
 - [CybriaTech/CybriaGG](https://github.com/CybriaTech/CybriaGG) - 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 - [Deblok-Workshop/Webwin-old](https://github.com/Deblok-Workshop/Webwin-old) - A windows 10 port to the web browser.
