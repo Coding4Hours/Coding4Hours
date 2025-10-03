@@ -7,7 +7,7 @@
 <div align="center">
 
 ![trophies](https://github-readme-stats.vercel.app/api?username=coding4hours&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)
-![stats](https://nirzak-streak-stats.vercel.app/?user=coding4hours&theme=rose_pine&hide_border=true&card_width=420)
+![stats](https://nirzak-streak-stats.vercel.app/?user=coding4hours&theme=rose_pine&hide_border=true&card_width=400)
 ![metrics](/github-metrics.svg)
 
 ![profile view count](https://komarev.com/ghpvc/?username=Coding4Hours&style=for-the-badge)
