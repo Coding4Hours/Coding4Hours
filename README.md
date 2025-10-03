@@ -1,5 +1,6 @@
 <div align="center">
-  <h2>Coding4hours(<a href="https://coding4hours.is-a.dev">Website</a>)</h2>![views](https://komarev.com/ghpvc/?username=Coding4Hours)
+  <h2>Coding4hours(<a href="https://coding4hours.is-a.dev">Website</a>)</h2>
+  ![views](https://komarev.com/ghpvc/?username=Coding4Hours)
 
   <h6>Full Stack Developer, Arch User, Composer, Wannabe UI & UX Designer</h6>
 </div>
