@@ -2,7 +2,7 @@
 ###### Full Stack Developer, Arch User, Composer, Wannabe UI & UX Designer
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine)
+![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine&include_all_commits=true)
 ![more stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding4hours&theme=rose_pine&hide_border=true)
 ![metrics](/github-metrics.svg)
 
