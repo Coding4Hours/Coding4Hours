@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Coding4hours(<a href="https://coding4hours.is-a.dev">Website</a>)<img src="https://komarev.com/ghpvc/?username=Coding4Hours"/></h2>
+  <h2>Coding4hours(<a href="https://coding4hours.is-a.dev">Website</a>)<img src="https://komarev.com/ghpvc/?username=Coding4Hours&style=for-the-badge"/></h2>
   
   <h6>Full Stack Developer, Arch User, Composer, Wannabe UI & UX Designer</h6>
 </div>
