@@ -1,7 +1,8 @@
 <div align="center">
   <h2>Coding4hours</h2>
-  <h6>Full Stack Developer, Composer, Wannabe UI & UX Designer<h6>
-    <p>i use archbtw</p>
+  <h6>Full Stack Developer, Composer, Wannabe UI & UX Designer
+      <p>i use archbtw</p>
+<h6>
 </div>
 
 ![views](https://komarev.com/ghpvc/?username=Coding4Hours)
