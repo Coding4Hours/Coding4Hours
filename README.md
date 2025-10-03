@@ -6,7 +6,7 @@
 i use arch btw
 <br/>
 [Website](https://coding4hours.is-a.dev)
-![trophies](https://github-profile-trophy.vercel.app/?username=coding4hours&no-frame=true&row=1&&margin-w=20&no-bg=true)
-![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine)
+![trophies](https://github-profile-trophy.vercel.app/?username=coding4hours&no-frame=true&row=1&&margin-w=20&no-bg=true&card_width=423)
+![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine&card_width=419)
 ![more stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding4hours&theme=rose_pine&hide_border=true)
 ![metrics](/github-metrics.svg)
