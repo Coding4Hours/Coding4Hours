@@ -1,4 +1,4 @@
-## Coding4hours([Website](https://coding4hours.is-a.dev))
+## [Coding4hours](https://coding4hours.is-a.dev)
 ###### Full Stack Developer, Arch User, Composer, Wannabe UI & UX Designer
 
 ![metrics](/github-metrics.svg)
