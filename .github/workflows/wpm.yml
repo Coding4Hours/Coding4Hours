@@ -1,31 +1,70 @@
-name: Monkeytype PB
+name: Combined Workflows
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
   push:
     paths-ignore:
-      - '**.md'
-    branches:    
+      - "**.md"
+    branches:
       - main
-      
+
 jobs:
-  update-gist:
+
+  # -----------------------------
+  # 1. Used Programming Languages
+  # -----------------------------
+  language-box:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+
+      - name: Update Language Box Gist
+        run: npx github-lang-box@2
+        env:
+          GH_USERNAME: Coding4Hours
+          GIST_ID: 47db63fd3e1cb787b6f62274e1188c8b
+          GH_TOKEN: ${{ secrets.GOD }}
+
+  # -----------------------------
+  # 2. GitHub Metrics
+  # -----------------------------
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+
+  # -----------------------------
+  # 3. Monkeytype PB Image Updater
+  # -----------------------------
+  monkeytype-pb:
     runs-on: macos-latest
     steps:
-      - name: Clone
+      - name: Clone monkeytype-box repo
         run: |
           git clone https://github.com/artemnovichkov/monkeytype-box
 
-      - name: Update Gist
+      - name: Update Gist with Monkeytype PB
         working-directory: monkeytype-box
         run: |
           swift run MonkeytypeBox -o image.jpg
+
           git config user.name github-actions
           git config user.email github-actions@github.com
+
           git clone "https://user:${GH_TOKEN}@gist.github.com/${GIST_TOKEN}.git" gist
           mv image.jpg gist
           cd gist
+
           git add image.jpg
           if git diff --cached --quiet; then
             echo "No changes to commit."
