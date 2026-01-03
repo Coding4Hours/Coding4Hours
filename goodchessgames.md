@@ -1,8 +1,8 @@
 # my best  chess games
 - https://lichess.org/UcVrfA0LXfJf (im black)
 - https://lichess.org/YEnoqQ7N (also black)
-- https://www.chess.com/game/computer/481598381 (im white)
+- https://www.chess.com/game/computer/481598381 (im white 2 brilliants)
 - https://www.chess.com/game/computer/510213737 (im black)
 - https://www.chess.com/game/computer/510223349 ( im white)
-- https://www.chess.com/game/computer/147393679502 (im white)
-- https://www.chess.com/game/computer/513293213 (im white)
+- https://www.chess.com/game/computer/513293213 (im white 1 brilliant)
+- https://www.chess.com/game/computer/515814397 (im white 1 brilliant)
