@@ -6,3 +6,4 @@
 - https://www.chess.com/game/computer/510223349 ( im white)
 - https://www.chess.com/game/computer/513293213 (im white 1 brilliant)
 - https://www.chess.com/game/computer/515814397 (im white 1 brilliant)
+- https://www.chess.com/game/computer/516018343 (im white completely outplayed nelson)
