@@ -1,5 +1,5 @@
 ## [Coding4hours](https://coding4hours.is-a.dev)
-###### Full Stack Developer, Arch User, Composer, Wannabe UI & UX Designer
+###### Full Stack Dev, Arch User, Neovim User, Composer, Wannabe UI & UX Designer
 
 ![metrics](/github-metrics.svg)
 ![stats](https://github-readme-stats.vercel.app/api?username=Coding4hours&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine&include_all_commits=true)
