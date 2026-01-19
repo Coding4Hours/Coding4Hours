@@ -10,3 +10,4 @@
 - https://www.chess.com/game/computer/523947553 ( im white 1 brilliant in a loss)
 - https://www.chess.com/game/live/148065537270(im white 1 brilliant)
 - https://www.chess.com/game/live/148154027280(im white 1 brilliant)
+- https://www.chess.com/game/live/148227484970/ (im black 1 brilliant)
