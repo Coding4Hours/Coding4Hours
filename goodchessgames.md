@@ -12,3 +12,4 @@
 - https://www.chess.com/game/148154027280(im white 1 brilliant)
 - https://www.chess.com/game/148227484970/ (im black 1 brilliant)
 - https://www.chess.com/game/148401459040 (im white 1 brilliant sacrificed 12 points of material for a mate)
+- https://www.chess.com/game/148449623660 (im white 1 brilliant)
