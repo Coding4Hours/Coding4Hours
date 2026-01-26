@@ -1,4 +1,4 @@
-## [Coding4hours](https://coding4hours.is-a.dev)
+## [Coding4hours](https://tu4l.one/)
 ###### Full Stack Dev, Arch User, Neovim User, Composer, Wannabe UI & UX Designer
 
 ![metrics](/github-metrics.svg)
