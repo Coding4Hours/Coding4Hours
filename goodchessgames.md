@@ -16,4 +16,4 @@
 
 
 # cursed games
-- https://www.chess.com/game/14849649553 (the wierdest position ever
+- https://www.chess.com/game/14849649553 (the wierdest position ever)
