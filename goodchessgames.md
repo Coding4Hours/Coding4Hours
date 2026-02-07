@@ -14,7 +14,7 @@
 - https://www.chess.com/game/148401459040 (im white 1 brilliant sacrificed 12 points of material for a mate)
 - https://www.chess.com/game/148449623660 (im white 1 brilliant)
 - https://www.chess.com/game/148536139714 (im white 23 best 2 great 7 excellent sacrificed horse for a queen)
-
+- https://www.chess.com/game/164340159098 (im white sacrificed the horse for mate)
 
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
