@@ -16,7 +16,8 @@
 - https://www.chess.com/game/148536139714 (im white 23 best 2 great 7 excellent sacrificed horse for a queen)
 - https://www.chess.com/game/164340159098 (im white sacrificed the horse for mate)
 - https://www.chess.com/game/164472315788 ( sacrificed the rook twice! im white)
-- https://www.chess.com/game/164615778698 (im white sacrificed the bishop
+- https://www.chess.com/game/164615778698 (im white sacrificed the bishop)
+- https://www.chess.com/game/164690620712( DAH RUUUUK)
 
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
