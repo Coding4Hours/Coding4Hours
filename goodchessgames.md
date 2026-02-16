@@ -18,6 +18,7 @@
 - https://www.chess.com/game/164472315788 ( sacrificed the rook twice! im white)
 - https://www.chess.com/game/164615778698 (im white sacrificed the bishop)
 - https://www.chess.com/game/164690620712( DAH RUUUUK)
+- https://www.chess.com/game/164750244866 (sacrificed the bishop)
 
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
