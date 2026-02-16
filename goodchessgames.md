@@ -20,6 +20,7 @@
 - https://www.chess.com/game/164690620712( DAH RUUUUK)
 - https://www.chess.com/game/164750244866 (sacrificed the bishop)
 - https://www.chess.com/game/164750489478( the queen)
-- 
+- https://www.chess.com/game/164750890866 (the KNIGHT)
+
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
