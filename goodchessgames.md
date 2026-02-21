@@ -21,6 +21,7 @@
 - https://www.chess.com/game/164750244866 (sacrificed the bishop)
 - https://www.chess.com/game/164750489478( the queen)
 - https://www.chess.com/game/164750890866 (the KNIGHT)
+- https://www.chess.com/game/live/165017090166 ( this idiot actually fell for it lol)
 
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
