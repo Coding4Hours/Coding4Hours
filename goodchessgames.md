@@ -22,6 +22,7 @@
 - https://www.chess.com/game/164750489478( the queen)
 - https://www.chess.com/game/164750890866 (the KNIGHT)
 - https://www.chess.com/game/live/165017090166 ( this idiot actually fell for it lol)
+- https://www.chess.com/analysis/game/live/165305189962/ ( sacrifice the knight because we win the queenwith a possibility of sacrificing the other knight)
 
 # cursed games
 - https://www.chess.com/game/14849649553 (the wierdest position ever)
