@@ -11,7 +11,8 @@ on:
       - main
 
 jobs:
-  literally-everything:
+  # Job 1: Generate Metrics
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -19,7 +20,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-          
+          filename: metrics.svg # Explicitly naming it
+      
+      - name: Upload Metrics Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-svg
+          path: metrics.svg
+
+  # Job 2: Generate Stats Card
+  stats:
+    runs-on: ubuntu-latest
+    steps:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -27,11 +39,36 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&show_owner=true&theme=rose_pine&include_all_commits=true
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Upload Stats Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: stats-svg
+          path: stats.svg
 
-      - name: Commit cards
+  # Job 3: Collect everything and push
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [metrics, stats] # Only runs after the first two finish
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download Metrics
+        uses: actions/download-artifact@v4
+        with:
+          name: metrics-svg
+
+      - name: Download Stats
+        uses: actions/download-artifact@v4
+        with:
+          name: stats-svg
+
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add stats.svg
+          git add metrics.svg stats.svg
           git commit -m "Update README cards" || exit 0
           git push
