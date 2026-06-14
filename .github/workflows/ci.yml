@@ -29,7 +29,7 @@ jobs:
   # 3. Monkeytype PB Image Updater
   # -----------------------------
   monkeytype-pb:
-    runs-on: macos-latest
+    runs-on: macos-26
     steps:
       - name: Clone monkeytype-box repo
         run: |
