@@ -26,7 +26,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: metrics-svg
-          path: metrics.svg
+          path: github-metrics.svg
 
   # Job 2: Generate Stats Card
   stats:
@@ -69,6 +69,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add metrics.svg stats.svg
+          git add github-metrics.svg stats.svg
           git commit -m "Update README cards" || exit 0
           git push
